@@ -1,0 +1,1268 @@
+Winner,Toss Decision,Toss Winner,Won By,Result Method,Match No,Date,Year,Player Of Match,Team1,Team2,city,longitude,latitude
+Sri Lanka,field,Sri Lanka,Chase,Normal,1,2017-02-17,2017,DAS Gunaratne,Australia,Sri Lanka,Melbourne,144.9631608,-37.8142176
+Sri Lanka,field,Sri Lanka,Chase,Normal,2,2017-02-19,2017,DAS Gunaratne,Australia,Sri Lanka,Victoria,144.6780052,-36.5986096
+Australia,field,Sri Lanka,Defend,Normal,3,2017-02-22,2017,A Zampa,Australia,Sri Lanka,Adelaide,138.5999312,-34.9281805
+Hong Kong,bat,Hong Kong,Defend,Normal,4,2016-09-05,2016,None,Ireland,Hong Kong,Londonderry,-7.3213056,54.9978678
+Zimbabwe,field,India,Defend,Normal,5,2016-06-18,2016,E Chigumbura,Zimbabwe,India,Harare,31.045686,-17.831773
+India,bat,Zimbabwe,Chase,Normal,6,2016-06-20,2016,BB Sran,Zimbabwe,India,Harare,31.045686,-17.831773
+India,field,Zimbabwe,Defend,Normal,7,2016-06-22,2016,KM Jadhav,Zimbabwe,India,Harare,31.045686,-17.831773
+New Zealand,bat,Bangladesh,Chase,Normal,8,2017-01-03,2017,KS Williamson,New Zealand,Bangladesh,Napier,176.917839,-39.4902099
+New Zealand,field,Bangladesh,Defend,Normal,9,2017-01-06,2017,C Munro,New Zealand,Bangladesh,Mount Maunganui,176.1838841,-37.6380218
+New Zealand,field,Bangladesh,Defend,Normal,10,2017-01-08,2017,CJ Anderson,New Zealand,Bangladesh,Mount Maunganui,176.1838841,-37.6380218
+South Africa,field,New Zealand,Defend,Normal,11,2017-02-17,2017,Imran Tahir,New Zealand,South Africa,Auckland,174.7631803,-36.852095
+England,bat,South Africa,Chase,Normal,12,2017-06-21,2017,JM Bairstow,England,South Africa,Southampton,-1.404189,50.9025349
+South Africa,field,England,Defend,Normal,13,2017-06-23,2017,CH Morris,England,South Africa,Taunton,-3.1029086,51.0147895
+England,field,South Africa,Defend,Normal,14,2017-06-25,2017,DJ Malan,England,South Africa,Cardiff,-3.1791934,51.4816546
+West Indies,field,England,Defend,Normal,15,2017-09-16,2017,SP Narine,West Indies,England,Chester-le-Street,-1.5750431,54.8543237
+England,field,England,Chase,Normal,16,2017-01-26,2017,MM Ali,India,England,Kanpur,80.3217588,26.4609135
+India,field,England,Defend,Normal,17,2017-01-29,2017,JJ Bumrah,India,England,Nagpur,79.0820556,21.1498134
+India,field,England,Defend,Normal,18,2017-02-01,2017,YS Chahal,India,England,Bangalore,77.590082,12.9767936
+Afghanistan,bat,Ireland,Chase,Normal,19,2017-03-08,2017,Samiullah Shenwari,Afghanistan,Ireland,Greater Noida,77.5137649,28.4670734
+Afghanistan,bat,Afghanistan,Defend,D/L,20,2017-03-10,2017,Rashid Khan,Afghanistan,Ireland,Greater Noida,77.5137649,28.4670734
+Afghanistan,field,Ireland,Defend,Normal,21,2017-03-12,2017,Mohammad Nabi,Afghanistan,Ireland,Greater Noida,77.5137649,28.4670734
+West Indies,field,India,Defend,Normal,22,2016-08-27,2016,E Lewis,India,West Indies,Lauderhill,-80.2133808,26.1403635
+Tied,field,India,Chase,Normal,23,2016-08-28,2016,None,India,West Indies,Lauderhill,-80.2133808,26.1403635
+Pakistan,field,Pakistan,Chase,Normal,24,2016-09-23,2016,Imad Wasim,Pakistan,West Indies,Dubai,55.2924914,25.2653471
+Pakistan,field,West Indies,Defend,Normal,25,2016-09-24,2016,Sarfraz Ahmed,Pakistan,West Indies,Dubai,55.2924914,25.2653471
+Pakistan,field,Pakistan,Chase,Normal,26,2016-09-27,2016,Imad Wasim,Pakistan,West Indies,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,bat,Afghanistan,Defend,Normal,27,2016-12-14,2016,Karim Janat,United Arab Emirates,Afghanistan,Dubai,55.2924914,25.2653471
+Afghanistan,bat,United Arab Emirates,Chase,Normal,28,2016-12-16,2016,Najibullah Zadran,United Arab Emirates,Afghanistan,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Afghanistan,Defend,Normal,29,2016-12-18,2016,Rashid Khan,United Arab Emirates,Afghanistan,Dubai,55.2924914,25.2653471
+Australia,field,Australia,Chase,D/L,30,2018-02-03,2018,B Stanlake,New Zealand,Australia,Sydney,151.2164539,-33.8548157
+Australia,field,Australia,Chase,Normal,31,2018-02-07,2018,GJ Maxwell,England,Australia,Hobart,147.3281233,-42.8825088
+Australia,field,Australia,Chase,Normal,32,2018-02-10,2018,KW Richardson,England,Australia,Melbourne,144.9631608,-37.8142176
+New Zealand,field,England,Defend,Normal,33,2018-02-13,2018,KS Williamson,New Zealand,England,Wellington,174.7772114,-41.2887953
+Australia,bat,New Zealand,Chase,Normal,34,2018-02-16,2018,DJM Short,New Zealand,Australia,Auckland,174.7631803,-36.852095
+England,field,New Zealand,Defend,Normal,35,2018-02-18,2018,EJG Morgan,England,New Zealand,Hamilton,-79.8728583,43.2560802
+Australia,bat,New Zealand,Defend,D/L,36,2018-02-21,2018,AC Agar,New Zealand,Australia,Auckland,174.7631803,-36.852095
+Scotland,bat,Scotland,Defend,Normal,37,2017-01-14,2017,CS MacLeod,Hong Kong,Scotland,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,bat,Ireland,Chase,Normal,38,2017-01-14,2017,Mohammad Nabi,Afghanistan,Ireland,Abu Dhabi,54.3774014,24.4538352
+Netherlands,bat,Oman,Chase,Normal,39,2017-01-15,2017,MJG Rippon,Netherlands,Oman,Abu Dhabi,54.3774014,24.4538352
+Oman,field,Oman,Chase,Normal,40,2017-01-16,2017,Bilal Khan,Hong Kong,Oman,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,field,Afghanistan,Chase,Normal,41,2017-01-16,2017,Dawlat Zadran,United Arab Emirates,Afghanistan,Abu Dhabi,54.3774014,24.4538352
+Scotland,field,Netherlands,Defend,Normal,42,2017-01-17,2017,JH Davey,Netherlands,Scotland,Abu Dhabi,54.3774014,24.4538352
+Ireland,bat,Ireland,Defend,Normal,43,2017-01-18,2017,WB Rankin,United Arab Emirates,Ireland,Dubai,55.2924914,25.2653471
+Hong Kong,bat,Hong Kong,Defend,Normal,44,2017-01-18,2017,Anshuman Rath,Hong Kong,Netherlands,Dubai,55.2924914,25.2653471
+Scotland,bat,Oman,Chase,Normal,45,2017-01-19,2017,MH Cross,Oman,Scotland,Dubai,55.2924914,25.2653471
+Afghanistan,field,Afghanistan,Chase,Normal,46,2017-01-20,2017,Mohammad Shahzad,Afghanistan,Oman,Dubai,55.2924914,25.2653471
+Ireland,field,Scotland,Defend,Normal,47,2017-01-20,2017,GC Wilson,Ireland,Scotland,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Ireland,Chase,Normal,48,2017-01-20,2017,Mohammad Nabi,Afghanistan,Ireland,Dubai,55.2924914,25.2653471
+South Africa,bat,South Africa,Defend,Normal,49,2017-10-26,2017,AB de Villiers,South Africa,Bangladesh,Bloemfontein,26.215496,-29.116395
+South Africa,field,Bangladesh,Defend,Normal,50,2017-10-29,2017,DA Miller,South Africa,Bangladesh,Potchefstroom,27.1013887,-26.7150922
+Pakistan,field,Pakistan,Chase,Normal,51,2017-03-26,2017,Shadab Khan,West Indies,Pakistan,Barbados,-59.5250305,13.1500331
+Pakistan,field,West Indies,Defend,Normal,52,2017-03-30,2017,Shadab Khan,West Indies,Pakistan,Trinidad,-61.26130538878063,10.443024300000001
+Sri Lanka,bat,Bangladesh,Chase,Normal,53,2017-04-04,2017,MDKJ Perera,Sri Lanka,Bangladesh,Colombo,79.8541134,6.9387469
+Bangladesh,bat,Bangladesh,Defend,Normal,54,2017-04-06,2017,Shakib Al Hasan,Sri Lanka,Bangladesh,Colombo,79.8541134,6.9387469
+West Indies,bat,Pakistan,Chase,Normal,55,2017-04-01,2017,E Lewis,West Indies,Pakistan,Trinidad,-61.26130538878063,10.443024300000001
+Pakistan,field,Pakistan,Chase,Normal,56,2017-04-02,2017,Hasan Ali,West Indies,Pakistan,Trinidad,-61.26130538878063,10.443024300000001
+United Arab Emirates,field,United Arab Emirates,Chase,Normal,57,2017-04-12,2017,None,United Arab Emirates,Papua New Guinea,Abu Dhabi,54.3774014,24.4538352
+United Arab Emirates,field,Papua New Guinea,Defend,Normal,58,2017-04-14,2017,None,United Arab Emirates,Papua New Guinea,Abu Dhabi,54.3774014,24.4538352
+United Arab Emirates,bat,Papua New Guinea,Chase,Normal,59,2017-04-14,2017,None,United Arab Emirates,Papua New Guinea,Abu Dhabi,54.3774014,24.4538352
+West Indies,bat,Afghanistan,Chase,Normal,60,2017-06-02,2017,SP Narine,West Indies,Afghanistan,St Kitts,-62.74468058526273,17.31569295
+West Indies,bat,West Indies,Defend,D/L,61,2017-06-03,2017,KOK Williams,West Indies,Afghanistan,St Kitts,-62.74468058526273,17.31569295
+West Indies,bat,Afghanistan,Chase,Normal,62,2017-06-05,2017,MN Samuels,West Indies,Afghanistan,St Kitts,-62.74468058526273,17.31569295
+West Indies,field,West Indies,Chase,Normal,63,2017-07-09,2017,E Lewis,West Indies,India,Jamaica,-77.3947693,18.1850507
+India,field,India,Chase,Normal,64,2017-09-06,2017,V Kohli,Sri Lanka,India,Colombo,79.8541134,6.9387469
+New Zealand,field,West Indies,Defend,Normal,65,2017-12-29,2017,GD Phillips,New Zealand,West Indies,Nelson,173.2836756,-41.2710849
+Tied,field,West Indies,Chase,Normal,66,2018-01-01,2018,None,New Zealand,West Indies,Mount Maunganui,176.1838841,-37.6380218
+New Zealand,bat,New Zealand,Defend,Normal,67,2018-01-03,2018,C Munro,New Zealand,West Indies,Mount Maunganui,176.1838841,-37.6380218
+New Zealand,field,New Zealand,Chase,Normal,68,2018-01-22,2018,C Munro,Pakistan,New Zealand,Wellington,174.7772114,-41.2887953
+Pakistan,bat,Pakistan,Defend,Normal,69,2018-01-25,2018,Fakhar Zaman,Pakistan,New Zealand,Auckland,174.7631803,-36.852095
+Pakistan,bat,Pakistan,Defend,Normal,70,2018-01-28,2018,Shadab Khan,Pakistan,New Zealand,Mount Maunganui,176.1838841,-37.6380218
+Pakistan,field,ICC World XI,Defend,Normal,71,2017-09-12,2017,Babar Azam,Pakistan,ICC World XI,Lahore,74.3141829,31.5656822
+ICC World XI,bat,Pakistan,Chase,Normal,72,2017-09-13,2017,NLTC Perera,Pakistan,ICC World XI,Lahore,74.3141829,31.5656822
+Pakistan,field,ICC World XI,Defend,Normal,73,2017-09-15,2017,Ahmed Shehzad,Pakistan,ICC World XI,Lahore,74.3141829,31.5656822
+India,field,India,Chase,D/L,74,2017-10-07,2017,Kuldeep Yadav,Australia,India,Ranchi,85.3250387,23.3700501
+Australia,field,Australia,Chase,Normal,75,2017-10-10,2017,JP Behrendorff,India,Australia,Guwahati,91.753943,26.1805978
+England,field,Australia,Defend,Normal,76,2018-06-27,2018,AU Rashid,England,Australia,Birmingham,-1.9026911,52.4796992
+India,field,India,Chase,Normal,77,2018-07-03,2018,Kuldeep Yadav,England,India,Manchester,-2.2451148,53.4794892
+England,field,England,Chase,Normal,78,2018-07-06,2018,AD Hales,India,England,Cardiff,-3.1791934,51.4816546
+India,field,India,Chase,Normal,79,2018-07-08,2018,RG Sharma,England,India,Bristol,-2.5972985,51.4538022
+India,field,New Zealand,Defend,Normal,80,2017-11-01,2017,S Dhawan,India,New Zealand,Delhi,77.2219388,28.6517178
+New Zealand,bat,New Zealand,Defend,Normal,81,2017-11-04,2017,C Munro,New Zealand,India,Rajkot,70.8028377,22.3053263
+India,field,New Zealand,Defend,Normal,82,2017-11-07,2017,JJ Bumrah,India,New Zealand,Thiruvananthapuram,76.9360573,8.5241122
+Pakistan,field,Pakistan,Chase,Normal,83,2017-10-26,2017,Usman Shinwari,Sri Lanka,Pakistan,Abu Dhabi,54.3774014,24.4538352
+Pakistan,field,Pakistan,Chase,Normal,84,2017-10-27,2017,Shadab Khan,Sri Lanka,Pakistan,Abu Dhabi,54.3774014,24.4538352
+Pakistan,field,Sri Lanka,Defend,Normal,85,2017-10-29,2017,Shoaib Malik,Pakistan,Sri Lanka,Lahore,74.3141829,31.5656822
+India,field,South Africa,Defend,Normal,86,2018-02-18,2018,B Kumar,India,South Africa,Johannesburg,28.049722,-26.205
+South Africa,field,South Africa,Chase,Normal,87,2018-02-21,2018,H Klaasen,India,South Africa,Centurion,28.180278,-25.836389
+India,field,South Africa,Defend,Normal,88,2018-02-24,2018,SK Raina,India,South Africa,Cape Town,18.417396,-33.928992
+India,field,Sri Lanka,Defend,Normal,89,2017-12-20,2017,YS Chahal,India,Sri Lanka,Cuttack,85.8792,20.4686
+India,field,Sri Lanka,Defend,Normal,90,2017-12-22,2017,RG Sharma,India,Sri Lanka,Indore,75.8681996,22.7203616
+India,field,India,Chase,Normal,91,2017-12-24,2017,JD Unadkat,Sri Lanka,India,Mumbai,72.8773928,19.0759899
+Pakistan,bat,Pakistan,Defend,Normal,92,2018-06-12,2018,Sarfraz Ahmed,Pakistan,Scotland,Edinburgh,-3.1883749,55.9533456
+Pakistan,bat,Pakistan,Defend,Normal,93,2018-06-13,2018,Usman Shinwari,Pakistan,Scotland,Edinburgh,-3.1883749,55.9533456
+Sri Lanka,bat,Bangladesh,Chase,Normal,94,2018-02-15,2018,BKG Mendis,Bangladesh,Sri Lanka,Dhaka,90.21930545737357,23.8175925
+Sri Lanka,field,Bangladesh,Defend,Normal,95,2018-02-18,2018,BKG Mendis,Sri Lanka,Bangladesh,Sylhet,91.71773617004385,24.59107805
+Sri Lanka,field,Sri Lanka,Chase,Normal,96,2018-03-06,2018,MDKJ Perera,India,Sri Lanka,Colombo,79.8541134,6.9387469
+India,field,India,Chase,Normal,97,2018-03-08,2018,V Shankar,Bangladesh,India,Colombo,79.8541134,6.9387469
+Bangladesh,field,Bangladesh,Chase,Normal,98,2018-03-10,2018,Mushfiqur Rahim,Sri Lanka,Bangladesh,Colombo,79.8541134,6.9387469
+India,field,India,Chase,Normal,99,2018-03-12,2018,SN Thakur,Sri Lanka,India,Colombo,79.8541134,6.9387469
+India,field,Bangladesh,Defend,Normal,100,2018-03-14,2018,RG Sharma,India,Bangladesh,Colombo,79.8541134,6.9387469
+Bangladesh,field,Bangladesh,Chase,Normal,101,2018-03-16,2018,Mahmudullah,Sri Lanka,Bangladesh,Colombo,79.8541134,6.9387469
+India,field,India,Chase,Normal,102,2018-03-18,2018,KD Karthik,Bangladesh,India,Colombo,79.8541134,6.9387469
+Afghanistan,field,Afghanistan,Chase,Normal,103,2018-02-05,2018,Mohammad Nabi,Zimbabwe,Afghanistan,Sharjah,55.4210633,25.3461498
+Afghanistan,field,Zimbabwe,Defend,Normal,104,2018-02-06,2018,Mohammad Nabi,Afghanistan,Zimbabwe,Sharjah,55.4210633,25.3461498
+Pakistan,field,West Indies,Defend,Normal,105,2018-04-01,2018,Hussain Talat,Pakistan,West Indies,Karachi,67.0207055,24.8546842
+Pakistan,bat,Pakistan,Defend,Normal,106,2018-04-02,2018,Babar Azam,Pakistan,West Indies,Karachi,67.0207055,24.8546842
+Pakistan,bat,West Indies,Chase,Normal,107,2018-04-03,2018,Fakhar Zaman,West Indies,Pakistan,Karachi,67.0207055,24.8546842
+England,field,Sri Lanka,Defend,Normal,108,2018-10-27,2018,JL Denly,England,Sri Lanka,Colombo,79.8541134,6.9387469
+India,field,Ireland,Defend,Normal,109,2018-06-27,2018,Kuldeep Yadav,India,Ireland,Dublin,-6.2602732,53.3497645
+India,field,Ireland,Defend,Normal,110,2018-06-29,2018,KL Rahul,India,Ireland,Dublin,-6.2602732,53.3497645
+West Indies,field,ICC World XI,Defend,Normal,111,2018-05-31,2018,E Lewis,West Indies,ICC World XI,London,-0.1276474,51.5073219
+Tied,field,Nepal,Chase,Normal,112,2018-07-29,2018,None,Netherlands,Nepal,London,-0.1276474,51.5073219
+Netherlands,field,Ireland,Defend,Normal,113,2018-06-12,2018,None,Netherlands,Ireland,Rotterdam,4.47775,51.9244424
+Netherlands,bat,Ireland,Chase,Normal,114,2018-06-13,2018,None,Ireland,Netherlands,Rotterdam,4.47775,51.9244424
+Ireland,bat,Ireland,Defend,Normal,115,2018-06-16,2018,None,Ireland,Scotland,Deventer,6.236339604766698,52.2695736
+Tied,bat,Scotland,Chase,Normal,116,2018-06-17,2018,None,Scotland,Ireland,Deventer,6.236339604766698,52.2695736
+Scotland,bat,Netherlands,Chase,Normal,117,2018-06-19,2018,None,Netherlands,Scotland,Amstelveen,4.8467875,52.3025582
+Scotland,bat,Scotland,Defend,Normal,118,2018-06-20,2018,None,Scotland,Netherlands,Amstelveen,4.8467875,52.3025582
+Sri Lanka,bat,South Africa,Chase,Normal,119,2018-08-14,2018,DM de Silva,South Africa,Sri Lanka,Colombo,79.8541134,6.9387469
+Pakistan,field,Zimbabwe,Defend,Normal,120,2018-07-01,2018,Asif Ali,Pakistan,Zimbabwe,Harare,31.045686,-17.831773
+Australia,field,Australia,Chase,Normal,121,2018-07-02,2018,B Stanlake,Pakistan,Australia,Harare,31.045686,-17.831773
+Australia,field,Zimbabwe,Defend,Normal,122,2018-07-03,2018,AJ Finch,Australia,Zimbabwe,Harare,31.045686,-17.831773
+Pakistan,field,Pakistan,Chase,Normal,123,2018-07-04,2018,SF Mire,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Pakistan,field,Australia,Defend,Normal,124,2018-07-05,2018,Fakhar Zaman,Pakistan,Australia,Harare,31.045686,-17.831773
+Australia,bat,Zimbabwe,Chase,Normal,125,2018-07-06,2018,AJ Tye,Zimbabwe,Australia,Harare,31.045686,-17.831773
+Pakistan,bat,Australia,Chase,Normal,126,2018-07-08,2018,Fakhar Zaman,Australia,Pakistan,Harare,31.045686,-17.831773
+South Africa,bat,South Africa,Defend,Normal,127,2018-10-09,2018,Imran Tahir,South Africa,Zimbabwe,East London,27.8998573,-33.0191604
+South Africa,bat,Zimbabwe,Chase,Normal,128,2018-10-12,2018,D Paterson,Zimbabwe,South Africa,Potchefstroom,27.1013887,-26.7150922
+South Africa,field,Pakistan,Defend,Normal,129,2019-02-01,2019,DA Miller,South Africa,Pakistan,Cape Town,18.417396,-33.928992
+South Africa,field,Pakistan,Defend,Normal,130,2019-02-03,2019,DA Miller,South Africa,Pakistan,Johannesburg,28.049722,-26.205
+Pakistan,field,South Africa,Defend,Normal,131,2019-02-06,2019,Shadab Khan,South Africa,Pakistan,Centurion,28.180278,-25.836389
+Tied,field,South Africa,Chase,Normal,132,2019-03-19,2019,DA Miller,South Africa,Sri Lanka,Cape Town,18.417396,-33.928992
+South Africa,field,Sri Lanka,Defend,Normal,133,2019-03-22,2019,HE van der Dussen,South Africa,Sri Lanka,Centurion,28.180278,-25.836389
+South Africa,field,Sri Lanka,Defend,D/L,134,2019-03-24,2019,D Pretorius,South Africa,Sri Lanka,Johannesburg,28.049722,-26.205
+South Africa,field,Australia,Defend,Normal,135,2018-11-17,2018,T Shamsi,South Africa,Australia,Carrara,10.1023532,44.0791804
+Australia,field,India,Defend,D/L,136,2018-11-21,2018,A Zampa,Australia,India,Brisbane,153.0234991,-27.4689682
+Tied,field,India,Chase,Normal,137,2018-11-23,2018,None,Australia,India,Melbourne,144.9631608,-37.8142176
+India,bat,Australia,Chase,Normal,138,2018-11-25,2018,KH Pandya,Australia,India,Sydney,151.2164539,-33.8548157
+Afghanistan,bat,Bangladesh,Chase,Normal,139,2018-06-05,2018,Rashid Khan,Bangladesh,Afghanistan,Dehradun,78.0436813,30.3255646
+Afghanistan,bat,Afghanistan,Defend,Normal,140,2018-06-07,2018,Mushfiqur Rahim,Afghanistan,Bangladesh,Dehradun,78.0436813,30.3255646
+West Indies,field,West Indies,Chase,D/L,141,2018-07-31,2018,AD Russell,Bangladesh,West Indies,St Kitts,-62.74468058526273,17.31569295
+Bangladesh,field,West Indies,Defend,Normal,142,2018-08-04,2018,Tamim Iqbal,Bangladesh,West Indies,Lauderhill,-80.2133808,26.1403635
+Bangladesh,bat,Bangladesh,Defend,D/L,143,2018-08-05,2018,Liton Das,Bangladesh,West Indies,Lauderhill,-80.2133808,26.1403635
+Afghanistan,field,Ireland,Defend,Normal,144,2018-08-20,2018,None,Afghanistan,Ireland,Bready,-7.421508,54.9159733
+Afghanistan,bat,Afghanistan,Defend,Normal,145,2018-08-22,2018,None,Afghanistan,Ireland,Bready,-7.421508,54.9159733
+England,bat,Pakistan,Chase,Normal,146,2019-05-05,2019,EJG Morgan,England,Pakistan,Cardiff,-3.1791934,51.4816546
+West Indies,bat,Bangladesh,Chase,Normal,147,2018-12-17,2018,SS Cottrell,Bangladesh,West Indies,Sylhet,91.71773617004385,24.59107805
+Bangladesh,field,West Indies,Defend,Normal,148,2018-12-20,2018,Shakib Al Hasan,Bangladesh,West Indies,Dhaka,90.21930545737357,23.8175925
+West Indies,field,Bangladesh,Defend,Normal,149,2018-12-22,2018,E Lewis,Bangladesh,West Indies,Dhaka,90.21930545737357,23.8175925
+New Zealand,field,India,Defend,Normal,150,2019-02-06,2019,TL Seifert,New Zealand,India,Wellington,174.7772114,-41.2887953
+India,bat,New Zealand,Chase,Normal,151,2019-02-08,2019,KH Pandya,New Zealand,India,Auckland,174.7631803,-36.852095
+New Zealand,field,India,Defend,Normal,152,2019-02-10,2019,C Munro,New Zealand,India,Hamilton,-79.8728583,43.2560802
+New Zealand,field,Sri Lanka,Defend,Normal,153,2019-01-11,2019,DAJ Bracewell,New Zealand,Sri Lanka,Auckland,174.7631803,-36.852095
+Pakistan,field,Australia,Defend,Normal,154,2018-10-24,2018,Imad Wasim,Pakistan,Australia,Abu Dhabi,54.3774014,24.4538352
+Pakistan,bat,Pakistan,Defend,Normal,155,2018-10-26,2018,Imad Wasim,Pakistan,Australia,Dubai,55.2924914,25.2653471
+Pakistan,bat,Pakistan,Defend,Normal,156,2018-10-28,2018,Shadab Khan,Pakistan,Australia,Dubai,55.2924914,25.2653471
+Pakistan,bat,Pakistan,Defend,Normal,157,2018-10-31,2018,Mohammad Hafeez,Pakistan,New Zealand,Abu Dhabi,54.3774014,24.4538352
+Pakistan,bat,New Zealand,Chase,Normal,158,2018-11-02,2018,Shaheen Shah Afridi,New Zealand,Pakistan,Dubai,55.2924914,25.2653471
+Pakistan,bat,Pakistan,Defend,Normal,159,2018-11-04,2018,Babar Azam,Pakistan,New Zealand,Dubai,55.2924914,25.2653471
+India,field,India,Chase,Normal,160,2018-11-04,2018,Kuldeep Yadav,West Indies,India,Kolkata,88.35769124388872,22.5414185
+India,field,West Indies,Defend,Normal,161,2018-11-06,2018,RG Sharma,India,West Indies,Lucknow,80.9346001,26.8381
+India,bat,West Indies,Chase,Normal,162,2018-11-11,2018,S Dhawan,West Indies,India,Chennai,80.270186,13.0836939
+England,field,England,Chase,Normal,163,2019-03-05,2019,JM Bairstow,West Indies,England,Gros Islet,-60.9524988,14.0801333
+England,field,West Indies,Defend,Normal,164,2019-03-08,2019,SW Billings,West Indies,England,Basseterre,-62.722301,17.2960919
+England,bat,West Indies,Chase,Normal,165,2019-03-10,2019,DJ Willey,West Indies,England,Basseterre,-62.722301,17.2960919
+Australia,bat,United Arab Emirates,Chase,Normal,166,2018-10-22,2018,DJM Short,United Arab Emirates,Australia,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,bat,Ireland,Chase,Normal,167,2019-02-21,2019,Mohammad Nabi,Afghanistan,Ireland,Dehra Dun,78.0436813,30.3255646
+Afghanistan,bat,Afghanistan,Defend,Normal,168,2019-02-23,2019,Hazratullah,Afghanistan,Ireland,Dehra Dun,78.0436813,30.3255646
+Afghanistan,field,Ireland,Defend,Normal,169,2019-02-24,2019,Mohammad Nabi,Afghanistan,Ireland,Dehra Dun,78.0436813,30.3255646
+Australia,field,Australia,Chase,Normal,170,2019-02-24,2019,NM Coulter-Nile,India,Australia,Visakhapatnam,83.3012842,17.7231276
+Australia,field,Australia,Chase,Normal,171,2019-02-27,2019,GJ Maxwell,India,Australia,Bengaluru,77.590082,12.9767936
+Ireland,field,Ireland,Chase,D/L,172,2019-07-12,2019,None,Ireland,Zimbabwe,Bready,-7.421508,54.9159733
+Zimbabwe,field,Zimbabwe,Chase,Normal,173,2019-07-14,2019,None,Ireland,Zimbabwe,Derry,-7.3213056,54.9978678
+United Arab Emirates,field,Nepal,Defend,Normal,174,2019-01-31,2019,Shaiman Anwar,United Arab Emirates,Nepal,Dubai,55.2924914,25.2653471
+Nepal,bat,United Arab Emirates,Chase,Normal,175,2019-02-01,2019,DS Airee,United Arab Emirates,Nepal,Dubai,55.2924914,25.2653471
+Nepal,field,United Arab Emirates,Defend,Normal,176,2019-02-03,2019,Karan KC,United Arab Emirates,Nepal,Dubai,55.2924914,25.2653471
+Netherlands,field,Netherlands,Chase,Normal,177,2019-02-13,2019,TP Visee,Netherlands,Scotland,Al Amarat,58.5002366,23.5223356
+Ireland,field,Oman,Defend,Normal,178,2019-02-13,2019,PR Stirling,Oman,Ireland,Al Amarat,58.5002366,23.5223356
+Netherlands,field,Netherlands,Chase,Normal,179,2019-02-15,2019,RE van der Merwe,Oman,Netherlands,Al Amarat,58.5002366,23.5223356
+Scotland,field,Scotland,Chase,Normal,180,2019-02-15,2019,KJ Coetzer,Ireland,Scotland,Al Amarat,58.5002366,23.5223356
+Ireland,field,Ireland,Chase,Normal,181,2019-02-17,2019,A Balbirnie,Ireland,Netherlands,Al Amarat,58.5002366,23.5223356
+Scotland,field,Scotland,Chase,Normal,182,2019-02-17,2019,A Neill,Oman,Scotland,Al Amarat,58.5002366,23.5223356
+Papua New Guinea,field,Philippines,Defend,Normal,183,2019-03-22,2019,A Vala,Papua New Guinea,Philippines,Port Moresby,147.1599504,-9.4743301
+Papua New Guinea,bat,Vanuatu,Chase,Normal,184,2019-03-22,2019,TP Ura,Papua New Guinea,Vanuatu,Port Moresby,147.1599504,-9.4743301
+Vanuatu,bat,Vanuatu,Defend,Normal,185,2019-03-23,2019,None,Philippines,Vanuatu,Port Moresby,147.1599504,-9.4743301
+Tied,bat,Papua New Guinea,Chase,Normal,186,2019-03-23,2019,None,Papua New Guinea,Philippines,Port Moresby,147.1599504,-9.4743301
+Philippines,field,Vanuatu,Defend,Normal,187,2019-03-24,2019,DC Smith,Philippines,Vanuatu,Port Moresby,147.1599504,-9.4743301
+Papua New Guinea,bat,Vanuatu,Chase,Normal,188,2019-03-24,2019,L Siaka,Papua New Guinea,Vanuatu,Port Moresby,147.1599504,-9.4743301
+Tied,field,United Arab Emirates,Chase,Normal,189,2019-03-15,2019,None,United Arab Emirates,United States of America,Dubai,55.2924914,25.2653471
+United Arab Emirates,bat,United Arab Emirates,Defend,Normal,190,2019-03-16,2019,Shaiman Anwar,United Arab Emirates,United States of America,Dubai,55.2924914,25.2653471
+Italy,field,Italy,Chase,Normal,191,2019-05-25,2019,None,Germany,Italy,Utrecht,5.12768396945229,52.080985600000005
+Australia,field,Sri Lanka,Defend,Normal,192,2019-10-27,2019,DA Warner,Australia,Sri Lanka,Adelaide,138.5999312,-34.9281805
+Australia,bat,Sri Lanka,Chase,Normal,193,2019-10-30,2019,DA Warner,Australia,Sri Lanka,Brisbane,153.0234991,-27.4689682
+Australia,field,Australia,Chase,Normal,194,2019-11-01,2019,DA Warner,Australia,Sri Lanka,Melbourne,144.9631608,-37.8142176
+Tied,field,Australia,Chase,Normal,195,2019-11-03,2019,None,Australia,Pakistan,Sydney,151.2164539,-33.8548157
+Australia,bat,Pakistan,Chase,Normal,196,2019-11-05,2019,SPD Smith,Australia,Pakistan,Canberra,149.1012676,-35.2975906
+Australia,field,Australia,Chase,Normal,197,2019-11-08,2019,SA Abbott,Australia,Pakistan,Perth,115.8604796,-31.9527121
+Namibia,field,Namibia,Chase,Normal,198,2019-05-20,2019,SJ Baard,Ghana,Namibia,Kampala,32.5813539,0.3177137
+Uganda,field,Botswana,Defend,Normal,199,2019-05-20,2019,A Otwani,Uganda,Botswana,Kampala,32.5813539,0.3177137
+Kenya,field,Ghana,Defend,Normal,200,2019-05-21,2019,RR Patel,Ghana,Kenya,Kampala,32.5813539,0.3177137
+Namibia,bat,Namibia,Defend,Normal,201,2019-05-21,2019,K Birkenstock,Uganda,Namibia,Kampala,32.5813539,0.3177137
+Nigeria,bat,Nigeria,Defend,Normal,202,2019-05-21,2019,I Danladi,Botswana,Nigeria,Kampala,32.5813539,0.3177137
+Uganda,bat,Ghana,Chase,Normal,203,2019-05-23,2019,Riazat Ali Shah,Uganda,Ghana,Kampala,32.5813539,0.3177137
+Nigeria,field,Ghana,Defend,Normal,204,2019-05-22,2019,VD Adewoye,Ghana,Nigeria,Kampala,32.5813539,0.3177137
+Namibia,bat,Botswana,Chase,Normal,205,2019-05-22,2019,C Viljoen,Botswana,Namibia,Kampala,32.5813539,0.3177137
+Kenya,bat,Kenya,Defend,Normal,206,2019-05-22,2019,RR Patel,Uganda,Kenya,Kampala,32.5813539,0.3177137
+Germany,field,Germany,Chase,Normal,207,2019-06-15,2019,None,Guernsey,Germany,Castel,1.078860728088928,44.86923535
+Denmark,bat,Denmark,Defend,Normal,208,2019-06-17,2019,SA Ahmad,Denmark,Norway,Castel,1.078860728088928,44.86923535
+Jersey,field,Denmark,Defend,Normal,209,2019-06-16,2019,None,Denmark,Jersey,Castel,1.078860728088928,44.86923535
+Italy,field,Guernsey,Defend,Normal,210,2019-06-16,2019,None,Guernsey,Italy,St Peter Port,-2.5389979,49.4568142
+Jersey,bat,Jersey,Defend,Normal,211,2019-06-16,2019,BDH Stevens,Jersey,Norway,Castel,1.078860728088928,44.86923535
+Tied,field,Guernsey,Chase,Normal,212,2019-06-18,2019,None,Guernsey,Denmark,Castel,1.078860728088928,44.86923535
+Germany,field,Germany,Chase,Normal,213,2019-06-20,2019,CAJ Meschede,Germany,Norway,St Peter Port,-2.5389979,49.4568142
+Germany,field,Germany,Chase,Normal,214,2019-06-20,2019,B Ward,Germany,Jersey,St Peter Port,-2.5389979,49.4568142
+Guernsey,field,Guernsey,Chase,Normal,215,2019-06-19,2019,None,Guernsey,Norway,Castel,1.078860728088928,44.86923535
+Jersey,field,Italy,Defend,Normal,216,2019-06-19,2019,None,Italy,Jersey,St Peter Port,-2.5389979,49.4568142
+Germany,field,Germany,Chase,Normal,217,2019-06-19,2019,None,Denmark,Germany,Castel,1.078860728088928,44.86923535
+South Africa,field,England,Defend,Normal,218,2020-02-12,2020,L Ngidi,South Africa,England,East London,27.8998573,-33.0191604
+England,field,South Africa,Defend,Normal,219,2020-02-14,2020,MM Ali,South Africa,England,Durban,31.009909,-29.861825
+England,bat,South Africa,Chase,Normal,220,2020-02-16,2020,EJG Morgan,South Africa,England,Centurion,28.180278,-25.836389
+Australia,field,South Africa,Defend,Normal,221,2020-02-21,2020,AC Agar,South Africa,Australia,Johannesburg,28.049722,-26.205
+South Africa,bat,South Africa,Defend,Normal,222,2020-02-23,2020,Q de Kock,South Africa,Australia,Port Elizabeth,25.6207519,-33.9617051
+Australia,field,South Africa,Defend,Normal,223,2020-02-26,2020,MA Starc,South Africa,Australia,Cape Town,18.417396,-33.928992
+Malaysia,field,Malaysia,Chase,Normal,224,2019-06-24,2019,M Syahadat Ramli,Malaysia,Thailand,Kuala Lumpur,101.6942371,3.1516964
+Maldives,bat,Thailand,Chase,Normal,225,2019-06-26,2019,MNR Cooray,Maldives,Thailand,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Thailand,Chase,Normal,226,2019-06-27,2019,Anwar Rahman,Malaysia,Thailand,Kuala Lumpur,101.6942371,3.1516964
+Tied,bat,Malaysia,Chase,Normal,227,2019-06-28,2019,None,Malaysia,Maldives,Kuala Lumpur,101.6942371,3.1516964
+Thailand,field,Thailand,Chase,Normal,228,2019-06-29,2019,N Pathan,Maldives,Thailand,Kuala Lumpur,101.6942371,3.1516964
+India,field,India,Chase,Normal,229,2019-09-18,2019,V Kohli,India,South Africa,Chandigarh,76.7797143,30.7334421
+South Africa,bat,India,Chase,Normal,230,2019-09-22,2019,BE Hendricks,India,South Africa,Bengaluru,77.590082,12.9767936
+Bangladesh,field,Bangladesh,Chase,Normal,231,2019-11-03,2019,Mushfiqur Rahim,India,Bangladesh,Delhi,77.2219388,28.6517178
+India,field,India,Chase,Normal,232,2019-11-07,2019,RG Sharma,India,Bangladesh,Rajkot,70.8028377,22.3053263
+India,field,Bangladesh,Defend,Normal,233,2019-11-10,2019,DL Chahar,India,Bangladesh,Nagpur,79.0820556,21.1498134
+India,field,India,Chase,Normal,234,2019-12-06,2019,V Kohli,India,West Indies,Hyderabad,78.4740613,17.360589
+West Indies,field,West Indies,Chase,Normal,235,2019-12-08,2019,LMP Simmons,India,West Indies,Thiruvananthapuram,76.9360573,8.5241122
+India,field,West Indies,Defend,Normal,236,2019-12-11,2019,KL Rahul,India,West Indies,Mumbai,72.8773928,19.0759899
+England,field,England,Chase,Normal,237,2019-11-01,2019,JM Vince,New Zealand,England,Christchurch,172.6366455,-43.530955
+New Zealand,field,England,Defend,Normal,238,2019-11-03,2019,MJ Santner,New Zealand,England,Wellington,174.7772114,-41.2887953
+New Zealand,bat,New Zealand,Defend,Normal,239,2019-11-05,2019,C de Grandhomme,New Zealand,England,Nelson,173.2836756,-41.2710849
+England,field,New Zealand,Defend,Normal,240,2019-11-08,2019,DJ Malan,New Zealand,England,Napier,176.917839,-39.4902099
+Tied,field,England,Chase,Normal,241,2019-11-10,2019,JM Bairstow,New Zealand,England,Auckland,174.7631803,-36.852095
+India,field,India,Chase,Normal,242,2020-01-24,2020,SS Iyer,New Zealand,India,Auckland,174.7631803,-36.852095
+India,bat,New Zealand,Chase,Normal,243,2020-01-26,2020,KL Rahul,New Zealand,India,Auckland,174.7631803,-36.852095
+Tied,field,New Zealand,Chase,Normal,244,2020-01-29,2020,RG Sharma,New Zealand,India,Hamilton,-79.8728583,43.2560802
+Tied,field,New Zealand,Chase,Normal,245,2020-01-31,2020,SN Thakur,New Zealand,India,Wellington,174.7772114,-41.2887953
+India,bat,India,Defend,Normal,246,2020-02-02,2020,JJ Bumrah,New Zealand,India,Mount Maunganui,176.1838841,-37.6380218
+Netherlands,field,Zimbabwe,Defend,Normal,247,2019-06-23,2019,None,Netherlands,Zimbabwe,Rotterdam,4.47775,51.9244424
+Tied,bat,Netherlands,Chase,Normal,248,2019-06-25,2019,None,Netherlands,Zimbabwe,Rotterdam,4.47775,51.9244424
+India,field,India,Chase,Normal,249,2019-08-03,2019,Navdeep Saini,India,West Indies,Lauderhill,-80.2133808,26.1403635
+India,bat,India,Defend,D/L,250,2019-08-04,2019,KH Pandya,India,West Indies,Lauderhill,-80.2133808,26.1403635
+India,field,India,Chase,Normal,251,2019-08-06,2019,DL Chahar,West Indies,India,Providence,-71.4128343,41.8239891
+Guernsey,field,Denmark,Defend,Normal,252,2019-06-20,2019,ND Laegsgaard,Guernsey,Denmark,Castel,1.078860728088928,44.86923535
+Denmark,bat,Denmark,Defend,Normal,253,2019-06-20,2019,Zishan Shah,Denmark,Italy,Castel,1.078860728088928,44.86923535
+Singapore,bat,Singapore,Defend,Normal,254,2019-07-22,2019,Janak Prakash,Singapore,Qatar,Singapore,103.8194992,1.357107
+Malaysia,bat,Malaysia,Defend,Normal,255,2019-07-22,2019,Syed Aziz,Kuwait,Malaysia,Singapore,103.8194992,1.357107
+Qatar,bat,Nepal,Chase,Normal,256,2019-07-23,2019,Inam-ul-Haq,Nepal,Qatar,Singapore,103.8194992,1.357107
+Nepal,field,Nepal,Chase,Normal,257,2019-07-24,2019,G Malla,Malaysia,Nepal,Singapore,103.8194992,1.357107
+Kuwait,field,Qatar,Defend,Normal,258,2019-07-26,2019,Adnan Idrees,Kuwait,Qatar,Singapore,103.8194992,1.357107
+Singapore,bat,Malaysia,Chase,Normal,259,2019-07-26,2019,S Chandramohan,Singapore,Malaysia,Singapore,103.8194992,1.357107
+Nepal,field,Nepal,Chase,Normal,260,2019-07-27,2019,P Khadka,Kuwait,Nepal,Singapore,103.8194992,1.357107
+Qatar,bat,Malaysia,Chase,Normal,261,2019-07-27,2019,Nouman Sarwar,Malaysia,Qatar,Singapore,103.8194992,1.357107
+Singapore,bat,Singapore,Defend,Normal,262,2019-07-28,2019,TH David,Singapore,Nepal,Singapore,103.8194992,1.357107
+United Arab Emirates,field,United Arab Emirates,Chase,Normal,263,2019-08-05,2019,None,Netherlands,United Arab Emirates,Amstelveen,4.8467875,52.3025582
+United Arab Emirates,bat,Netherlands,Chase,Normal,264,2019-08-08,2019,None,Netherlands,United Arab Emirates,The Hague,4.3113461,52.0799838
+Nepal,bat,Malaysia,Chase,Normal,265,2019-07-13,2019,P Khadka,Malaysia,Nepal,Kuala Lumpur,101.6942371,3.1516964
+Nepal,bat,Nepal,Defend,Normal,266,2019-07-14,2019,B Bhandari,Malaysia,Nepal,Kuala Lumpur,101.6942371,3.1516964
+New Zealand,bat,Sri Lanka,Chase,Normal,267,2019-09-01,2019,LRPL Taylor,Sri Lanka,New Zealand,Kandy,80.6350768,7.2930922
+New Zealand,bat,Sri Lanka,Chase,Normal,268,2019-09-03,2019,TG Southee,Sri Lanka,New Zealand,Kandy,80.6350768,7.2930922
+Sri Lanka,bat,Sri Lanka,Defend,Normal,269,2019-09-06,2019,SL Malinga,Sri Lanka,New Zealand,Kandy,80.6350768,7.2930922
+West Indies,field,Afghanistan,Defend,Normal,270,2019-11-14,2019,KA Pollard,Afghanistan,West Indies,Lucknow,80.9346001,26.8381
+Afghanistan,bat,Afghanistan,Defend,Normal,271,2019-11-16,2019,Karim Janat,Afghanistan,West Indies,Lucknow,80.9346001,26.8381
+Afghanistan,bat,Afghanistan,Defend,Normal,272,2019-11-17,2019,Rahmanullah Gurbaz,Afghanistan,West Indies,Lucknow,80.9346001,26.8381
+Bangladesh,field,Bangladesh,Chase,Normal,273,2019-09-13,2019,Afif Hossain,Bangladesh,Zimbabwe,Dhaka,90.21930545737357,23.8175925
+Afghanistan,field,Zimbabwe,Defend,Normal,274,2019-09-14,2019,Najibullah Zadran,Afghanistan,Zimbabwe,Dhaka,90.21930545737357,23.8175925
+Afghanistan,bat,Afghanistan,Defend,Normal,275,2019-09-15,2019,Mohammad Nabi,Bangladesh,Afghanistan,Dhaka,90.21930545737357,23.8175925
+Bangladesh,field,Zimbabwe,Defend,Normal,276,2019-09-18,2019,Mahmudullah,Bangladesh,Zimbabwe,Chattogram,91.8260479,22.3364709
+Zimbabwe,bat,Afghanistan,Chase,Normal,277,2019-09-20,2019,CB Mpofu,Afghanistan,Zimbabwe,Chattogram,91.8260479,22.3364709
+Bangladesh,field,Bangladesh,Chase,Normal,278,2019-09-21,2019,Shakib Al Hasan,Bangladesh,Afghanistan,Chattogram,91.8260479,22.3364709
+Bermuda,bat,Bermuda,Defend,Normal,279,2019-08-18,2019,DMW Rawlins,Bermuda,United States of America,Hamilton,-79.8728583,43.2560802
+Canada,bat,Canada,Defend,Normal,280,2019-08-18,2019,Ravinderpal Singh,Canada,Cayman Islands,Hamilton,-79.8728583,43.2560802
+Tied,bat,Bermuda,Chase,Normal,281,2019-08-19,2019,None,Bermuda,Canada,Hamilton,-79.8728583,43.2560802
+United States of America,field,United States of America,Defend,D/L,282,2019-08-19,2019,None,Cayman Islands,United States of America,Hamilton,-79.8728583,43.2560802
+Bermuda,bat,Cayman Islands,Chase,Normal,283,2019-08-21,2019,None,Bermuda,Cayman Islands,Hamilton,-79.8728583,43.2560802
+Canada,bat,United States of America,Chase,Normal,284,2019-08-21,2019,NS Dhaliwal,Canada,United States of America,Hamilton,-79.8728583,43.2560802
+Canada,field,Canada,Chase,Normal,285,2019-08-22,2019,NS Dhaliwal,Canada,Cayman Islands,Hamilton,-79.8728583,43.2560802
+Bermuda,field,Bermuda,Chase,Normal,286,2019-08-22,2019,DAP Darrell,United States of America,Bermuda,Hamilton,-79.8728583,43.2560802
+United States of America,bat,Cayman Islands,Chase,Normal,287,2019-08-24,2019,SR Taylor,Cayman Islands,United States of America,Hamilton,-79.8728583,43.2560802
+Canada,field,United States of America,Defend,Normal,288,2019-08-25,2019,Ravinderpal Singh,Canada,United States of America,Hamilton,-79.8728583,43.2560802
+Bermuda,bat,Cayman Islands,Chase,Normal,289,2019-08-25,2019,AC Douglas,Bermuda,Cayman Islands,Hamilton,-79.8728583,43.2560802
+Namibia,field,Botswana,Defend,Normal,290,2019-08-19,2019,CG Williams,Namibia,Botswana,Windhoek,17.0790688,-22.5743922
+Namibia,field,Botswana,Defend,Normal,291,2019-08-20,2019,JP Kotze,Namibia,Botswana,Windhoek,17.0790688,-22.5743922
+Namibia,bat,Namibia,Defend,Normal,292,2019-08-22,2019,SJ Baard,Namibia,Botswana,Windhoek,17.0790688,-22.5743922
+Namibia,bat,Botswana,Chase,Normal,293,2019-08-23,2019,MG Erasmus,Namibia,Botswana,Windhoek,17.0790688,-22.5743922
+Ireland,field,Ireland,Chase,Normal,294,2019-10-05,2019,None,Ireland,Netherlands,Al Amarat,58.5002366,23.5223356
+Oman,field,Ireland,Defend,Normal,295,2019-10-06,2019,None,Oman,Ireland,Al Amarat,58.5002366,23.5223356
+Nepal,field,Nepal,Chase,Normal,296,2019-10-06,2019,None,Hong Kong,Nepal,Al Amarat,58.5002366,23.5223356
+Nepal,field,Nepal,Chase,Normal,297,2019-10-07,2019,None,Nepal,Netherlands,Al Amarat,58.5002366,23.5223356
+Ireland,bat,Ireland,Defend,Normal,298,2019-10-07,2019,None,Hong Kong,Ireland,Al Amarat,58.5002366,23.5223356
+Ireland,bat,Ireland,Defend,Normal,299,2019-10-09,2019,None,Ireland,Nepal,Al Amarat,58.5002366,23.5223356
+Oman,bat,Netherlands,Chase,Normal,300,2019-10-09,2019,None,Oman,Netherlands,Al Amarat,58.5002366,23.5223356
+Netherlands,field,Hong Kong,Defend,Normal,301,2019-10-10,2019,None,Hong Kong,Netherlands,Al Amarat,58.5002366,23.5223356
+Oman,field,Oman,Chase,Normal,302,2019-10-10,2019,None,Oman,Nepal,Al Amarat,58.5002366,23.5223356
+England,field,Australia,Defend,Normal,303,2020-09-04,2020,DJ Malan,England,Australia,Southampton,-1.404189,50.9025349
+England,bat,Australia,Chase,Normal,304,2020-09-06,2020,JC Buttler,Australia,England,Southampton,-1.404189,50.9025349
+Australia,field,Australia,Chase,Normal,305,2020-09-08,2020,MR Marsh,England,Australia,Southampton,-1.404189,50.9025349
+Tied,field,Pakistan,Chase,Normal,306,2020-08-28,2020,None,England,Pakistan,Manchester,-2.2451148,53.4794892
+England,field,England,Chase,Normal,307,2020-08-30,2020,EJG Morgan,Pakistan,England,Manchester,-2.2451148,53.4794892
+Pakistan,field,England,Defend,Normal,308,2020-09-01,2020,Mohammad Hafeez,Pakistan,England,Manchester,-2.2451148,53.4794892
+Sri Lanka,field,Pakistan,Defend,Normal,309,2019-10-05,2019,MD Gunathilaka,Pakistan,Sri Lanka,Lahore,74.3141829,31.5656822
+Sri Lanka,bat,Sri Lanka,Defend,Normal,310,2019-10-07,2019,PBB Rajapaksa,Pakistan,Sri Lanka,Lahore,74.3141829,31.5656822
+Sri Lanka,bat,Sri Lanka,Defend,Normal,311,2019-10-09,2019,PWH de Silva,Pakistan,Sri Lanka,Lahore,74.3141829,31.5656822
+Singapore,field,Scotland,Defend,Normal,312,2019-10-18,2019,S Vijayakumar,Scotland,Singapore,Dubai,55.2924914,25.2653471
+Ireland,bat,Hong Kong,Chase,Normal,313,2019-10-18,2019,PR Stirling,Hong Kong,Ireland,Abu Dhabi,54.3774014,24.4538352
+Netherlands,bat,Netherlands,Defend,Normal,314,2019-10-18,2019,MP O'Dowd,Kenya,Netherlands,Dubai,55.2924914,25.2653471
+Oman,field,Oman,Chase,Normal,315,2019-10-18,2019,Fayyaz Butt,United Arab Emirates,Oman,Abu Dhabi,54.3774014,24.4538352
+Papua New Guinea,field,Papua New Guinea,Chase,Normal,316,2019-10-19,2019,N Vanua,Bermuda,Papua New Guinea,Dubai,55.2924914,25.2653471
+Jersey,bat,Jersey,Defend,Normal,317,2019-10-19,2019,JW Jenner,Jersey,Nigeria,Abu Dhabi,54.3774014,24.4538352
+Netherlands,bat,Netherlands,Defend,Normal,318,2019-10-19,2019,RN ten Doeschate,Namibia,Netherlands,Dubai,55.2924914,25.2653471
+Scotland,bat,Scotland,Defend,Normal,319,2019-10-19,2019,RD Berrington,Kenya,Scotland,Dubai,55.2924914,25.2653471
+United Arab Emirates,field,United Arab Emirates,Chase,Normal,320,2019-10-19,2019,Rohan Mustafa,United Arab Emirates,Ireland,Abu Dhabi,54.3774014,24.4538352
+Papua New Guinea,bat,Papua New Guinea,Defend,Normal,321,2019-10-20,2019,A Vala,Namibia,Papua New Guinea,Dubai,55.2924914,25.2653471
+Canada,field,Jersey,Defend,Normal,322,2019-10-20,2019,NR Kumar,Canada,Jersey,Abu Dhabi,54.3774014,24.4538352
+Singapore,bat,Bermuda,Chase,Normal,323,2019-10-20,2019,NMS Param,Bermuda,Singapore,Dubai,55.2924914,25.2653471
+Oman,field,Oman,Chase,Normal,324,2019-10-20,2019,Aamir Kaleem,Hong Kong,Oman,Abu Dhabi,54.3774014,24.4538352
+Scotland,bat,Scotland,Defend,Normal,325,2019-10-21,2019,Hamza Tahir,Papua New Guinea,Scotland,Dubai,55.2924914,25.2653471
+United Arab Emirates,bat,Hong Kong,Chase,Normal,326,2019-10-21,2019,Rameez Shahzad,United Arab Emirates,Hong Kong,Abu Dhabi,54.3774014,24.4538352
+Ireland,field,Oman,Defend,Normal,327,2019-10-21,2019,GJ Delany,Ireland,Oman,Abu Dhabi,54.3774014,24.4538352
+Kenya,bat,Kenya,Defend,Normal,328,2019-10-21,2019,DM Gondaria,Bermuda,Kenya,Dubai,55.2924914,25.2653471
+Canada,bat,Canada,Defend,Normal,329,2019-10-21,2019,NR Kumar,Canada,Nigeria,Abu Dhabi,54.3774014,24.4538352
+Namibia,bat,Namibia,Defend,Normal,330,2019-10-22,2019,JJ Smit,Namibia,Scotland,Dubai,55.2924914,25.2653471
+Netherlands,bat,Singapore,Chase,Normal,331,2019-10-22,2019,RE van der Merwe,Netherlands,Singapore,Dubai,55.2924914,25.2653471
+Jersey,bat,Jersey,Defend,Normal,332,2019-10-22,2019,B Ward,United Arab Emirates,Jersey,Abu Dhabi,54.3774014,24.4538352
+Namibia,field,Namibia,Chase,Normal,333,2019-10-23,2019,BM Scholtz,Bermuda,Namibia,Dubai,55.2924914,25.2653471
+Oman,bat,Nigeria,Chase,Normal,334,2019-10-23,2019,Aamir Kaleem,Nigeria,Oman,Abu Dhabi,54.3774014,24.4538352
+Kenya,bat,Singapore,Chase,Normal,335,2019-10-23,2019,IA Karim,Kenya,Singapore,Dubai,55.2924914,25.2653471
+Canada,bat,Canada,Defend,Normal,336,2019-10-23,2019,NR Kumar,Canada,Ireland,Abu Dhabi,54.3774014,24.4538352
+Hong Kong,bat,Hong Kong,Defend,Normal,337,2019-10-23,2019,SS McKechnie,Hong Kong,Jersey,Abu Dhabi,54.3774014,24.4538352
+Papua New Guinea,bat,Netherlands,Chase,Normal,338,2019-10-24,2019,None,Netherlands,Papua New Guinea,Dubai,55.2924914,25.2653471
+United Arab Emirates,field,United Arab Emirates,Chase,Normal,339,2019-10-24,2019,Zawar Farid,United Arab Emirates,Nigeria,Abu Dhabi,54.3774014,24.4538352
+Hong Kong,bat,Hong Kong,Defend,Normal,340,2019-10-24,2019,KD Shah,Canada,Hong Kong,Abu Dhabi,54.3774014,24.4538352
+Scotland,field,Bermuda,Defend,Normal,341,2019-10-24,2019,CS MacLeod,Bermuda,Scotland,Dubai,55.2924914,25.2653471
+Papua New Guinea,field,Singapore,Defend,Normal,342,2019-10-25,2019,D Ravu,Papua New Guinea,Singapore,Dubai,55.2924914,25.2653471
+Ireland,field,Ireland,Chase,Normal,343,2019-10-25,2019,MR Adair,Ireland,Jersey,Abu Dhabi,54.3774014,24.4538352
+Namibia,bat,Namibia,Defend,Normal,344,2019-10-25,2019,MG Erasmus,Kenya,Namibia,Dubai,55.2924914,25.2653471
+Oman,bat,Canada,Chase,Normal,345,2019-10-25,2019,Jatinder Singh,Canada,Oman,Abu Dhabi,54.3774014,24.4538352
+Ireland,bat,Nigeria,Chase,Normal,346,2019-10-26,2019,CA Young,Ireland,Nigeria,Abu Dhabi,54.3774014,24.4538352
+Netherlands,bat,Netherlands,Defend,Normal,347,2019-10-26,2019,CN Ackermann,Bermuda,Netherlands,Dubai,55.2924914,25.2653471
+Namibia,field,Singapore,Defend,Normal,348,2019-10-26,2019,MG Erasmus,Namibia,Singapore,Dubai,55.2924914,25.2653471
+Papua New Guinea,field,Kenya,Defend,Normal,349,2019-10-27,2019,N Vanua,Kenya,Papua New Guinea,Dubai,55.2924914,25.2653471
+Hong Kong,bat,Nigeria,Chase,Normal,350,2019-10-27,2019,Mohammad Ghazanfar,Hong Kong,Nigeria,Abu Dhabi,54.3774014,24.4538352
+Jersey,field,Oman,Defend,Normal,351,2019-10-27,2019,None,Jersey,Oman,Abu Dhabi,54.3774014,24.4538352
+Netherlands,field,Netherlands,Chase,Normal,352,2019-10-27,2019,PM Seelaar,Netherlands,Scotland,Dubai,55.2924914,25.2653471
+United Arab Emirates,field,Canada,Defend,Normal,353,2019-10-27,2019,Muhammad Usman,United Arab Emirates,Canada,Abu Dhabi,54.3774014,24.4538352
+Netherlands,bat,United Arab Emirates,Chase,Normal,354,2019-10-29,2019,BD Glover,United Arab Emirates,Netherlands,Dubai,55.2924914,25.2653471
+Namibia,bat,Namibia,Defend,Normal,355,2019-10-29,2019,JJ Smit,Namibia,Oman,Dubai,55.2924914,25.2653471
+Scotland,bat,Scotland,Defend,Normal,356,2019-10-30,2019,HG Munsey,United Arab Emirates,Scotland,Dubai,55.2924914,25.2653471
+Oman,bat,Oman,Defend,Normal,357,2019-10-30,2019,Jatinder Singh,Hong Kong,Oman,Dubai,55.2924914,25.2653471
+Scotland,bat,Oman,Chase,Normal,358,2019-10-31,2019,MH Cross,Oman,Scotland,Dubai,55.2924914,25.2653471
+Netherlands,field,Ireland,Defend,Normal,359,2019-11-01,2019,RE van der Merwe,Ireland,Netherlands,Dubai,55.2924914,25.2653471
+Papua New Guinea,bat,Papua New Guinea,Defend,Normal,360,2019-11-01,2019,N Vanua,Namibia,Papua New Guinea,Dubai,55.2924914,25.2653471
+Ireland,bat,Ireland,Defend,Normal,361,2019-11-02,2019,Simi Singh,Ireland,Namibia,Dubai,55.2924914,25.2653471
+Netherlands,bat,Papua New Guinea,Chase,Normal,362,2019-11-02,2019,BD Glover,Netherlands,Papua New Guinea,Dubai,55.2924914,25.2653471
+Scotland,field,Netherlands,Defend,Normal,363,2019-09-16,2019,HG Munsey,Netherlands,Scotland,Dublin,-6.2602732,53.3497645
+Ireland,bat,Scotland,Chase,Normal,364,2019-09-17,2019,A Balbirnie,Ireland,Scotland,Dublin,-6.2602732,53.3497645
+Netherlands,bat,Ireland,Chase,Normal,365,2019-09-18,2019,BN Cooper,Ireland,Netherlands,Dublin,-6.2602732,53.3497645
+Scotland,bat,Netherlands,Chase,Normal,366,2019-09-19,2019,None,Netherlands,Scotland,Dublin,-6.2602732,53.3497645
+Spain,field,Spain,Chase,Normal,367,2019-10-25,2019,None,Spain,Portugal,Murcia,-1.1305431,37.9923795
+Portugal,bat,Gibraltar,Chase,Normal,368,2019-10-26,2019,None,Gibraltar,Portugal,Murcia,-1.1305431,37.9923795
+Spain,field,Spain,Chase,Normal,369,2019-10-26,2019,None,Spain,Gibraltar,Murcia,-1.1305431,37.9923795
+Spain,field,Portugal,Defend,Normal,370,2019-10-26,2019,None,Spain,Portugal,Murcia,-1.1305431,37.9923795
+Spain,field,Spain,Chase,Normal,371,2019-10-27,2019,None,Spain,Gibraltar,Murcia,-1.1305431,37.9923795
+Zimbabwe,bat,Nepal,Chase,Normal,372,2019-09-27,2019,R Mutumbami,Nepal,Zimbabwe,Singapore,103.8194992,1.357107
+Nepal,bat,Singapore,Chase,Normal,373,2019-09-28,2019,P Khadka,Singapore,Nepal,Singapore,103.8194992,1.357107
+Singapore,bat,Singapore,Defend,Normal,374,2019-09-29,2019,SC Williams,Singapore,Zimbabwe,Singapore,103.8194992,1.357107
+Zimbabwe,field,Nepal,Defend,Normal,375,2019-10-01,2019,SC Williams,Nepal,Zimbabwe,Singapore,103.8194992,1.357107
+Zimbabwe,field,Zimbabwe,Chase,Normal,376,2019-10-03,2019,PJ Moor,Singapore,Zimbabwe,Singapore,103.8194992,1.357107
+Vanuatu,bat,Vanuatu,Defend,Normal,377,2019-09-29,2019,J Rasu,Malaysia,Vanuatu,Kuala Lumpur,101.6942371,3.1516964
+Vanuatu,bat,Vanuatu,Defend,Normal,378,2019-10-02,2019,PK Matautaava,Malaysia,Vanuatu,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Malaysia,Defend,Normal,379,2019-10-02,2019,N Nipiko,Malaysia,Vanuatu,Kuala Lumpur,101.6942371,3.1516964
+Vanuatu,bat,Malaysia,Chase,Normal,380,2019-10-03,2019,J Rasu,Malaysia,Vanuatu,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Malaysia,Defend,Normal,381,2019-10-04,2019,Syed Aziz,Malaysia,Vanuatu,Kuala Lumpur,101.6942371,3.1516964
+India,field,India,Chase,Normal,382,2020-01-07,2020,Navdeep Saini,India,Sri Lanka,Indore,75.8681996,22.7203616
+India,field,Sri Lanka,Defend,Normal,383,2020-01-10,2020,SN Thakur,India,Sri Lanka,Pune,73.8544541,18.521428
+Ireland,bat,Ireland,Defend,Normal,384,2020-01-15,2020,PR Stirling,West Indies,Ireland,St George's,-61.751805,12.0535331
+Tied,field,West Indies,Chase,Normal,385,2020-01-18,2020,None,West Indies,Ireland,Basseterre,-62.722301,17.2960919
+West Indies,field,West Indies,Chase,Normal,386,2020-01-19,2020,LMP Simmons,West Indies,Ireland,Basseterre,-62.722301,17.2960919
+Spain,field,Spain,Chase,Normal,387,2020-03-08,2020,None,Spain,Germany,Almeria,-2.4628135,36.8414197
+Germany,field,Spain,Defend,Normal,388,2020-03-08,2020,None,Spain,Germany,Almeria,-2.4628135,36.8414197
+Nepal,field,Bhutan,Defend,Normal,389,2019-12-05,2019,G Malla,Nepal,Bhutan,Kirtipur,85.27621576795738,27.66765675
+Nepal,bat,Nepal,Defend,Normal,390,2019-12-06,2019,Karan KC,Nepal,Maldives,Kirtipur,85.27621576795738,27.66765675
+Maldives,field,Maldives,Chase,Normal,391,2019-12-07,2019,Ibrahim Hassan,Bhutan,Maldives,Kirtipur,85.27621576795738,27.66765675
+Nepal,field,Nepal,Chase,Normal,392,2019-12-09,2019,LN Rajbanshi,Nepal,Maldives,Kirtipur,85.27621576795738,27.66765675
+Pakistan,bat,Bangladesh,Chase,Normal,393,2020-01-24,2020,Shoaib Malik,Pakistan,Bangladesh,Lahore,74.3141829,31.5656822
+Pakistan,bat,Bangladesh,Chase,Normal,394,2020-01-25,2020,Babar Azam,Pakistan,Bangladesh,Lahore,74.3141829,31.5656822
+Bangladesh,field,Zimbabwe,Defend,Normal,395,2020-03-09,2020,Soumya Sarkar,Bangladesh,Zimbabwe,Dhaka,90.21930545737357,23.8175925
+Bangladesh,field,Bangladesh,Chase,Normal,396,2020-03-11,2020,Liton Das,Bangladesh,Zimbabwe,Dhaka,90.21930545737357,23.8175925
+Malaysia,bat,Malaysia,Defend,D/L,397,2020-02-20,2020,Khizar Hayat,Malaysia,Hong Kong,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Malaysia,Defend,Normal,398,2020-02-21,2020,Virandeep Singh,Malaysia,Hong Kong,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Malaysia,Defend,Normal,399,2020-02-23,2020,Ahmed Faiz,Malaysia,Hong Kong,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Malaysia,Defend,Normal,400,2020-02-24,2020,Virandeep Singh,Malaysia,Hong Kong,Kuala Lumpur,101.6942371,3.1516964
+Malaysia,bat,Hong Kong,Chase,Normal,401,2020-02-26,2020,KD Shah,Malaysia,Hong Kong,Kuala Lumpur,101.6942371,3.1516964
+Oman,field,Oman,Chase,Normal,402,2020-02-25,2020,Khawar Ali,Oman,Maldives,Al Amarat,58.5002366,23.5223356
+United Arab Emirates,bat,United Arab Emirates,Defend,Normal,403,2020-02-25,2020,Chirag Suri,Saudi Arabia,United Arab Emirates,Al Amarat,58.5002366,23.5223356
+Bahrain,bat,Qatar,Chase,Normal,404,2020-02-25,2020,Sarfaraz Ali,Bahrain,Qatar,Al Amarat,58.5002366,23.5223356
+Kuwait,field,Kuwait,Chase,Normal,405,2020-02-25,2020,MNM Aslam,Iran,Kuwait,Al Amarat,58.5002366,23.5223356
+Kuwait,field,Bahrain,Defend,Normal,406,2020-02-26,2020,R Sandaruwan,Kuwait,Bahrain,Al Amarat,58.5002366,23.5223356
+United Arab Emirates,bat,United Arab Emirates,Defend,Normal,407,2020-02-26,2020,Junaid Siddique,Qatar,United Arab Emirates,Al Amarat,58.5002366,23.5223356
+United Arab Emirates,field,Kuwait,Defend,Normal,408,2020-02-27,2020,Sultan Ahmed,Kuwait,United Arab Emirates,Al Amarat,58.5002366,23.5223356
+Afghanistan,bat,Ireland,Defend,D/L,409,2020-03-06,2020,Rashid Khan,Afghanistan,Ireland,Greater Noida,77.5137649,28.4670734
+Afghanistan,bat,Afghanistan,Defend,Normal,410,2020-03-08,2020,Mujeeb Ur Rahman,Afghanistan,Ireland,Greater Noida,77.5137649,28.4670734
+Tied,bat,Ireland,Chase,Normal,411,2020-03-10,2020,KJ O'Brien,Afghanistan,Ireland,Greater Noida,77.5137649,28.4670734
+Singapore,field,Thailand,Defend,Normal,412,2020-02-29,2020,Sidhant Singh,Thailand,Singapore,Bangkok,100.4934734,13.7525438
+Hong Kong,field,Nepal,Defend,Normal,413,2020-03-01,2020,Haroon Arshad,Hong Kong,Nepal,Bangkok,100.4934734,13.7525438
+Malaysia,bat,Thailand,Chase,Normal,414,2020-03-01,2020,Pavandeep Singh,Thailand,Malaysia,Bangkok,100.4934734,13.7525438
+Singapore,bat,Singapore,Defend,Normal,415,2020-03-03,2020,None,Malaysia,Singapore,Bangkok,100.4934734,13.7525438
+Hong Kong,bat,Thailand,Chase,Normal,416,2020-03-03,2020,None,Thailand,Hong Kong,Bangkok,100.4934734,13.7525438
+Nepal,bat,Thailand,Chase,Normal,417,2020-03-04,2020,Karan KC,Thailand,Nepal,Bangkok,100.4934734,13.7525438
+Singapore,bat,Singapore,Defend,Normal,418,2020-03-04,2020,Manpreet Singh,Hong Kong,Singapore,Bangkok,100.4934734,13.7525438
+Hong Kong,bat,Malaysia,Chase,Normal,419,2020-03-06,2020,None,Hong Kong,Malaysia,Bangkok,100.4934734,13.7525438
+India,field,Australia,Defend,Normal,420,2020-12-04,2020,YS Chahal,India,Australia,Canberra,149.1012676,-35.2975906
+India,field,India,Chase,Normal,421,2020-12-06,2020,HH Pandya,Australia,India,Sydney,151.2164539,-33.8548157
+Australia,field,India,Defend,Normal,422,2020-12-08,2020,MJ Swepson,Australia,India,Sydney,151.2164539,-33.8548157
+Belgium,bat,Belgium,Defend,Normal,423,2020-08-29,2020,None,Belgium,Luxembourg,Walferdange,6.1306387,49.6584806
+Belgium,bat,Belgium,Defend,Normal,424,2020-08-30,2020,None,Belgium,Czech Republic,Walferdange,6.1306387,49.6584806
+Belgium,bat,Belgium,Defend,Normal,425,2020-08-30,2020,None,Belgium,Luxembourg,Walferdange,6.1306387,49.6584806
+Guernsey,bat,Isle of Man,Chase,Normal,426,2020-08-21,2020,IDA Damarell,Isle of Man,Guernsey,St Peter Port,-2.5389979,49.4568142
+Pakistan,bat,Zimbabwe,Chase,Normal,427,2020-11-07,2020,Babar Azam,Zimbabwe,Pakistan,Rawalpindi,73.048136,33.6038766
+Pakistan,field,Pakistan,Chase,Normal,428,2020-11-08,2020,Haider Ali,Zimbabwe,Pakistan,Rawalpindi,73.048136,33.6038766
+Pakistan,bat,Zimbabwe,Chase,Normal,429,2020-11-10,2020,Usman Qadir,Zimbabwe,Pakistan,Rawalpindi,73.048136,33.6038766
+New Zealand,field,New Zealand,Chase,Normal,430,2020-11-27,2020,LH Ferguson,West Indies,New Zealand,Auckland,174.7631803,-36.852095
+New Zealand,field,West Indies,Defend,Normal,431,2020-11-29,2020,GD Phillips,New Zealand,West Indies,Mount Maunganui,176.1838841,-37.6380218
+Tied,field,New Zealand,Chase,Normal,432,2020-11-30,2020,None,West Indies,New Zealand,Mount Maunganui,176.1838841,-37.6380218
+New Zealand,bat,Pakistan,Chase,Normal,433,2020-12-18,2020,JA Duffy,Pakistan,New Zealand,Auckland,174.7631803,-36.852095
+New Zealand,bat,Pakistan,Chase,Normal,434,2020-12-20,2020,TG Southee,Pakistan,New Zealand,Hamilton,-79.8728583,43.2560802
+Pakistan,field,Pakistan,Chase,Normal,435,2020-12-22,2020,Mohammad Rizwan,New Zealand,Pakistan,Napier,176.917839,-39.4902099
+New Zealand,field,Australia,Defend,Normal,436,2021-02-22,2021,DP Conway,New Zealand,Australia,Christchurch,172.6366455,-43.530955
+New Zealand,field,Australia,Defend,Normal,437,2021-02-25,2021,MJ Guptill,New Zealand,Australia,Dunedin,170.5035755,-45.8740984
+Australia,field,New Zealand,Defend,Normal,438,2021-03-03,2021,AC Agar,Australia,New Zealand,Wellington,174.7772114,-41.2887953
+Australia,bat,Australia,Defend,Normal,439,2021-03-05,2021,AJ Finch,Australia,New Zealand,Wellington,174.7772114,-41.2887953
+New Zealand,bat,Australia,Chase,Normal,440,2021-03-07,2021,MJ Guptill,Australia,New Zealand,Wellington,174.7772114,-41.2887953
+New Zealand,bat,New Zealand,Defend,Normal,441,2021-03-28,2021,DP Conway,New Zealand,Bangladesh,Hamilton,-79.8728583,43.2560802
+New Zealand,field,Bangladesh,Defend,D/L,442,2021-03-30,2021,GD Phillips,New Zealand,Bangladesh,Napier,176.917839,-39.4902099
+New Zealand,field,Bangladesh,Defend,Normal,443,2021-04-01,2021,FH Allen,New Zealand,Bangladesh,Auckland,174.7631803,-36.852095
+Bulgaria,bat,Bulgaria,Defend,Normal,444,2020-10-16,2020,Bakhtiar Tahiri,Bulgaria,Romania,Moara,26.0678916,44.8332053
+Romania,bat,Romania,Defend,Normal,445,2020-10-17,2020,R Satheesan,Romania,Bulgaria,Moara,26.0678916,44.8332053
+Romania,bat,Bulgaria,Chase,Normal,446,2020-10-18,2020,S Vashisht,Bulgaria,Romania,Moara,26.0678916,44.8332053
+England,field,England,Chase,Normal,447,2020-11-27,2020,JM Bairstow,South Africa,England,Cape Town,18.417396,-33.928992
+England,field,England,Chase,Normal,448,2020-11-29,2020,DJ Malan,South Africa,England,Paarl,18.975,-33.741667
+England,bat,South Africa,Chase,Normal,449,2020-12-01,2020,DJ Malan,South Africa,England,Cape Town,18.417396,-33.928992
+Pakistan,field,England,Defend,Normal,450,2021-07-16,2021,Shaheen Shah Afridi,Pakistan,England,Nottingham,-1.1496461,52.9534193
+England,field,Pakistan,Defend,Normal,451,2021-07-18,2021,MM Ali,England,Pakistan,Leeds,-1.5437941,53.7974185
+England,bat,Pakistan,Chase,Normal,452,2021-07-20,2021,JJ Roy,Pakistan,England,Manchester,-2.2451148,53.4794892
+Pakistan,field,South Africa,Defend,Normal,453,2021-02-11,2021,Mohammad Rizwan,Pakistan,South Africa,Lahore,74.3141829,31.5656822
+South Africa,field,South Africa,Chase,Normal,454,2021-02-13,2021,D Pretorius,Pakistan,South Africa,Lahore,74.3141829,31.5656822
+Pakistan,field,Pakistan,Chase,Normal,455,2021-02-14,2021,Mohammad Nawaz (3),South Africa,Pakistan,Lahore,74.3141829,31.5656822
+England,field,England,Chase,Normal,456,2021-03-12,2021,JC Archer,India,England,Ahmedabad,72.5797068,23.0216238
+India,field,India,Chase,Normal,457,2021-03-14,2021,Ishan Kishan,England,India,Ahmedabad,72.5797068,23.0216238
+England,field,England,Chase,Normal,458,2021-03-16,2021,JC Buttler,India,England,Ahmedabad,72.5797068,23.0216238
+India,field,England,Defend,Normal,459,2021-03-18,2021,SA Yadav,India,England,Ahmedabad,72.5797068,23.0216238
+India,field,England,Defend,Normal,460,2021-03-20,2021,B Kumar,India,England,Ahmedabad,72.5797068,23.0216238
+England,bat,Sri Lanka,Chase,Normal,461,2021-06-23,2021,JC Buttler,Sri Lanka,England,Cardiff,-3.1791934,51.4816546
+England,bat,Sri Lanka,Chase,D/L,462,2021-06-24,2021,LS Livingstone,Sri Lanka,England,Cardiff,-3.1791934,51.4816546
+England,field,Sri Lanka,Defend,Normal,463,2021-06-26,2021,DJ Malan,England,Sri Lanka,Southampton,-1.404189,50.9025349
+Pakistan,bat,South Africa,Chase,Normal,464,2021-04-10,2021,Mohammad Rizwan,South Africa,Pakistan,Johannesburg,28.049722,-26.205
+South Africa,bat,Pakistan,Chase,Normal,465,2021-04-12,2021,GF Linde,Pakistan,South Africa,Johannesburg,28.049722,-26.205
+Pakistan,field,Pakistan,Chase,Normal,466,2021-04-14,2021,Babar Azam,South Africa,Pakistan,Centurion,28.180278,-25.836389
+Pakistan,field,Pakistan,Chase,Normal,467,2021-04-16,2021,Faheem Ashraf,South Africa,Pakistan,Centurion,28.180278,-25.836389
+South Africa,field,Ireland,Defend,Normal,468,2021-07-19,2021,T Shamsi,South Africa,Ireland,Dublin,-6.2602732,53.3497645
+South Africa,bat,South Africa,Defend,Normal,469,2021-07-22,2021,DA Miller,South Africa,Ireland,Belfast,-5.9301829,54.596391
+South Africa,bat,South Africa,Defend,Normal,470,2021-07-24,2021,T Bavuma,South Africa,Ireland,Belfast,-5.9301829,54.596391
+Afghanistan,field,Zimbabwe,Defend,Normal,471,2021-03-17,2021,Rahmanullah Gurbaz,Afghanistan,Zimbabwe,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,bat,Afghanistan,Defend,Normal,472,2021-03-19,2021,Mohammad Nabi,Afghanistan,Zimbabwe,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,bat,Afghanistan,Defend,Normal,473,2021-03-20,2021,Najibullah Zadran,Afghanistan,Zimbabwe,Abu Dhabi,54.3774014,24.4538352
+West Indies,field,West Indies,Chase,Normal,474,2021-03-03,2021,KA Pollard,Sri Lanka,West Indies,Coolidge,-102.0087927,38.0416798
+Sri Lanka,bat,Sri Lanka,Defend,Normal,475,2021-03-05,2021,PWH de Silva,Sri Lanka,West Indies,Coolidge,-102.0087927,38.0416798
+West Indies,bat,Sri Lanka,Chase,Normal,476,2021-03-07,2021,FA Allen,Sri Lanka,West Indies,Coolidge,-102.0087927,38.0416798
+Pakistan,field,Zimbabwe,Defend,Normal,477,2021-04-21,2021,Mohammad Rizwan,Pakistan,Zimbabwe,Harare,31.045686,-17.831773
+Zimbabwe,field,Pakistan,Defend,Normal,478,2021-04-23,2021,LM Jongwe,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Pakistan,bat,Pakistan,Defend,Normal,479,2021-04-25,2021,Hasan Ali,Pakistan,Zimbabwe,Harare,31.045686,-17.831773
+Namibia,bat,Uganda,Chase,Normal,480,2021-04-03,2021,MG Erasmus,Uganda,Namibia,Windhoek,17.0790688,-22.5743922
+Namibia,bat,Namibia,Defend,D/L,481,2021-04-05,2021,JJ Smit,Namibia,Uganda,Windhoek,17.0790688,-22.5743922
+Namibia,bat,Namibia,Defend,Normal,482,2021-04-05,2021,CG Williams,Namibia,Uganda,Windhoek,17.0790688,-22.5743922
+Nepal,field,Nepal,Chase,Normal,483,2021-04-17,2021,K Bhurtel,Netherlands,Nepal,Kirtipur,85.27621576795738,27.66765675
+Netherlands,bat,Netherlands,Defend,Normal,484,2021-04-18,2021,MP O'Dowd,Netherlands,Malaysia,Kirtipur,85.27621576795738,27.66765675
+Nepal,field,Nepal,Chase,Normal,485,2021-04-19,2021,Karan KC,Malaysia,Nepal,Kirtipur,85.27621576795738,27.66765675
+Netherlands,bat,Nepal,Chase,Normal,486,2021-04-20,2021,BFW de Leede,Nepal,Netherlands,Kirtipur,85.27621576795738,27.66765675
+Tied,field,Malaysia,Chase,D/L,487,2021-04-21,2021,TS Braat,Netherlands,Malaysia,Kirtipur,85.27621576795738,27.66765675
+Nepal,field,Malaysia,Defend,Normal,488,2021-04-22,2021,Sompal Kami,Nepal,Malaysia,Kirtipur,85.27621576795738,27.66765675
+Nepal,field,Netherlands,Defend,Normal,489,2021-04-24,2021,Karan KC,Nepal,Netherlands,Kirtipur,85.27621576795738,27.66765675
+India,field,Sri Lanka,Defend,Normal,490,2021-07-25,2021,B Kumar,India,Sri Lanka,Colombo,79.8541134,6.9387469
+Sri Lanka,field,Sri Lanka,Chase,Normal,491,2021-07-28,2021,DM de Silva,India,Sri Lanka,Colombo,79.8541134,6.9387469
+Sri Lanka,bat,India,Chase,Normal,492,2021-07-29,2021,PWH de Silva,India,Sri Lanka,Colombo,79.8541134,6.9387469
+West Indies,field,West Indies,Chase,Normal,493,2021-06-26,2021,E Lewis,South Africa,West Indies,St George's,-61.751805,12.0535331
+South Africa,field,West Indies,Defend,Normal,494,2021-06-27,2021,GF Linde,South Africa,West Indies,St George's,-61.751805,12.0535331
+South Africa,field,West Indies,Defend,Normal,495,2021-06-29,2021,T Shamsi,South Africa,West Indies,St George's,-61.751805,12.0535331
+West Indies,field,South Africa,Defend,Normal,496,2021-07-01,2021,KA Pollard,West Indies,South Africa,St George's,-61.751805,12.0535331
+South Africa,bat,South Africa,Defend,Normal,497,2021-07-03,2021,AK Markram,South Africa,West Indies,St George's,-61.751805,12.0535331
+West Indies,field,Australia,Defend,Normal,498,2021-07-09,2021,OC McCoy,West Indies,Australia,Gros Islet,-60.9524988,14.0801333
+West Indies,field,Australia,Defend,Normal,499,2021-07-10,2021,SO Hetmyer,West Indies,Australia,Gros Islet,-60.9524988,14.0801333
+West Indies,bat,Australia,Chase,Normal,500,2021-07-12,2021,CH Gayle,Australia,West Indies,Gros Islet,-60.9524988,14.0801333
+Australia,bat,Australia,Defend,Normal,501,2021-07-14,2021,MR Marsh,Australia,West Indies,Gros Islet,-60.9524988,14.0801333
+West Indies,bat,West Indies,Defend,Normal,502,2021-07-16,2021,E Lewis,West Indies,Australia,Gros Islet,-60.9524988,14.0801333
+Tied,field,Pakistan,Chase,Normal,503,2021-07-28,2021,None,West Indies,Pakistan,Bridgetown,-59.6184184,13.0977832
+Pakistan,field,West Indies,Defend,Normal,504,2021-07-31,2021,Mohammad Hafeez,Pakistan,West Indies,Providence,-71.4128343,41.8239891
+Tied,bat,West Indies,Chase,Normal,505,2021-08-01,2021,None,West Indies,Pakistan,Providence,-71.4128343,41.8239891
+Tied,field,Pakistan,Chase,Normal,506,2021-08-03,2021,None,West Indies,Pakistan,Providence,-71.4128343,41.8239891
+Czech Republic,field,Czech Republic,Chase,Normal,507,2021-05-21,2021,None,Luxembourg,Czech Republic,Prague,14.4212535,50.0874654
+Austria,field,Czech Republic,Defend,Normal,508,2021-05-22,2021,None,Austria,Czech Republic,Prague,14.4212535,50.0874654
+Luxembourg,field,Luxembourg,Chase,Normal,509,2021-05-22,2021,None,Czech Republic,Luxembourg,Prague,14.4212535,50.0874654
+Luxembourg,bat,Austria,Chase,Normal,510,2021-05-23,2021,None,Austria,Luxembourg,Prague,14.4212535,50.0874654
+Austria,bat,Czech Republic,Chase,D/L,511,2021-05-23,2021,None,Czech Republic,Austria,Prague,14.4212535,50.0874654
+Romania,bat,Greece,Chase,Normal,512,2021-06-24,2021,R Satheesan,Greece,Romania,Sofia,48.2562163,-15.2538402
+Greece,field,Greece,Chase,Normal,513,2021-06-25,2021,Aslam Mohammad,Serbia,Greece,Sofia,48.2562163,-15.2538402
+Romania,bat,Bulgaria,Chase,Normal,514,2021-06-25,2021,Taranjeet Singh,Bulgaria,Romania,Sofia,48.2562163,-15.2538402
+Romania,bat,Romania,Defend,Normal,515,2021-06-25,2021,S Thakur,Romania,Serbia,Sofia,48.2562163,-15.2538402
+Romania,bat,Serbia,Chase,Normal,516,2021-06-26,2021,Taranjeet Singh,Serbia,Romania,Sofia,48.2562163,-15.2538402
+Tied,field,Greece,Chase,Normal,517,2021-06-26,2021,None,Bulgaria,Greece,Sofia,48.2562163,-15.2538402
+Bangladesh,bat,Zimbabwe,Chase,Normal,518,2021-07-22,2021,Soumya Sarkar,Zimbabwe,Bangladesh,Harare,31.045686,-17.831773
+Zimbabwe,bat,Zimbabwe,Defend,Normal,519,2021-07-23,2021,W Madhevere,Zimbabwe,Bangladesh,Harare,31.045686,-17.831773
+Bangladesh,bat,Zimbabwe,Chase,Normal,520,2021-07-25,2021,Soumya Sarkar,Zimbabwe,Bangladesh,Harare,31.045686,-17.831773
+Malta,bat,Belgium,Chase,Normal,521,2021-07-08,2021,N Khanna,Belgium,Malta,Marsa,2.1413377291106706,42.8212484
+Belgium,bat,Malta,Chase,Normal,522,2021-07-08,2021,B Niaz,Malta,Belgium,Marsa,2.1413377291106706,42.8212484
+Belgium,field,Belgium,Chase,Normal,523,2021-07-09,2021,Sheraz Sheikh,Malta,Belgium,Marsa,2.1413377291106706,42.8212484
+Malta,bat,Belgium,Defend,Normal,524,2021-07-10,2021,Bilal Muhammad,Belgium,Malta,Marsa,2.1413377291106706,42.8212484
+Belgium,bat,Belgium,Defend,Normal,525,2021-07-10,2021,None,Belgium,Malta,Marsa,2.1413377291106706,42.8212484
+Bangladesh,field,Australia,Defend,Normal,526,2021-08-03,2021,Nasum Ahmed,Bangladesh,Australia,Dhaka,90.21930545737357,23.8175925
+Bangladesh,bat,Australia,Chase,Normal,527,2021-08-04,2021,Afif Hossain,Australia,Bangladesh,Dhaka,90.21930545737357,23.8175925
+Bangladesh,bat,Bangladesh,Defend,Normal,528,2021-08-06,2021,Mahmudullah,Bangladesh,Australia,Dhaka,90.21930545737357,23.8175925
+Australia,bat,Bangladesh,Chase,Normal,529,2021-08-07,2021,MJ Swepson,Bangladesh,Australia,Dhaka,90.21930545737357,23.8175925
+Bangladesh,bat,Bangladesh,Defend,Normal,530,2021-08-09,2021,Shakib Al Hasan,Bangladesh,Australia,Dhaka,90.21930545737357,23.8175925
+Germany,field,Germany,Chase,Normal,531,2021-08-05,2021,Ghulam Ahmadi,Norway,Germany,Krefeld,6.5623343,51.3331205
+France,field,France,Chase,Normal,532,2021-08-05,2021,S Santhirakumaran,Norway,France,Krefeld,6.5623343,51.3331205
+Germany,field,Germany,Chase,D/L,533,2021-08-06,2021,H Singh,France,Germany,Krefeld,6.5623343,51.3331205
+Germany,field,France,Defend,Normal,534,2021-08-07,2021,VB Chikkannaiah,Germany,France,Krefeld,6.5623343,51.3331205
+Norway,field,France,Defend,Normal,535,2021-08-07,2021,Sher Sahak,Norway,France,Krefeld,6.5623343,51.3331205
+Norway,field,Germany,Defend,Normal,536,2021-08-08,2021,Wahidullah Sahak,Norway,Germany,Krefeld,6.5623343,51.3331205
+Germany,bat,Norway,Chase,D/L,537,2021-08-08,2021,Sahir Naqash,Norway,Germany,Krefeld,6.5623343,51.3331205
+South Africa,bat,South Africa,Defend,Normal,538,2021-09-10,2021,AK Markram,South Africa,Sri Lanka,Colombo,79.8541134,6.9387469
+South Africa,bat,Sri Lanka,Chase,Normal,539,2021-09-12,2021,T Shamsi,Sri Lanka,South Africa,Colombo,79.8541134,6.9387469
+South Africa,bat,Sri Lanka,Chase,Normal,540,2021-09-14,2021,Q de Kock,Sri Lanka,South Africa,Colombo,79.8541134,6.9387469
+Bangladesh,bat,New Zealand,Chase,Normal,541,2021-09-01,2021,Shakib Al Hasan,New Zealand,Bangladesh,Dhaka,90.21930545737357,23.8175925
+Bangladesh,bat,Bangladesh,Defend,Normal,542,2021-09-03,2021,Mahmudullah,Bangladesh,New Zealand,Dhaka,90.21930545737357,23.8175925
+New Zealand,bat,New Zealand,Defend,Normal,543,2021-09-05,2021,AY Patel,New Zealand,Bangladesh,Dhaka,90.21930545737357,23.8175925
+Bangladesh,bat,New Zealand,Chase,Normal,544,2021-09-08,2021,Nasum Ahmed,New Zealand,Bangladesh,Dhaka,90.21930545737357,23.8175925
+New Zealand,bat,New Zealand,Defend,Normal,545,2021-09-10,2021,TWM Latham,New Zealand,Bangladesh,Dhaka,90.21930545737357,23.8175925
+Zimbabwe,field,Ireland,Defend,Normal,546,2021-08-27,2021,RW Chakabva,Zimbabwe,Ireland,Dublin,-6.2602732,53.3497645
+Ireland,bat,Zimbabwe,Chase,Normal,547,2021-08-29,2021,KJ O'Brien,Zimbabwe,Ireland,Dublin,-6.2602732,53.3497645
+Ireland,field,Zimbabwe,Defend,Normal,548,2021-09-01,2021,PR Stirling,Ireland,Zimbabwe,Bready,-7.421508,54.9159733
+Ireland,field,Zimbabwe,Defend,Normal,549,2021-09-02,2021,MR Adair,Ireland,Zimbabwe,Bready,-7.421508,54.9159733
+Zimbabwe,bat,Zimbabwe,Defend,Normal,550,2021-09-04,2021,CR Ervine,Zimbabwe,Ireland,Bready,-7.421508,54.9159733
+Sweden,field,Sweden,Chase,Normal,551,2021-08-14,2021,HAM Shah,Denmark,Sweden,Brondby,12.4217135,55.644111
+Denmark,field,Denmark,Chase,Normal,552,2021-08-15,2021,T Bharaj,Sweden,Denmark,Brondby,12.4217135,55.644111
+Malta,field,Malta,Chase,Normal,553,2021-08-20,2021,Washeem Abbas,Gibraltar,Malta,Albergaria,-8.1549379,40.1366322
+Portugal,field,Gibraltar,Defend,Normal,554,2021-08-21,2021,Azhar Andani,Portugal,Gibraltar,Albergaria,-8.1549379,40.1366322
+Malta,field,Gibraltar,Defend,Normal,555,2021-08-21,2021,VP Thamotharam,Malta,Gibraltar,Albergaria,-8.1549379,40.1366322
+Portugal,field,Gibraltar,Defend,Normal,556,2021-08-22,2021,Azhar Andani,Portugal,Gibraltar,Albergaria,-8.1549379,40.1366322
+Rwanda,bat,Ghana,Chase,Normal,557,2021-08-18,2021,None,Ghana,Rwanda,Kigali City,30.1296751,-1.8859597
+Rwanda,field,Ghana,Defend,Normal,558,2021-08-20,2021,Z Bimenyimana,Rwanda,Ghana,Kigali City,30.1296751,-1.8859597
+Ghana,bat,Ghana,Chase,Awarded,559,2021-08-20,2021,R Bakum,Ghana,Rwanda,Kigali City,30.1296751,-1.8859597
+Ghana,bat,Rwanda,Chase,Normal,560,2021-08-21,2021,Amoluk Singh,Rwanda,Ghana,Kigali City,30.1296751,-1.8859597
+Finland,bat,Sweden,Chase,Normal,561,2021-08-21,2021,None,Sweden,Finland,Kerava,25.1041013,60.4034398
+Finland,bat,Sweden,Chase,Normal,562,2021-08-21,2021,None,Sweden,Finland,Kerava,25.1041013,60.4034398
+Sweden,field,Sweden,Chase,D/L,563,2021-08-22,2021,None,Finland,Sweden,Kerava,25.1041013,60.4034398
+Sweden,field,Sweden,Chase,Normal,564,2021-08-22,2021,None,Finland,Sweden,Kerava,25.1041013,60.4034398
+Scotland,bat,Scotland,Defend,Normal,565,2021-09-15,2021,None,Scotland,Zimbabwe,Edinburgh,-3.1883749,55.9533456
+Zimbabwe,bat,Zimbabwe,Defend,Normal,566,2021-09-17,2021,None,Zimbabwe,Scotland,Edinburgh,-3.1883749,55.9533456
+Zimbabwe,bat,Scotland,Chase,Normal,567,2021-09-19,2021,None,Scotland,Zimbabwe,Edinburgh,-3.1883749,55.9533456
+Oman,field,Oman,Chase,Normal,568,2021-10-17,2021,Zeeshan Maqsood,Papua New Guinea,Oman,Al Amarat,58.5002366,23.5223356
+Scotland,field,Bangladesh,Defend,Normal,569,2021-10-17,2021,CN Greaves,Scotland,Bangladesh,Al Amarat,58.5002366,23.5223356
+Ireland,bat,Netherlands,Chase,Normal,570,2021-10-18,2021,C Campher,Netherlands,Ireland,Abu Dhabi,54.3774014,24.4538352
+Sri Lanka,field,Sri Lanka,Chase,Normal,571,2021-10-18,2021,M Theekshana,Namibia,Sri Lanka,Abu Dhabi,54.3774014,24.4538352
+Scotland,bat,Scotland,Defend,Normal,572,2021-10-19,2021,RD Berrington,Scotland,Papua New Guinea,Al Amarat,58.5002366,23.5223356
+Bangladesh,bat,Bangladesh,Defend,Normal,573,2021-10-19,2021,Shakib Al Hasan,Bangladesh,Oman,Al Amarat,58.5002366,23.5223356
+Namibia,field,Namibia,Chase,Normal,574,2021-10-20,2021,D Wiese,Netherlands,Namibia,Abu Dhabi,54.3774014,24.4538352
+Sri Lanka,field,Ireland,Defend,Normal,575,2021-10-20,2021,PWH de Silva,Sri Lanka,Ireland,Abu Dhabi,54.3774014,24.4538352
+Bangladesh,bat,Bangladesh,Defend,Normal,576,2021-10-21,2021,Shakib Al Hasan,Bangladesh,Papua New Guinea,Al Amarat,58.5002366,23.5223356
+Scotland,bat,Oman,Chase,Normal,577,2021-10-21,2021,JH Davey,Oman,Scotland,Al Amarat,58.5002366,23.5223356
+Namibia,bat,Ireland,Chase,Normal,578,2021-10-22,2021,D Wiese,Ireland,Namibia,Sharjah,55.4210633,25.3461498
+Sri Lanka,field,Sri Lanka,Chase,Normal,579,2021-10-22,2021,CBRLS Kumara,Netherlands,Sri Lanka,Sharjah,55.4210633,25.3461498
+Australia,field,Australia,Chase,Normal,580,2021-10-23,2021,JR Hazlewood,South Africa,Australia,Abu Dhabi,54.3774014,24.4538352
+England,field,England,Chase,Normal,581,2021-10-23,2021,MM Ali,West Indies,England,Dubai,55.2924914,25.2653471
+Sri Lanka,field,Sri Lanka,Chase,Normal,582,2021-10-24,2021,KIC Asalanka,Bangladesh,Sri Lanka,Sharjah,55.4210633,25.3461498
+Pakistan,field,Pakistan,Chase,Normal,583,2021-10-24,2021,Shaheen Shah Afridi,India,Pakistan,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Afghanistan,Defend,Normal,584,2021-10-25,2021,Mujeeb Ur Rahman,Afghanistan,Scotland,Sharjah,55.4210633,25.3461498
+South Africa,field,South Africa,Chase,Normal,585,2021-10-26,2021,A Nortje,West Indies,South Africa,Dubai,55.2924914,25.2653471
+Pakistan,field,Pakistan,Chase,Normal,586,2021-10-26,2021,Haris Rauf,New Zealand,Pakistan,Sharjah,55.4210633,25.3461498
+England,bat,Bangladesh,Chase,Normal,587,2021-10-27,2021,JJ Roy,Bangladesh,England,Abu Dhabi,54.3774014,24.4538352
+Namibia,field,Namibia,Chase,Normal,588,2021-10-27,2021,R Trumpelmann,Scotland,Namibia,Abu Dhabi,54.3774014,24.4538352
+Australia,field,Australia,Chase,Normal,589,2021-10-28,2021,A Zampa,Sri Lanka,Australia,Dubai,55.2924914,25.2653471
+West Indies,field,Bangladesh,Defend,Normal,590,2021-10-29,2021,N Pooran,West Indies,Bangladesh,Sharjah,55.4210633,25.3461498
+Pakistan,bat,Afghanistan,Chase,Normal,591,2021-10-29,2021,Asif Ali,Afghanistan,Pakistan,Dubai,55.2924914,25.2653471
+South Africa,field,South Africa,Chase,Normal,592,2021-10-30,2021,T Shamsi,Sri Lanka,South Africa,Sharjah,55.4210633,25.3461498
+England,field,England,Chase,Normal,593,2021-10-30,2021,CJ Jordan,Australia,England,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Afghanistan,Defend,Normal,594,2021-10-31,2021,Naveen-ul-Haq,Afghanistan,Namibia,Abu Dhabi,54.3774014,24.4538352
+New Zealand,field,New Zealand,Chase,Normal,595,2021-10-31,2021,IS Sodhi,India,New Zealand,Dubai,55.2924914,25.2653471
+England,field,Sri Lanka,Defend,Normal,596,2021-11-01,2021,JC Buttler,England,Sri Lanka,Sharjah,55.4210633,25.3461498
+South Africa,field,South Africa,Chase,Normal,597,2021-11-02,2021,K Rabada,Bangladesh,South Africa,Abu Dhabi,54.3774014,24.4538352
+Pakistan,bat,Pakistan,Defend,Normal,598,2021-11-02,2021,Mohammad Rizwan,Pakistan,Namibia,Abu Dhabi,54.3774014,24.4538352
+New Zealand,field,Scotland,Defend,Normal,599,2021-11-03,2021,MJ Guptill,New Zealand,Scotland,Dubai,55.2924914,25.2653471
+India,field,Afghanistan,Defend,Normal,600,2021-11-03,2021,RG Sharma,India,Afghanistan,Abu Dhabi,54.3774014,24.4538352
+Australia,field,Australia,Chase,Normal,601,2021-11-04,2021,A Zampa,Bangladesh,Australia,Dubai,55.2924914,25.2653471
+Sri Lanka,field,West Indies,Defend,Normal,602,2021-11-04,2021,KIC Asalanka,Sri Lanka,West Indies,Abu Dhabi,54.3774014,24.4538352
+New Zealand,field,Namibia,Defend,Normal,603,2021-11-05,2021,JDS Neesham,New Zealand,Namibia,Sharjah,55.4210633,25.3461498
+India,field,India,Chase,Normal,604,2021-11-05,2021,RA Jadeja,Scotland,India,Dubai,55.2924914,25.2653471
+Australia,field,Australia,Chase,Normal,605,2021-11-06,2021,DA Warner,West Indies,Australia,Abu Dhabi,54.3774014,24.4538352
+South Africa,field,England,Defend,Normal,606,2021-11-06,2021,HE van der Dussen,South Africa,England,Sharjah,55.4210633,25.3461498
+New Zealand,bat,Afghanistan,Chase,Normal,607,2021-11-07,2021,TA Boult,Afghanistan,New Zealand,Abu Dhabi,54.3774014,24.4538352
+Pakistan,bat,Pakistan,Defend,Normal,608,2021-11-07,2021,Shoaib Malik,Pakistan,Scotland,Sharjah,55.4210633,25.3461498
+India,field,India,Chase,Normal,609,2021-11-08,2021,RA Jadeja,Namibia,India,Dubai,55.2924914,25.2653471
+New Zealand,field,New Zealand,Chase,Normal,610,2021-11-10,2021,DJ Mitchell,England,New Zealand,Abu Dhabi,54.3774014,24.4538352
+Australia,field,Australia,Chase,Normal,611,2021-11-11,2021,MS Wade,Pakistan,Australia,Dubai,55.2924914,25.2653471
+Australia,field,Australia,Chase,Normal,612,2021-11-14,2021,MR Marsh,New Zealand,Australia,Dubai,55.2924914,25.2653471
+Kenya,bat,Nigeria,Chase,Normal,613,2021-09-11,2021,None,Nigeria,Kenya,Entebbe,32.4698564,0.0611715
+Uganda,bat,Uganda,Defend,Normal,614,2021-09-11,2021,None,Uganda,Nigeria,Entebbe,32.4698564,0.0611715
+Kenya,bat,Kenya,Defend,Normal,615,2021-09-13,2021,IA Karim,Kenya,Nigeria,Entebbe,32.4698564,0.0611715
+Uganda,bat,Nigeria,Chase,Normal,616,2021-09-13,2021,None,Nigeria,Uganda,Entebbe,32.4698564,0.0611715
+Kenya,bat,Kenya,Defend,Normal,617,2021-09-10,2021,None,Kenya,Uganda,Entebbe,32.4698564,0.0611715
+Nigeria,bat,Nigeria,Defend,D/L,618,2021-09-16,2021,JO Adedeji,Nigeria,Kenya,Entebbe,32.4698564,0.0611715
+Uganda,bat,Uganda,Defend,Normal,619,2021-09-15,2021,JO Adedeji,Uganda,Nigeria,Entebbe,32.4698564,0.0611715
+Uganda,bat,Uganda,Defend,Normal,620,2021-09-17,2021,F Akankwasa,Uganda,Kenya,Entebbe,32.4698564,0.0611715
+Germany,field,Germany,Chase,Normal,621,2021-09-10,2021,None,Spain,Germany,Almeria,-2.4628135,36.8414197
+Spain,bat,Germany,Chase,Normal,622,2021-09-11,2021,None,Germany,Spain,Almeria,-2.4628135,36.8414197
+Spain,field,Spain,Chase,Normal,623,2021-09-11,2021,None,Germany,Spain,Almeria,-2.4628135,36.8414197
+Romania,bat,Romania,Defend,Normal,624,2021-09-03,2021,Sami Ullah,Romania,Czech Republic,Ilfov County,,
+Luxembourg,field,Bulgaria,Defend,Normal,625,2021-09-02,2021,TC Barker,Luxembourg,Bulgaria,Ilfov County,,
+Hungary,field,Czech Republic,Defend,Normal,626,2021-09-02,2021,Zeeshan Kukikhel,Hungary,Czech Republic,Ilfov County,,
+Malta,bat,Bulgaria,Chase,Normal,627,2021-09-03,2021,Bilal Muhammad,Bulgaria,Malta,Ilfov County,,
+Romania,bat,Romania,Defend,Normal,628,2021-09-03,2021,Asif Bevinje,Romania,Hungary,Ilfov County,,
+Luxembourg,field,Hungary,Defend,Normal,629,2021-09-04,2021,None,Luxembourg,Hungary,Ilfov County,,
+Romania,field,Malta,Defend,Normal,630,2021-09-04,2021,Taranjeet Singh,Romania,Malta,Ilfov County,,
+Hungary,field,Hungary,Chase,Normal,631,2021-09-05,2021,Zeeshan Kukikhel,Malta,Hungary,Ilfov County,,
+Romania,bat,Romania,Defend,Normal,632,2021-09-05,2021,Asif Bevinje,Romania,Luxembourg,Ilfov County,,
+Pakistan,bat,Bangladesh,Chase,Normal,633,2021-11-19,2021,Hasan Ali,Bangladesh,Pakistan,Dhaka,90.21930545737357,23.8175925
+Pakistan,bat,Bangladesh,Chase,Normal,634,2021-11-20,2021,Fakhar Zaman,Bangladesh,Pakistan,Dhaka,90.21930545737357,23.8175925
+Pakistan,bat,Bangladesh,Chase,Normal,635,2021-11-22,2021,Haider Ali,Bangladesh,Pakistan,Dhaka,90.21930545737357,23.8175925
+India,field,India,Chase,Normal,636,2021-11-17,2021,SA Yadav,New Zealand,India,Jaipur,75.8189817,26.9154576
+India,field,India,Chase,Normal,637,2021-11-19,2021,HV Patel,New Zealand,India,Ranchi,85.3250387,23.3700501
+India,bat,India,Defend,Normal,638,2021-11-21,2021,AR Patel,India,New Zealand,Kolkata,88.35769124388872,22.5414185
+Cyprus,field,Cyprus,Chase,Normal,639,2021-10-05,2021,Tejwinder Singh,Estonia,Cyprus,Episkopi,32.9018553,34.6704337
+Cyprus,bat,Estonia,Chase,Normal,640,2021-10-05,2021,Gurpratap Singh,Estonia,Cyprus,Episkopi,32.9018553,34.6704337
+Isle of Man,bat,Cyprus,Chase,Normal,641,2021-10-06,2021,None,Cyprus,Isle of Man,Episkopi,32.9018553,34.6704337
+Isle of Man,bat,Estonia,Chase,Normal,642,2021-10-06,2021,None,Estonia,Isle of Man,Episkopi,32.9018553,34.6704337
+Isle of Man,field,Isle of Man,Chase,Normal,643,2021-10-07,2021,Gurpratap Singh,Cyprus,Isle of Man,Episkopi,32.9018553,34.6704337
+Cyprus,bat,Cyprus,Defend,Normal,644,2021-10-08,2021,Zeeshan Sarwar,Cyprus,Estonia,Episkopi,32.9018553,34.6704337
+Isle of Man,field,Isle of Man,Chase,Normal,645,2021-10-08,2021,J Butler,Estonia,Isle of Man,Episkopi,32.9018553,34.6704337
+Namibia,field,United Arab Emirates,Defend,Normal,646,2021-10-05,2021,JN Frylinck,Namibia,United Arab Emirates,Dubai,55.2924914,25.2653471
+Namibia,field,Namibia,Chase,Normal,647,2021-10-09,2021,CG Williams,Scotland,Namibia,Dubai,55.2924914,25.2653471
+Namibia,field,Papua New Guinea,Defend,Normal,648,2021-10-10,2021,None,Namibia,Papua New Guinea,Dubai,55.2924914,25.2653471
+Ireland,bat,United Arab Emirates,Chase,Normal,649,2021-10-07,2021,None,United Arab Emirates,Ireland,Dubai,55.2924914,25.2653471
+United Arab Emirates,field,Ireland,Defend,Normal,650,2021-10-08,2021,KP Meiyappan,United Arab Emirates,Ireland,Dubai,55.2924914,25.2653471
+United Arab Emirates,field,United Arab Emirates,Chase,Normal,651,2021-10-10,2021,Waseem Muhammad,Ireland,United Arab Emirates,Dubai,55.2924914,25.2653471
+Scotland,bat,Papua New Guinea,Chase,Normal,652,2021-10-08,2021,HG Munsey,Papua New Guinea,Scotland,Dubai,55.2924914,25.2653471
+Malta,bat,Malta,Defend,Normal,653,2021-10-21,2021,HS Gericke,Malta,Gibraltar,Marsa,2.1413377291106706,42.8212484
+Switzerland,bat,Gibraltar,Chase,Normal,654,2021-10-22,2021,Osama Mahmood,Gibraltar,Switzerland,Marsa,2.1413377291106706,42.8212484
+Switzerland,bat,Bulgaria,Chase,Normal,655,2021-10-22,2021,NK Aneesh Kumar,Bulgaria,Switzerland,Marsa,2.1413377291106706,42.8212484
+Switzerland,bat,Switzerland,Defend,Normal,656,2021-10-23,2021,None,Switzerland,Malta,Marsa,2.1413377291106706,42.8212484
+Bulgaria,bat,Gibraltar,Chase,Normal,657,2021-10-24,2021,H Lakov,Gibraltar,Bulgaria,Marsa,2.1413377291106706,42.8212484
+Malta,bat,Malta,Defend,Normal,658,2021-10-24,2021,VP Thamotharam,Malta,Switzerland,Marsa,2.1413377291106706,42.8212484
+Jersey,field,Germany,Defend,Normal,659,2021-10-15,2021,H Carlyon,Jersey,Germany,Almeria,-2.4628135,36.8414197
+Italy,bat,Denmark,Chase,Normal,660,2021-10-15,2021,GP Meade,Denmark,Italy,Almeria,-2.4628135,36.8414197
+Germany,bat,Denmark,Chase,Normal,661,2021-10-16,2021,Faisal Mubashir,Denmark,Germany,Almeria,-2.4628135,36.8414197
+Jersey,bat,Jersey,Defend,Normal,662,2021-10-16,2021,B Ward,Jersey,Italy,Almeria,-2.4628135,36.8414197
+Jersey,field,Denmark,Defend,Normal,663,2021-10-17,2021,CW Perchard,Jersey,Denmark,Almeria,-2.4628135,36.8414197
+Germany,bat,Italy,Chase,Normal,664,2021-10-17,2021,DA Blignaut,Italy,Germany,Almeria,-2.4628135,36.8414197
+Italy,field,Denmark,Defend,Normal,665,2021-10-19,2021,G Stewart,Italy,Denmark,Almeria,-2.4628135,36.8414197
+Jersey,bat,Germany,Chase,Normal,666,2021-10-19,2021,B Ward,Germany,Jersey,Almeria,-2.4628135,36.8414197
+Jersey,field,Jersey,Chase,Normal,667,2021-10-20,2021,H Carlyon,Italy,Jersey,Almeria,-2.4628135,36.8414197
+Germany,field,Denmark,Defend,Normal,668,2021-10-20,2021,MJ Richardson,Germany,Denmark,Almeria,-2.4628135,36.8414197
+Italy,field,Germany,Defend,Normal,669,2021-10-21,2021,D Klein,Italy,Germany,Almeria,-2.4628135,36.8414197
+Jersey,bat,Denmark,Chase,Normal,670,2021-10-21,2021,JW Jenner,Denmark,Jersey,Almeria,-2.4628135,36.8414197
+Ghana,field,Ghana,Chase,Normal,671,2021-10-16,2021,SK Awiah,Rwanda,Ghana,Kigali City,30.1296751,-1.8859597
+Swaziland,bat,Swaziland,Defend,Normal,672,2021-10-16,2021,Muhammad Amin,Swaziland,Lesotho,Kigali City,30.1296751,-1.8859597
+Ghana,bat,Seychelles,Chase,Normal,673,2021-10-16,2021,KS Bagabena,Seychelles,Ghana,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Malawi,Chase,Normal,674,2021-10-16,2021,S Sesazi,Malawi,Uganda,Kigali City,30.1296751,-1.8859597
+Seychelles,field,Seychelles,Chase,Normal,675,2021-10-17,2021,N Krishna,Lesotho,Seychelles,Kigali City,30.1296751,-1.8859597
+Malawi,field,Malawi,Chase,Normal,676,2021-10-17,2021,MA Baig,Swaziland,Malawi,Kigali City,30.1296751,-1.8859597
+Ghana,bat,Ghana,Defend,Normal,677,2021-10-17,2021,R Bakum,Ghana,Lesotho,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Uganda,Defend,Normal,678,2021-10-17,2021,None,Uganda,Rwanda,Kigali City,30.1296751,-1.8859597
+Ghana,field,Ghana,Chase,Normal,679,2021-10-19,2021,DK Anefie,Malawi,Ghana,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Lesotho,Chase,Normal,680,2021-10-19,2021,DM Nakrani,Lesotho,Uganda,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Swaziland,Chase,Normal,681,2021-10-19,2021,F Nsubuga,Swaziland,Uganda,Kigali City,30.1296751,-1.8859597
+Malawi,bat,Malawi,Defend,Normal,682,2021-10-20,2021,Sami Sohail,Malawi,Seychelles,Kigali City,30.1296751,-1.8859597
+Ghana,field,Ghana,Chase,Normal,683,2021-10-20,2021,OH Agbomadzie,Swaziland,Ghana,Kigali City,30.1296751,-1.8859597
+Seychelles,bat,Swaziland,Chase,Normal,684,2021-10-20,2021,SKDT Madusanka,Swaziland,Seychelles,Kigali City,30.1296751,-1.8859597
+Rwanda,bat,Rwanda,Defend,Normal,685,2021-10-21,2021,E Sebareme,Rwanda,Lesotho,Kigali City,30.1296751,-1.8859597
+Uganda,field,Ghana,Defend,Normal,686,2021-10-21,2021,DM Nakrani,Uganda,Ghana,Kigali City,30.1296751,-1.8859597
+Rwanda,bat,Swaziland,Chase,Normal,687,2021-10-22,2021,M Akayezu,Swaziland,Rwanda,Kigali City,30.1296751,-1.8859597
+Malawi,field,Lesotho,Defend,Normal,688,2021-10-22,2021,MA Baig,Malawi,Lesotho,Kigali City,30.1296751,-1.8859597
+Malawi,bat,Malawi,Defend,Normal,689,2021-10-22,2021,Sami Sohail,Malawi,Rwanda,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Uganda,Defend,Normal,690,2021-10-22,2021,DM Nakrani,Uganda,Seychelles,Kigali City,30.1296751,-1.8859597
+Botswana,bat,Botswana,Defend,Normal,691,2021-11-02,2021,K Motlanka,Botswana,Sierra Leone,Kigali City,30.1296751,-1.8859597
+Tanzania,bat,Tanzania,Defend,Normal,692,2021-11-02,2021,II Selemani,Tanzania,Mozambique,Kigali City,30.1296751,-1.8859597
+Mozambique,field,Cameroon,Defend,Normal,693,2021-11-03,2021,F Damiao Couana,Mozambique,Cameroon,Kigali City,30.1296751,-1.8859597
+Tanzania,bat,Sierra Leone,Chase,Normal,694,2021-11-03,2021,II Selemani,Sierra Leone,Tanzania,Kigali City,30.1296751,-1.8859597
+Botswana,bat,Cameroon,Chase,Normal,695,2021-11-05,2021,R Nehonde,Cameroon,Botswana,Kigali City,30.1296751,-1.8859597
+Sierra Leone,bat,Mozambique,Chase,Normal,696,2021-11-05,2021,S Conteh,Mozambique,Sierra Leone,Kigali City,30.1296751,-1.8859597
+Botswana,bat,Botswana,Defend,Normal,697,2021-11-06,2021,R Nehonde,Botswana,Mozambique,Kigali City,30.1296751,-1.8859597
+Tanzania,bat,Tanzania,Defend,Normal,698,2021-11-06,2021,K Nassoro,Tanzania,Cameroon,Kigali City,30.1296751,-1.8859597
+Sierra Leone,bat,Cameroon,Chase,Normal,699,2021-11-07,2021,S Conteh,Cameroon,Sierra Leone,Kigali City,30.1296751,-1.8859597
+Tanzania,bat,Tanzania,Defend,Normal,700,2021-11-07,2021,Jitin Singh,Tanzania,Botswana,Kigali City,30.1296751,-1.8859597
+Sierra Leone,field,Sierra Leone,Chase,Normal,701,2021-10-19,2021,M Kpaka,Nigeria,Sierra Leone,Lagos,3.3941795,6.4550575
+Nigeria,field,Sierra Leone,Defend,Normal,702,2021-10-21,2021,None,Nigeria,Sierra Leone,Lagos,3.3941795,6.4550575
+Nigeria,bat,Sierra Leone,Chase,Normal,703,2021-10-23,2021,None,Sierra Leone,Nigeria,Lagos,3.3941795,6.4550575
+Nigeria,bat,Nigeria,Defend,Normal,704,2021-10-24,2021,None,Nigeria,Sierra Leone,Lagos,3.3941795,6.4550575
+Nigeria,bat,Nigeria,Defend,Normal,705,2021-10-26,2021,P Aho,Nigeria,Sierra Leone,Lagos,3.3941795,6.4550575
+Bahrain,field,Bahrain,Chase,Normal,706,2021-10-23,2021,Muhammad Younis,Qatar,Bahrain,Doha,51.5264162,25.2856329
+Saudi Arabia,bat,Maldives,Chase,Normal,707,2021-10-23,2021,None,Maldives,Saudi Arabia,Doha,51.5264162,25.2856329
+Kuwait,field,Kuwait,Chase,Normal,708,2021-10-24,2021,None,Bahrain,Kuwait,Doha,51.5264162,25.2856329
+Qatar,field,Maldives,Defend,Normal,709,2021-10-24,2021,Mohammad Rizlan,Qatar,Maldives,Doha,51.5264162,25.2856329
+Bahrain,field,Bahrain,Chase,Normal,710,2021-10-27,2021,None,Maldives,Bahrain,Doha,51.5264162,25.2856329
+Kuwait,field,Kuwait,Chase,Normal,711,2021-10-28,2021,ED Silva,Maldives,Kuwait,Doha,51.5264162,25.2856329
+Bahrain,field,Saudi Arabia,Defend,Normal,712,2021-10-28,2021,Sarfaraz Ali,Bahrain,Saudi Arabia,Doha,51.5264162,25.2856329
+Qatar,bat,Kuwait,Chase,Normal,713,2021-10-29,2021,Musawar Shah,Kuwait,Qatar,Doha,51.5264162,25.2856329
+United States of America,field,United States of America,Chase,Normal,714,2021-11-07,2021,SR Taylor,Belize,United States of America,Coolidge,-102.0087927,38.0416798
+Canada,bat,Canada,Defend,Normal,715,2021-11-08,2021,NS Dhaliwal,Canada,Belize,Coolidge,-102.0087927,38.0416798
+Bahamas,bat,Bahamas,Defend,Normal,716,2021-11-08,2021,M Taylor,Bahamas,Argentina,North Sound,-1.4376426,60.4116381
+Belize,bat,Belize,Defend,Normal,717,2021-11-08,2021,BS Stephenson,Belize,Panama,Coolidge,-102.0087927,38.0416798
+United States of America,bat,United States of America,Defend,Normal,718,2021-11-08,2021,Aaron Jones,United States of America,Bermuda,North Sound,-1.4376426,60.4116381
+Tied,bat,Canada,Chase,Normal,719,2021-11-10,2021,K Gore,Canada,United States of America,Coolidge,-102.0087927,38.0416798
+Argentina,bat,Argentina,Defend,Normal,720,2021-11-10,2021,A Ferguson,Argentina,Belize,North Sound,-1.4376426,60.4116381
+Bermuda,field,Bahamas,Defend,Normal,721,2021-11-10,2021,T Manders,Bermuda,Bahamas,Coolidge,-102.0087927,38.0416798
+Bahamas,bat,Bahamas,Defend,Normal,722,2021-11-11,2021,M Taylor,Bahamas,Belize,North Sound,-1.4376426,60.4116381
+United States of America,bat,Argentina,Chase,Normal,723,2021-11-11,2021,G Singh,Argentina,United States of America,North Sound,-1.4376426,60.4116381
+United States of America,bat,Bahamas,Chase,Normal,724,2021-11-13,2021,NK Patel,Bahamas,United States of America,Coolidge,-102.0087927,38.0416798
+Bermuda,bat,Belize,Chase,Normal,725,2021-11-13,2021,AC Douglas,Belize,Bermuda,North Sound,-1.4376426,60.4116381
+Panama,field,Bahamas,Defend,Normal,726,2021-11-13,2021,Irfan Hafejee,Panama,Bahamas,Coolidge,-102.0087927,38.0416798
+Canada,bat,Argentina,Chase,Normal,727,2021-11-13,2021,D Heyliger,Argentina,Canada,North Sound,-1.4376426,60.4116381
+Canada,bat,Canada,Defend,Normal,728,2021-11-14,2021,R Pathan,Canada,Panama,Coolidge,-102.0087927,38.0416798
+Pakistan,field,West Indies,Defend,Normal,729,2021-12-13,2021,Haider Ali,Pakistan,West Indies,Karachi,67.0207055,24.8546842
+Pakistan,bat,Pakistan,Defend,Normal,730,2021-12-14,2021,Shadab Khan,Pakistan,West Indies,Karachi,67.0207055,24.8546842
+Pakistan,bat,West Indies,Chase,Normal,731,2021-12-16,2021,Mohammad Rizwan,West Indies,Pakistan,Karachi,67.0207055,24.8546842
+Tanzania,bat,Nigeria,Chase,Normal,732,2021-11-17,2021,S Thakor,Nigeria,Tanzania,Kigali City,30.1296751,-1.8859597
+Kenya,bat,Kenya,Defend,Normal,733,2021-11-17,2021,DM Nakrani,Kenya,Uganda,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Uganda,Defend,D/L,734,2021-11-17,2021,DM Nakrani,Uganda,Nigeria,Kigali City,30.1296751,-1.8859597
+Tanzania,bat,Tanzania,Defend,Normal,735,2021-11-17,2021,AA Jasani,Tanzania,Kenya,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Tanzania,Chase,Normal,736,2021-11-18,2021,RB Patel,Tanzania,Uganda,Kigali City,30.1296751,-1.8859597
+Kenya,bat,Nigeria,Chase,Normal,737,2021-11-18,2021,AA Obanda,Nigeria,Kenya,Kigali City,30.1296751,-1.8859597
+Kenya,bat,Tanzania,Chase,Normal,738,2021-11-18,2021,RN Patel,Tanzania,Kenya,Kigali City,30.1296751,-1.8859597
+Uganda,field,Uganda,Chase,Normal,739,2021-11-18,2021,Riazat Ali Shah,Nigeria,Uganda,Kigali City,30.1296751,-1.8859597
+Uganda,field,Uganda,Chase,Normal,740,2021-11-20,2021,F Akankwasa,Tanzania,Uganda,Kigali City,30.1296751,-1.8859597
+Kenya,field,Nigeria,Defend,Normal,741,2021-11-20,2021,Vraj Patel,Kenya,Nigeria,Kigali City,30.1296751,-1.8859597
+Uganda,bat,Kenya,Chase,D/L,742,2021-11-20,2021,Riazat Ali Shah,Kenya,Uganda,Kigali City,30.1296751,-1.8859597
+Tanzania,bat,Tanzania,Defend,Normal,743,2021-11-20,2021,JC Darji,Tanzania,Nigeria,Kigali City,30.1296751,-1.8859597
+United States of America,bat,United States of America,Defend,Normal,744,2021-12-22,2021,G Singh,United States of America,Ireland,Lauderhill,-80.2133808,26.1403635
+Ireland,field,United States of America,Defend,Normal,745,2021-12-23,2021,L Tucker,Ireland,United States of America,Lauderhill,-80.2133808,26.1403635
+England,bat,England,Defend,Normal,746,2005-06-13,2005,KP Pietersen,England,Australia,Southampton,-1.404189,50.9025349
+Australia,bat,Australia,Defend,Normal,747,2005-02-17,2005,RT Ponting,New Zealand,Australia,Auckland,174.7631803,-36.852095
+New Zealand,field,New Zealand,Chase,Normal,748,2005-10-21,2005,JS Patel,South Africa,New Zealand,Johannesburg,28.049722,-26.205
+Pakistan,bat,England,Chase,Normal,749,2006-08-28,2006,Shahid Afridi,England,Pakistan,Bristol,-2.5972985,51.4538022
+Sri Lanka,bat,Sri Lanka,Defend,Normal,750,2006-06-15,2006,ST Jayasuriya,England,Sri Lanka,Southampton,-1.404189,50.9025349
+Australia,bat,Australia,Defend,Normal,751,2006-01-09,2006,DR Martyn,Australia,South Africa,Brisbane,153.0234991,-27.4689682
+Tied,field,New Zealand,Chase,Normal,752,2006-02-16,2006,DR Smith,New Zealand,West Indies,Auckland,174.7631803,-36.852095
+South Africa,bat,South Africa,Defend,Normal,753,2006-02-24,2006,GC Smith,South Africa,Australia,Johannesburg,28.049722,-26.205
+Australia,bat,Australia,Defend,Normal,754,2007-01-09,2007,CL White,Australia,England,Sydney,151.2164539,-33.8548157
+Sri Lanka,bat,New Zealand,Defend,D/L,755,2006-12-22,2006,ST Jayasuriya,New Zealand,Sri Lanka,Wellington,174.7772114,-41.2887953
+New Zealand,field,New Zealand,Chase,Normal,756,2006-12-26,2006,JEC Franklin,New Zealand,Sri Lanka,Auckland,174.7631803,-36.852095
+India,bat,South Africa,Chase,Normal,757,2006-12-01,2006,KD Karthik,South Africa,India,Johannesburg,28.049722,-26.205
+West Indies,bat,West Indies,Defend,Normal,758,2007-06-28,2007,PD Collingwood,England,West Indies,London,-0.1276474,51.5073219
+England,bat,West Indies,Chase,Normal,759,2007-06-29,2007,OA Shah,England,West Indies,London,-0.1276474,51.5073219
+South Africa,field,South Africa,Chase,Normal,760,2007-09-11,2007,CH Gayle,South Africa,West Indies,Johannesburg,28.049722,-26.205
+New Zealand,field,New Zealand,Chase,Normal,761,2007-09-12,2007,MR Gillespie,Kenya,New Zealand,Durban,31.009909,-29.861825
+Pakistan,field,Scotland,Defend,Normal,762,2007-09-12,2007,Shahid Afridi,Pakistan,Scotland,Durban,31.009909,-29.861825
+Zimbabwe,bat,Australia,Chase,Normal,763,2007-09-12,2007,BRM Taylor,Australia,Zimbabwe,Cape Town,18.417396,-33.928992
+Bangladesh,field,Bangladesh,Chase,Normal,764,2007-09-13,2007,Mohammad Ashraful,Bangladesh,West Indies,Johannesburg,28.049722,-26.205
+England,bat,England,Defend,Normal,765,2007-09-13,2007,KP Pietersen,England,Zimbabwe,Cape Town,18.417396,-33.928992
+Sri Lanka,field,Kenya,Defend,Normal,766,2007-09-14,2007,ST Jayasuriya,Kenya,Sri Lanka,Johannesburg,28.049722,-26.205
+Australia,bat,England,Chase,Normal,767,2007-09-14,2007,NW Bracken,Australia,England,Cape Town,18.417396,-33.928992
+Tied,field,Pakistan,Chase,Normal,768,2007-09-14,2007,Mohammad Asif,India,Pakistan,Durban,31.009909,-29.861825
+Sri Lanka,bat,New Zealand,Chase,Normal,769,2007-09-15,2007,ST Jayasuriya,New Zealand,Sri Lanka,Johannesburg,28.049722,-26.205
+South Africa,field,South Africa,Chase,Normal,770,2007-09-15,2007,M Morkel,South Africa,Bangladesh,Cape Town,18.417396,-33.928992
+New Zealand,field,India,Defend,Normal,771,2007-09-16,2007,DL Vettori,India,New Zealand,Johannesburg,28.049722,-26.205
+Australia,field,Australia,Chase,Normal,772,2007-09-16,2007,B Lee,Australia,Bangladesh,Cape Town,18.417396,-33.928992
+South Africa,field,England,Defend,Normal,773,2007-09-16,2007,JA Morkel,South Africa,England,Cape Town,18.417396,-33.928992
+Pakistan,field,Sri Lanka,Defend,Normal,774,2007-09-17,2007,Younis Khan,Pakistan,Sri Lanka,Johannesburg,28.049722,-26.205
+New Zealand,field,England,Defend,Normal,775,2007-09-18,2007,CD McMillan,England,New Zealand,Durban,31.009909,-29.861825
+Pakistan,field,Pakistan,Chase,Normal,776,2007-09-18,2007,Misbah-ul-Haq,Australia,Pakistan,Johannesburg,28.049722,-26.205
+Sri Lanka,field,Bangladesh,Defend,Normal,777,2007-09-18,2007,CRD Fernando,Bangladesh,Sri Lanka,Johannesburg,28.049722,-26.205
+South Africa,field,South Africa,Chase,Normal,778,2007-09-19,2007,JM Kemp,South Africa,New Zealand,Durban,31.009909,-29.861825
+India,bat,India,Defend,Normal,779,2007-09-19,2007,Yuvraj Singh,England,India,Durban,31.009909,-29.861825
+Australia,field,Australia,Chase,Normal,780,2007-09-20,2007,SR Clark,Australia,Sri Lanka,Cape Town,18.417396,-33.928992
+Pakistan,field,Pakistan,Chase,Normal,781,2007-09-20,2007,Junaid Siddique,Bangladesh,Pakistan,Cape Town,18.417396,-33.928992
+India,bat,India,Defend,Normal,782,2007-09-20,2007,RG Sharma,South Africa,India,Durban,31.009909,-29.861825
+Pakistan,bat,New Zealand,Chase,Normal,783,2007-09-22,2007,Umar Gul,New Zealand,Pakistan,Cape Town,18.417396,-33.928992
+India,bat,India,Defend,Normal,784,2007-09-22,2007,Yuvraj Singh,Australia,India,Durban,31.009909,-29.861825
+India,bat,India,Defend,Normal,785,2007-09-24,2007,IK Pathan,India,Pakistan,Johannesburg,28.049722,-26.205
+Australia,bat,Australia,Defend,Normal,786,2007-12-11,2007,A Symonds,Australia,New Zealand,Perth,115.8604796,-31.9527121
+Australia,bat,India,Chase,Normal,787,2008-02-01,2008,MJ Clarke,Australia,India,Melbourne,144.9631608,-37.8142176
+England,field,England,Chase,Normal,788,2008-06-13,2008,IR Bell,England,New Zealand,Manchester,-2.2451148,53.4794892
+India,bat,Australia,Chase,Normal,789,2007-10-20,2007,G Gambhir,India,Australia,Mumbai,72.8773928,19.0759899
+South Africa,field,South Africa,Chase,Normal,790,2007-11-23,2007,AB de Villiers,South Africa,New Zealand,Johannesburg,28.049722,-26.205
+South Africa,field,South Africa,Chase,Normal,791,2008-01-18,2008,SM Pollock,South Africa,West Indies,Johannesburg,28.049722,-26.205
+England,field,New Zealand,Defend,Normal,792,2008-02-05,2008,AD Mascarenhas,New Zealand,England,Auckland,174.7631803,-36.852095
+England,bat,England,Defend,Normal,793,2008-02-07,2008,PD Collingwood,New Zealand,England,Christchurch,172.6366455,-43.530955
+Bangladesh,field,Bangladesh,Chase,Normal,794,2007-09-01,2007,Nazimuddin,Kenya,Bangladesh,Nairobi,36.8172449,-1.2832533
+Pakistan,field,Bangladesh,Defend,Normal,795,2007-09-02,2007,Imran Nazir,Bangladesh,Pakistan,Nairobi,36.8172449,-1.2832533
+Pakistan,bat,Kenya,Chase,Normal,796,2007-09-04,2007,Younis Khan,Kenya,Pakistan,Nairobi,36.8172449,-1.2832533
+West Indies,field,West Indies,Chase,Normal,797,2007-12-16,2007,JE Taylor,South Africa,West Indies,Port Elizabeth,25.6207519,-33.9617051
+West Indies,field,West Indies,Chase,Normal,798,2008-06-20,2008,XM Marshall,West Indies,Australia,Barbados,-59.5250305,13.1500331
+Pakistan,bat,Pakistan,Defend,Normal,799,2008-04-20,2008,Misbah-ul-Haq,Pakistan,Bangladesh,Karachi,67.0207055,24.8546842
+Tied,field,England,Chase,Normal,800,2009-08-30,2009,None,England,Australia,Manchester,-2.2451148,53.4794892
+South Africa,field,Bangladesh,Defend,D/L,801,2008-11-05,2008,Abdur Razzak,South Africa,Bangladesh,Johannesburg,28.049722,-26.205
+South Africa,field,South Africa,Chase,Normal,802,2009-03-27,2009,DJ Hussey,South Africa,Australia,Johannesburg,28.049722,-26.205
+South Africa,field,Australia,Defend,Normal,803,2009-03-29,2009,RE van der Merwe,South Africa,Australia,Centurion,28.180278,-25.836389
+Australia,bat,Australia,Defend,Normal,804,2009-01-11,2009,DA Warner,Australia,South Africa,Melbourne,144.9631608,-37.8142176
+Australia,bat,South Africa,Chase,Normal,805,2009-01-13,2009,MEK Hussey,Australia,South Africa,Brisbane,153.0234991,-27.4689682
+Australia,bat,Australia,Defend,Normal,806,2009-02-15,2009,NW Bracken,Australia,New Zealand,Sydney,151.2164539,-33.8548157
+West Indies,field,West Indies,Chase,Normal,807,2009-03-15,2009,RR Sarwan,West Indies,England,Trinidad,-61.26130538878063,10.443024300000001
+Scotland,field,Scotland,Chase,Normal,808,2008-08-03,2008,JD Nel,Bermuda,Scotland,Belfast,-5.9301829,54.596391
+Netherlands,field,Netherlands,Chase,Normal,809,2009-06-05,2009,TN de Grooth,England,Netherlands,London,-0.1276474,51.5073219
+New Zealand,field,New Zealand,Chase,Normal,810,2009-06-06,2009,IG Butler,New Zealand,Scotland,London,-0.1276474,51.5073219
+West Indies,bat,Australia,Chase,Normal,811,2009-06-06,2009,CH Gayle,Australia,West Indies,London,-0.1276474,51.5073219
+India,bat,India,Defend,Normal,812,2009-06-06,2009,PP Ojha,Bangladesh,India,Nottingham,-1.1496461,52.9534193
+South Africa,field,Scotland,Defend,Normal,813,2009-06-07,2009,AB de Villiers,Scotland,South Africa,London,-0.1276474,51.5073219
+England,field,Pakistan,Defend,Normal,814,2009-06-07,2009,LJ Wright,England,Pakistan,London,-0.1276474,51.5073219
+Ireland,field,Ireland,Chase,Normal,815,2009-06-08,2009,NJ O'Brien,Bangladesh,Ireland,Nottingham,-1.1496461,52.9534193
+Sri Lanka,field,Sri Lanka,Chase,Normal,816,2009-06-08,2009,KC Sangakkara,Australia,Sri Lanka,Nottingham,-1.1496461,52.9534193
+Pakistan,bat,Pakistan,Defend,Normal,817,2009-06-09,2009,Kamran Akmal,Netherlands,Pakistan,London,-0.1276474,51.5073219
+South Africa,field,New Zealand,Defend,Normal,818,2009-06-09,2009,RE van der Merwe,New Zealand,South Africa,London,-0.1276474,51.5073219
+India,field,India,Chase,Normal,819,2009-06-10,2009,Z Khan,India,Ireland,Nottingham,-1.1496461,52.9534193
+Sri Lanka,field,West Indies,Defend,Normal,820,2009-06-10,2009,ST Jayasuriya,Sri Lanka,West Indies,Nottingham,-1.1496461,52.9534193
+New Zealand,field,Ireland,Defend,Normal,821,2009-06-11,2009,AJ Redmond,Ireland,New Zealand,Nottingham,-1.1496461,52.9534193
+South Africa,bat,England,Chase,Normal,822,2009-06-11,2009,JH Kallis,England,South Africa,Nottingham,-1.1496461,52.9534193
+Sri Lanka,bat,Sri Lanka,Defend,Normal,823,2009-06-12,2009,TM Dilshan,Pakistan,Sri Lanka,London,-0.1276474,51.5073219
+West Indies,bat,India,Chase,Normal,824,2009-06-12,2009,DJ Bravo,India,West Indies,London,-0.1276474,51.5073219
+South Africa,field,West Indies,Defend,Normal,825,2009-06-13,2009,WD Parnell,South Africa,West Indies,London,-0.1276474,51.5073219
+Pakistan,bat,New Zealand,Chase,Normal,826,2009-06-13,2009,Umar Gul,New Zealand,Pakistan,London,-0.1276474,51.5073219
+Sri Lanka,bat,Sri Lanka,Defend,Normal,827,2009-06-14,2009,DPMD Jayawardene,Ireland,Sri Lanka,London,-0.1276474,51.5073219
+England,field,India,Defend,Normal,828,2009-06-14,2009,RJ Sidebottom,England,India,London,-0.1276474,51.5073219
+West Indies,bat,England,Chase,D/L,829,2009-06-15,2009,RR Sarwan,England,West Indies,London,-0.1276474,51.5073219
+Pakistan,bat,Pakistan,Defend,Normal,830,2009-06-15,2009,Kamran Akmal,Ireland,Pakistan,London,-0.1276474,51.5073219
+Sri Lanka,bat,Sri Lanka,Defend,Normal,831,2009-06-16,2009,BAW Mendis,New Zealand,Sri Lanka,Nottingham,-1.1496461,52.9534193
+South Africa,bat,South Africa,Defend,Normal,832,2009-06-16,2009,AB de Villiers,India,South Africa,Nottingham,-1.1496461,52.9534193
+Pakistan,bat,Pakistan,Defend,Normal,833,2009-06-18,2009,Shahid Afridi,Pakistan,South Africa,Nottingham,-1.1496461,52.9534193
+Sri Lanka,field,West Indies,Defend,Normal,834,2009-06-19,2009,TM Dilshan,Sri Lanka,West Indies,London,-0.1276474,51.5073219
+Pakistan,bat,Sri Lanka,Chase,Normal,835,2009-06-21,2009,Shahid Afridi,Pakistan,Sri Lanka,London,-0.1276474,51.5073219
+Ireland,field,Ireland,Chase,Normal,836,2008-08-04,2008,AC Botha,Ireland,Kenya,Belfast,-5.9301829,54.596391
+Netherlands,field,Netherlands,Chase,Normal,837,2008-08-04,2008,RN ten Doeschate,Netherlands,Scotland,Belfast,-5.9301829,54.596391
+Pakistan,field,Pakistan,Chase,Normal,838,2008-10-11,2008,Shoaib Malik,Pakistan,Sri Lanka,King City,-121.15856617878941,36.226559
+Sri Lanka,field,Sri Lanka,Chase,Normal,839,2008-10-13,2008,ST Jayasuriya,Pakistan,Sri Lanka,King City,-121.15856617878941,36.226559
+New Zealand,field,New Zealand,Chase,Normal,840,2009-02-27,2009,BB McCullum,New Zealand,India,Wellington,174.7772114,-41.2887953
+Tied,bat,New Zealand,Chase,Normal,841,2008-12-26,2008,CH Gayle,New Zealand,West Indies,Auckland,174.7631803,-36.852095
+New Zealand,bat,New Zealand,Defend,Normal,842,2008-12-28,2008,JD Ryder,New Zealand,West Indies,Hamilton,-79.8728583,43.2560802
+New Zealand,field,New Zealand,Chase,Normal,843,2009-02-25,2009,BB McCullum,New Zealand,India,Christchurch,172.6366455,-43.530955
+India,bat,Sri Lanka,Chase,Normal,844,2009-02-10,2009,YK Pathan,Sri Lanka,India,Colombo,79.8541134,6.9387469
+England,field,South Africa,Defend,D/L,845,2009-11-13,2009,EJG Morgan,South Africa,England,Johannesburg,28.049722,-26.205
+South Africa,bat,South Africa,Defend,Normal,846,2009-11-15,2009,LE Bosman,South Africa,England,Centurion,28.180278,-25.836389
+Pakistan,field,Pakistan,Chase,Normal,847,2009-05-07,2009,Umar Gul,Australia,Pakistan,Dubai,55.2924914,25.2653471
+West Indies,bat,Bangladesh,Chase,Normal,848,2009-08-02,2009,DJG Sammy,West Indies,Bangladesh,St Kitts,-62.74468058526273,17.31569295
+Pakistan,bat,Pakistan,Defend,Normal,849,2009-08-12,2009,Shahid Afridi,Sri Lanka,Pakistan,Colombo,79.8541134,6.9387469
+New Zealand,bat,New Zealand,Defend,Normal,850,2009-09-02,2009,DL Vettori,Sri Lanka,New Zealand,Colombo,79.8541134,6.9387469
+New Zealand,bat,New Zealand,Defend,Normal,851,2009-09-04,2009,JD Ryder,Sri Lanka,New Zealand,Colombo,79.8541134,6.9387469
+Australia,bat,Australia,Defend,Normal,852,2010-02-21,2010,SW Tait,Australia,West Indies,Hobart,147.3281233,-42.8825088
+Australia,bat,West Indies,Chase,Normal,853,2010-02-23,2010,DA Warner,Australia,West Indies,Sydney,151.2164539,-33.8548157
+Australia,bat,Australia,Defend,Normal,854,2010-02-05,2010,SW Tait,Australia,Pakistan,Melbourne,144.9631608,-37.8142176
+West Indies,bat,West Indies,Defend,Normal,855,2010-04-30,2010,DJG Sammy,West Indies,Ireland,Guyana,-58.6416891,4.8417097
+New Zealand,bat,Sri Lanka,Chase,Normal,856,2010-04-30,2010,NL McCullum,New Zealand,Sri Lanka,Guyana,-58.6416891,4.8417097
+India,field,India,Chase,Normal,857,2010-05-01,2010,A Nehra,Afghanistan,India,St Lucia,-60.975036,13.8250489
+Pakistan,bat,Pakistan,Defend,Normal,858,2010-05-01,2010,Salman Butt,Bangladesh,Pakistan,St Lucia,-60.975036,13.8250489
+Tied,field,Ireland,Chase,Normal,859,2010-05-04,2010,None,England,Ireland,Guyana,-58.6416891,4.8417097
+India,field,South Africa,Defend,Normal,860,2010-05-02,2010,SK Raina,India,South Africa,St Lucia,-60.975036,13.8250489
+Australia,bat,Australia,Defend,Normal,861,2010-05-02,2010,SR Watson,Australia,Pakistan,St Lucia,-60.975036,13.8250489
+New Zealand,field,New Zealand,Defend,D/L,862,2010-05-04,2010,NL McCullum,New Zealand,Zimbabwe,Guyana,-58.6416891,4.8417097
+West Indies,field,West Indies,Chase,D/L,863,2010-05-03,2010,DJG Sammy,West Indies,England,Guyana,-58.6416891,4.8417097
+Sri Lanka,bat,Sri Lanka,Defend,D/L,864,2010-05-03,2010,DPMD Jayawardene,Sri Lanka,Zimbabwe,Guyana,-58.6416891,4.8417097
+South Africa,field,Afghanistan,Defend,Normal,865,2010-05-05,2010,M Morkel,Afghanistan,South Africa,Barbados,-59.5250305,13.1500331
+Australia,bat,Australia,Defend,Normal,866,2010-05-05,2010,MEK Hussey,Australia,Bangladesh,Barbados,-59.5250305,13.1500331
+England,field,England,Chase,Normal,867,2010-05-06,2010,KP Pietersen,England,Pakistan,Barbados,-59.5250305,13.1500331
+South Africa,bat,South Africa,Defend,Normal,868,2010-05-06,2010,JA Morkel,New Zealand,South Africa,Barbados,-59.5250305,13.1500331
+Australia,field,India,Defend,Normal,869,2010-05-07,2010,DA Warner,Australia,India,Barbados,-59.5250305,13.1500331
+Sri Lanka,bat,Sri Lanka,Defend,Normal,870,2010-05-07,2010,DPMD Jayawardene,West Indies,Sri Lanka,Barbados,-59.5250305,13.1500331
+New Zealand,field,Pakistan,Defend,Normal,871,2010-05-08,2010,IG Butler,New Zealand,Pakistan,Barbados,-59.5250305,13.1500331
+England,bat,England,Defend,Normal,872,2010-05-08,2010,KP Pietersen,England,South Africa,Barbados,-59.5250305,13.1500331
+West Indies,field,India,Defend,Normal,873,2010-05-09,2010,CH Gayle,West Indies,India,Barbados,-59.5250305,13.1500331
+Australia,bat,Australia,Defend,Normal,874,2010-05-09,2010,CL White,Australia,Sri Lanka,Barbados,-59.5250305,13.1500331
+Pakistan,bat,Pakistan,Defend,Normal,875,2010-05-10,2010,Umar Akmal,Pakistan,South Africa,St Lucia,-60.975036,13.8250489
+England,bat,New Zealand,Chase,Normal,876,2010-05-10,2010,TT Bresnan,England,New Zealand,St Lucia,-60.975036,13.8250489
+Sri Lanka,bat,India,Chase,Normal,877,2010-05-11,2010,AD Mathews,India,Sri Lanka,St Lucia,-60.975036,13.8250489
+Australia,bat,West Indies,Chase,Normal,878,2010-05-11,2010,SPD Smith,West Indies,Australia,St Lucia,-60.975036,13.8250489
+England,bat,Sri Lanka,Chase,Normal,879,2010-05-13,2010,SCJ Broad,England,Sri Lanka,St Lucia,-60.975036,13.8250489
+Australia,field,Australia,Chase,Normal,880,2010-05-14,2010,MEK Hussey,Australia,Pakistan,St Lucia,-60.975036,13.8250489
+England,field,England,Chase,Normal,881,2010-05-16,2010,C Kieswetter,Australia,England,Barbados,-59.5250305,13.1500331
+New Zealand,bat,Bangladesh,Chase,Normal,882,2010-02-03,2010,DL Vettori,New Zealand,Bangladesh,Hamilton,-79.8728583,43.2560802
+Australia,bat,New Zealand,Chase,Normal,883,2010-02-26,2010,MG Johnson,New Zealand,Australia,Wellington,174.7772114,-41.2887953
+Tied,bat,New Zealand,Chase,Normal,884,2010-02-28,2010,BB McCullum,New Zealand,Australia,Christchurch,172.6366455,-43.530955
+Pakistan,bat,Pakistan,Defend,Normal,885,2010-07-05,2010,Umar Akmal,Australia,Pakistan,Birmingham,-1.9026911,52.4796992
+Pakistan,bat,Pakistan,Defend,Normal,886,2010-07-06,2010,Mohammad Amir,Australia,Pakistan,Birmingham,-1.9026911,52.4796992
+England,field,England,Chase,Normal,887,2010-09-05,2010,MH Yardy,England,Pakistan,Cardiff,-3.1791934,51.4816546
+England,bat,Pakistan,Chase,Normal,888,2010-09-07,2010,TT Bresnan,England,Pakistan,Cardiff,-3.1791934,51.4816546
+Pakistan,field,New Zealand,Defend,Normal,889,2009-11-12,2009,Imran Nazir,New Zealand,Pakistan,Dubai,55.2924914,25.2653471
+Pakistan,bat,Pakistan,Defend,Normal,890,2009-11-13,2009,Umar Akmal,New Zealand,Pakistan,Dubai,55.2924914,25.2653471
+Sri Lanka,field,India,Defend,Normal,891,2009-12-09,2009,KC Sangakkara,India,Sri Lanka,Nagpur,79.0820556,21.1498134
+India,bat,Sri Lanka,Chase,Normal,892,2009-12-12,2009,Yuvraj Singh,India,Sri Lanka,Chandigarh,76.7797143,30.7334421
+Zimbabwe,bat,Zimbabwe,Defend,Normal,893,2010-02-28,2010,AG Cremer,West Indies,Zimbabwe,Trinidad,-61.26130538878063,10.443024300000001
+South Africa,field,West Indies,Defend,Normal,894,2010-05-19,2010,R McLaren,West Indies,South Africa,Antigua,-61.790450458055844,17.10371515
+Afghanistan,field,Ireland,Defend,Normal,895,2010-02-09,2010,Mohammad Nabi,Afghanistan,Ireland,Dubai,55.2924914,25.2653471
+Netherlands,bat,Canada,Chase,Normal,896,2010-02-09,2010,B Zuiderent,Canada,Netherlands,Dubai,55.2924914,25.2653471
+Kenya,field,Kenya,Chase,Normal,897,2010-02-10,2010,AA Obanda,Canada,Kenya,Dubai,55.2924914,25.2653471
+Ireland,bat,Ireland,Defend,Normal,898,2010-02-11,2010,DT Johnston,Ireland,Scotland,Dubai,55.2924914,25.2653471
+Netherlands,field,Netherlands,Chase,Normal,899,2010-02-12,2010,RN ten Doeschate,Afghanistan,Netherlands,Dubai,55.2924914,25.2653471
+Ireland,bat,Ireland,Defend,Normal,900,2010-02-13,2010,AR Cusack,Ireland,Netherlands,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Ireland,Chase,Normal,901,2010-02-13,2010,Mohammad Shahzad,Afghanistan,Ireland,Dubai,55.2924914,25.2653471
+England,bat,Pakistan,Chase,Normal,902,2010-02-19,2010,EJG Morgan,England,Pakistan,Dubai,55.2924914,25.2653471
+Pakistan,field,Pakistan,Chase,Normal,903,2010-02-20,2010,Abdul Razzaq,England,Pakistan,Dubai,55.2924914,25.2653471
+Sri Lanka,bat,Australia,Chase,Normal,904,2010-10-31,2010,S Randiv,Australia,Sri Lanka,Perth,115.8604796,-31.9527121
+England,bat,Australia,Chase,Normal,905,2011-01-12,2011,SR Watson,Australia,England,Adelaide,138.5999312,-34.9281805
+Australia,bat,Australia,Defend,Normal,906,2011-01-14,2011,AJ Finch,Australia,England,Melbourne,144.9631608,-37.8142176
+South Africa,field,West Indies,Defend,Normal,907,2010-05-20,2010,J Botha,West Indies,South Africa,Antigua,-61.790450458055844,17.10371515
+India,field,India,Chase,Normal,908,2010-06-12,2010,YK Pathan,Zimbabwe,India,Harare,31.045686,-17.831773
+India,field,India,Chase,Normal,909,2010-06-13,2010,SK Raina,Zimbabwe,India,Harare,31.045686,-17.831773
+New Zealand,bat,New Zealand,Defend,Normal,910,2010-05-22,2010,SB Styris,New Zealand,Sri Lanka,Lauderhill,-80.2133808,26.1403635
+Sri Lanka,bat,New Zealand,Chase,Normal,911,2010-05-23,2010,KMDN Kulasekara,New Zealand,Sri Lanka,Lauderhill,-80.2133808,26.1403635
+South Africa,bat,Pakistan,Chase,Normal,912,2010-10-27,2010,J Theron,Pakistan,South Africa,Abu Dhabi,54.3774014,24.4538352
+South Africa,bat,Zimbabwe,Chase,Normal,913,2010-10-08,2010,GC Smith,South Africa,Zimbabwe,Bloemfontein,26.215496,-29.116395
+South Africa,bat,South Africa,Defend,Normal,914,2010-10-10,2010,JP Duminy,South Africa,Zimbabwe,Kimberley,24.7642251,-28.7383012
+India,bat,India,Defend,Normal,915,2011-01-09,2011,RG Sharma,South Africa,India,Durban,31.009909,-29.861825
+New Zealand,field,New Zealand,Chase,Normal,916,2010-12-26,2010,TG Southee,New Zealand,Pakistan,Auckland,174.7631803,-36.852095
+New Zealand,field,Pakistan,Defend,Normal,917,2010-12-28,2010,NL McCullum,New Zealand,Pakistan,Hamilton,-79.8728583,43.2560802
+Pakistan,bat,Pakistan,Defend,Normal,918,2010-12-30,2010,Abdul Razzaq,New Zealand,Pakistan,Christchurch,172.6366455,-43.530955
+Sri Lanka,field,Sri Lanka,Chase,Normal,919,2011-06-25,2011,DPMD Jayawardene,England,Sri Lanka,Bristol,-2.5972985,51.4538022
+England,bat,India,Chase,Normal,920,2011-08-31,2011,JW Dernbach,England,India,Manchester,-2.2451148,53.4794892
+South Africa,bat,Pakistan,Chase,Normal,921,2010-10-26,2010,JP Duminy,Pakistan,South Africa,Abu Dhabi,54.3774014,24.4538352
+West Indies,bat,West Indies,Defend,Normal,922,2011-04-21,2011,D Bishoo,West Indies,Pakistan,St Lucia,-60.975036,13.8250489
+India,field,West Indies,Defend,Normal,923,2011-06-04,2011,S Badrinath,West Indies,India,Trinidad,-61.26130538878063,10.443024300000001
+Australia,bat,South Africa,Chase,Normal,924,2011-10-13,2011,SR Watson,South Africa,Australia,Cape Town,18.417396,-33.928992
+South Africa,bat,Australia,Chase,Normal,925,2011-10-16,2011,J Theron,South Africa,Australia,Johannesburg,28.049722,-26.205
+Sri Lanka,field,Australia,Defend,Normal,926,2011-08-06,2011,TM Dilshan,Sri Lanka,Australia,Pallekele,80.6960665,7.2805314
+Sri Lanka,bat,Sri Lanka,Defend,Normal,927,2011-08-08,2011,BAW Mendis,Sri Lanka,Australia,Pallekele,80.6960665,7.2805314
+Australia,field,India,Defend,Normal,928,2012-02-01,2012,MS Wade,Australia,India,Sydney,151.2164539,-33.8548157
+India,bat,Australia,Chase,Normal,929,2012-02-03,2012,RA Jadeja,Australia,India,Melbourne,144.9631608,-37.8142176
+New Zealand,bat,Zimbabwe,Chase,Normal,930,2012-02-11,2012,MJ Guptill,New Zealand,Zimbabwe,Auckland,174.7631803,-36.852095
+New Zealand,bat,Zimbabwe,Chase,Normal,931,2012-02-14,2012,JEC Franklin,New Zealand,Zimbabwe,Hamilton,-79.8728583,43.2560802
+New Zealand,field,New Zealand,Chase,Normal,932,2012-02-17,2012,MJ Guptill,New Zealand,South Africa,Wellington,174.7772114,-41.2887953
+South Africa,field,South Africa,Chase,Normal,933,2012-02-19,2012,RE Levi,New Zealand,South Africa,Hamilton,-79.8728583,43.2560802
+South Africa,field,New Zealand,Defend,Normal,934,2012-02-22,2012,J Botha,New Zealand,South Africa,Auckland,174.7631803,-36.852095
+England,bat,India,Chase,Normal,935,2011-10-29,2011,KP Pietersen,India,England,Kolkata,88.35769124388872,22.5414185
+Pakistan,field,Zimbabwe,Defend,Normal,936,2011-09-16,2011,Mohammad Hafeez,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Pakistan,bat,Pakistan,Defend,Normal,937,2011-09-18,2011,Mohammad Hafeez,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+England,field,England,Chase,Normal,938,2011-09-23,2011,RS Bopara,England,West Indies,London,-0.1276474,51.5073219
+West Indies,field,England,Defend,Normal,939,2011-09-25,2011,GE Mathurin,England,West Indies,London,-0.1276474,51.5073219
+New Zealand,field,New Zealand,Chase,Normal,940,2011-10-15,2011,BB McCullum,Zimbabwe,New Zealand,Harare,31.045686,-17.831773
+New Zealand,field,Zimbabwe,Defend,D/L,941,2011-10-17,2011,MJ Guptill,Zimbabwe,New Zealand,Harare,31.045686,-17.831773
+Pakistan,bat,Sri Lanka,Chase,Normal,942,2011-11-25,2011,Aizaz Cheema,Pakistan,Sri Lanka,Abu Dhabi,54.3774014,24.4538352
+Pakistan,field,England,Defend,Normal,943,2012-02-23,2012,Umar Gul,England,Pakistan,Dubai,55.2924914,25.2653471
+England,bat,England,Defend,Normal,944,2012-02-25,2012,JM Bairstow,England,Pakistan,Dubai,55.2924914,25.2653471
+England,bat,England,Defend,Normal,945,2012-02-27,2012,KP Pietersen,England,Pakistan,Abu Dhabi,54.3774014,24.4538352
+Bangladesh,field,Bangladesh,Chase,Normal,946,2011-10-11,2011,Mushfiqur Rahim,Bangladesh,West Indies,Mirpur,73.7482102,33.1486351
+Sri Lanka,field,Zimbabwe,Defend,Normal,947,2012-09-18,2012,BAW Mendis,Sri Lanka,Zimbabwe,Hambantota,81.13126427270001,6.177637
+Australia,bat,Ireland,Chase,Normal,948,2012-09-19,2012,SR Watson,Australia,Ireland,Colombo,79.8541134,6.9387469
+India,field,Afghanistan,Defend,Normal,949,2012-09-19,2012,V Kohli,Afghanistan,India,Colombo,79.8541134,6.9387469
+South Africa,field,South Africa,Chase,Normal,950,2012-09-20,2012,JH Kallis,South Africa,Zimbabwe,Hambantota,81.13126427270001,6.177637
+New Zealand,field,Bangladesh,Defend,Normal,951,2012-09-21,2012,BB McCullum,Bangladesh,New Zealand,Pallekele,80.6960665,7.2805314
+England,field,Afghanistan,Defend,Normal,952,2012-09-21,2012,LJ Wright,Afghanistan,England,Colombo,79.8541134,6.9387469
+South Africa,field,Sri Lanka,Defend,Normal,953,2012-09-22,2012,AB de Villiers,Sri Lanka,South Africa,Hambantota,81.13126427270001,6.177637
+Australia,bat,West Indies,Defend,D/L,954,2012-09-22,2012,SR Watson,Australia,West Indies,Colombo,79.8541134,6.9387469
+Pakistan,bat,Pakistan,Defend,Normal,955,2012-09-23,2012,Nasir Jamshed,New Zealand,Pakistan,Pallekele,80.6960665,7.2805314
+India,field,England,Defend,Normal,956,2012-09-23,2012,Harbhajan Singh,England,India,Colombo,79.8541134,6.9387469
+Tied,field,West Indies,Chase,Normal,957,2012-09-24,2012,None,Ireland,West Indies,Colombo,79.8541134,6.9387469
+Pakistan,bat,Bangladesh,Chase,Normal,958,2012-09-25,2012,Imran Nazir,Bangladesh,Pakistan,Pallekele,80.6960665,7.2805314
+Tied,bat,New Zealand,Chase,Normal,959,2012-09-27,2012,TM Dilshan,Sri Lanka,New Zealand,Pallekele,80.6960665,7.2805314
+West Indies,bat,West Indies,Defend,Normal,960,2012-09-27,2012,J Charles,England,West Indies,Pallekele,80.6960665,7.2805314
+Pakistan,bat,South Africa,Chase,Normal,961,2012-09-28,2012,Umar Gul,Pakistan,South Africa,Colombo,79.8541134,6.9387469
+Australia,bat,India,Chase,Normal,962,2012-09-28,2012,SR Watson,Australia,India,Colombo,79.8541134,6.9387469
+England,bat,New Zealand,Chase,Normal,963,2012-09-29,2012,LJ Wright,England,New Zealand,Pallekele,80.6960665,7.2805314
+Sri Lanka,bat,West Indies,Chase,Normal,964,2012-09-29,2012,DPMD Jayawardene,Sri Lanka,West Indies,Pallekele,80.6960665,7.2805314
+Australia,field,Australia,Chase,Normal,965,2012-09-30,2012,SR Watson,Australia,South Africa,Colombo,79.8541134,6.9387469
+India,bat,Pakistan,Chase,Normal,966,2012-09-30,2012,V Kohli,India,Pakistan,Colombo,79.8541134,6.9387469
+Tied,field,New Zealand,Chase,Normal,967,2012-10-01,2012,SP Narine,New Zealand,West Indies,Pallekele,80.6960665,7.2805314
+Sri Lanka,field,England,Defend,Normal,968,2012-10-01,2012,SL Malinga,Sri Lanka,England,Pallekele,80.6960665,7.2805314
+Pakistan,field,Australia,Defend,Normal,969,2012-10-02,2012,Raza Hasan,Australia,Pakistan,Colombo,79.8541134,6.9387469
+India,field,South Africa,Defend,Normal,970,2012-10-02,2012,Yuvraj Singh,India,South Africa,Colombo,79.8541134,6.9387469
+Sri Lanka,bat,Sri Lanka,Defend,Normal,971,2012-10-04,2012,DPMD Jayawardene,Sri Lanka,Pakistan,Colombo,79.8541134,6.9387469
+West Indies,bat,West Indies,Defend,Normal,972,2012-10-05,2012,CH Gayle,Australia,West Indies,Colombo,79.8541134,6.9387469
+West Indies,bat,West Indies,Defend,Normal,973,2012-10-07,2012,MN Samuels,Sri Lanka,West Indies,Colombo,79.8541134,6.9387469
+England,bat,West Indies,Chase,Normal,974,2012-06-24,2012,AD Hales,England,West Indies,Nottingham,-1.1496461,52.9534193
+South Africa,field,South Africa,Chase,Normal,975,2012-09-08,2012,DW Steyn,England,South Africa,Chester-le-Street,-1.5750431,54.8543237
+Tied,field,England,Chase,Normal,976,2012-09-10,2012,None,England,South Africa,Manchester,-2.2451148,53.4794892
+England,field,South Africa,Defend,Normal,977,2012-09-12,2012,JC Buttler,England,South Africa,Birmingham,-1.9026911,52.4796992
+Pakistan,bat,Pakistan,Defend,Normal,978,2011-11-29,2011,Mohammad Hafeez,Bangladesh,Pakistan,Mirpur,73.7482102,33.1486351
+Australia,bat,West Indies,Chase,Normal,979,2012-03-27,2012,SR Watson,West Indies,Australia,St Lucia,-60.975036,13.8250489
+West Indies,bat,West Indies,Defend,Normal,980,2012-03-30,2012,DR Smith,West Indies,Australia,Barbados,-59.5250305,13.1500331
+Ireland,field,Ireland,Chase,Normal,981,2012-02-22,2012,GH Dockrell,Kenya,Ireland,Mombasa,39.667169,-4.05052
+Ireland,bat,Kenya,Chase,Normal,982,2012-02-23,2012,PR Stirling,Kenya,Ireland,Mombasa,39.667169,-4.05052
+Ireland,bat,Ireland,Defend,Normal,983,2012-02-24,2012,SO Ngoche,Kenya,Ireland,Mombasa,39.667169,-4.05052
+Netherlands,bat,Netherlands,Defend,Normal,984,2012-03-13,2012,Mudassar Bukhari,Canada,Netherlands,Dubai,55.2924914,25.2653471
+Ireland,bat,Kenya,Chase,Normal,985,2012-03-14,2012,WB Rankin,Ireland,Kenya,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Netherlands,Chase,Normal,986,2012-03-14,2012,Mohammad Shahzad,Afghanistan,Netherlands,Dubai,55.2924914,25.2653471
+Ireland,bat,Ireland,Defend,Normal,987,2012-03-18,2012,EC Joyce,Ireland,Scotland,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Afghanistan,Defend,Normal,988,2012-03-18,2012,Samiullah Shenwari,Afghanistan,Canada,Dubai,55.2924914,25.2653471
+Ireland,bat,Canada,Chase,Normal,989,2012-03-22,2012,PR Stirling,Canada,Ireland,Dubai,55.2924914,25.2653471
+Ireland,field,Ireland,Chase,Normal,990,2012-03-23,2012,KJ O'Brien,Ireland,Netherlands,Dubai,55.2924914,25.2653471
+Scotland,bat,Canada,Chase,Normal,991,2012-03-23,2012,RD Berrington,Canada,Scotland,Dubai,55.2924914,25.2653471
+Ireland,bat,Afghanistan,Chase,Normal,992,2012-03-24,2012,PR Stirling,Afghanistan,Ireland,Dubai,55.2924914,25.2653471
+South Africa,field,India,Defend,D/L,993,2012-03-30,2012,CA Ingram,South Africa,India,Johannesburg,28.049722,-26.205
+West Indies,field,New Zealand,Defend,Normal,994,2012-06-30,2012,CH Gayle,New Zealand,West Indies,Lauderhill,-80.2133808,26.1403635
+West Indies,bat,West Indies,Defend,Normal,995,2012-07-01,2012,SP Narine,New Zealand,West Indies,Lauderhill,-80.2133808,26.1403635
+Sri Lanka,bat,Sri Lanka,Defend,Normal,996,2012-06-01,2012,NLTC Perera,Sri Lanka,Pakistan,Hambantota,81.13126427270001,6.177637
+Pakistan,bat,Pakistan,Defend,Normal,997,2012-06-03,2012,Shahid Afridi,Sri Lanka,Pakistan,Hambantota,81.13126427270001,6.177637
+India,field,Sri Lanka,Defend,Normal,998,2012-08-07,2012,IK Pathan,Sri Lanka,India,Pallekele,80.6960665,7.2805314
+India,field,India,Chase,Normal,999,2012-12-20,2012,Yuvraj Singh,India,England,Pune,73.8544541,18.521428
+England,field,England,Chase,Normal,1000,2012-12-22,2012,EJG Morgan,India,England,Mumbai,72.8773928,19.0759899
+New Zealand,field,India,Defend,Normal,1001,2012-09-11,2012,BB McCullum,India,New Zealand,Chennai,80.270186,13.0836939
+New Zealand,field,England,Defend,Normal,1002,2013-06-25,2013,HD Rutherford,England,New Zealand,London,-0.1276474,51.5073219
+Tied,field,New Zealand,Chase,Normal,1003,2013-06-27,2013,None,England,New Zealand,London,-0.1276474,51.5073219
+Australia,field,England,Defend,Normal,1004,2013-08-29,2013,AJ Finch,England,Australia,Southampton,-1.404189,50.9025349
+England,field,Australia,Defend,Normal,1005,2013-08-31,2013,AD Hales,England,Australia,Chester-le-Street,-1.5750431,54.8543237
+Bangladesh,field,Ireland,Defend,Normal,1006,2012-07-18,2012,Elias Sunny,Ireland,Bangladesh,Belfast,-5.9301829,54.596391
+Bangladesh,bat,Netherlands,Chase,Normal,1007,2012-07-25,2012,None,Netherlands,Bangladesh,The Hague,4.3113461,52.0799838
+South Africa,bat,New Zealand,Chase,Normal,1008,2012-12-21,2012,RK Kleinveldt,South Africa,New Zealand,Durban,31.009909,-29.861825
+New Zealand,field,New Zealand,Chase,D/L,1009,2012-12-23,2012,MJ Guptill,South Africa,New Zealand,East London,27.8998573,-33.0191604
+South Africa,bat,South Africa,Defend,Normal,1010,2012-12-26,2012,H Davids,South Africa,New Zealand,Port Elizabeth,25.6207519,-33.9617051
+Pakistan,bat,Pakistan,Defend,Normal,1011,2013-03-03,2013,Mohammad Hafeez,South Africa,Pakistan,Centurion,28.180278,-25.836389
+England,field,New Zealand,Defend,Normal,1012,2013-02-09,2013,SCJ Broad,New Zealand,England,Auckland,174.7631803,-36.852095
+New Zealand,field,England,Defend,Normal,1013,2013-02-12,2013,BB McCullum,New Zealand,England,Hamilton,-79.8728583,43.2560802
+England,field,England,Chase,Normal,1014,2013-02-15,2013,AD Hales,New Zealand,England,Wellington,174.7772114,-41.2887953
+Pakistan,field,Pakistan,Chase,Normal,1015,2012-09-05,2012,Mohammad Hafeez,Australia,Pakistan,Dubai,55.2924914,25.2653471
+Tied,bat,Pakistan,Chase,Normal,1016,2012-09-07,2012,Saeed Ajmal,Australia,Pakistan,Dubai,55.2924914,25.2653471
+Australia,field,Pakistan,Defend,Normal,1017,2012-09-10,2012,DA Warner,Australia,Pakistan,Dubai,55.2924914,25.2653471
+Sri Lanka,bat,Australia,Chase,Normal,1018,2013-01-26,2013,DA Warner,Australia,Sri Lanka,Sydney,151.2164539,-33.8548157
+Sri Lanka,field,Australia,Defend,D/L,1019,2013-01-28,2013,NLTC Perera,Australia,Sri Lanka,Melbourne,144.9631608,-37.8142176
+West Indies,bat,West Indies,Defend,Normal,1020,2013-02-13,2013,KA Pollard,Australia,West Indies,Brisbane,153.0234991,-27.4689682
+Netherlands,bat,Bangladesh,Chase,Normal,1021,2012-07-26,2012,None,Netherlands,Bangladesh,The Hague,4.3113461,52.0799838
+Tied,field,Sri Lanka,Chase,Normal,1022,2012-10-30,2012,None,Sri Lanka,New Zealand,Pallekele,80.6960665,7.2805314
+West Indies,bat,West Indies,Defend,Normal,1023,2012-12-10,2012,MN Samuels,Bangladesh,West Indies,Mirpur,73.7482102,33.1486351
+Pakistan,field,Pakistan,Chase,Normal,1024,2012-12-25,2012,Mohammad Hafeez,India,Pakistan,Bangalore,77.590082,12.9767936
+India,field,Pakistan,Defend,Normal,1025,2012-12-28,2012,Yuvraj Singh,India,Pakistan,Ahmedabad,72.5797068,23.0216238
+Canada,bat,Kenya,Chase,Normal,1026,2013-03-15,2013,Junaid Siddiqui,Canada,Kenya,Dubai,55.2924914,25.2653471
+Kenya,bat,Kenya,Defend,Normal,1027,2013-03-16,2013,CO Obuya,Canada,Kenya,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Afghanistan,Defend,Normal,1028,2013-03-03,2013,Mohammad Shahzad,Afghanistan,Scotland,Sharjah,55.4210633,25.3461498
+Afghanistan,bat,Scotland,Chase,Normal,1029,2013-03-04,2013,Mohammad Shahzad,Afghanistan,Scotland,Sharjah,55.4210633,25.3461498
+Kenya,field,Kenya,Chase,Normal,1030,2013-04-20,2013,None,Kenya,Netherlands,Windhoek,17.0790688,-22.5743922
+West Indies,bat,Zimbabwe,Chase,Normal,1031,2013-03-02,2013,LMP Simmons,West Indies,Zimbabwe,Antigua,-61.790450458055844,17.10371515
+West Indies,bat,West Indies,Defend,Normal,1032,2013-03-03,2013,S Badree,West Indies,Zimbabwe,Antigua,-61.790450458055844,17.10371515
+Sri Lanka,field,Bangladesh,Defend,Normal,1033,2013-03-31,2013,MDKJ Perera,Sri Lanka,Bangladesh,Pallekele,80.6960665,7.2805314
+Zimbabwe,bat,Zimbabwe,Defend,Normal,1034,2013-05-11,2013,H Masakadza,Zimbabwe,Bangladesh,Bulawayo,28.5887063,-20.1560599
+Bangladesh,bat,Bangladesh,Defend,Normal,1035,2013-05-12,2013,Shakib Al Hasan,Zimbabwe,Bangladesh,Bulawayo,28.5887063,-20.1560599
+Kenya,bat,Netherlands,Chase,Normal,1036,2013-04-19,2013,None,Kenya,Netherlands,Windhoek,17.0790688,-22.5743922
+South Africa,bat,South Africa,Defend,Normal,1037,2013-08-02,2013,JP Duminy,Sri Lanka,South Africa,Colombo,79.8541134,6.9387469
+South Africa,bat,South Africa,Defend,Normal,1038,2013-08-04,2013,DA Miller,Sri Lanka,South Africa,Hambantota,81.13126427270001,6.177637
+Sri Lanka,bat,South Africa,Chase,Normal,1039,2013-08-06,2013,TM Dilshan,Sri Lanka,South Africa,Hambantota,81.13126427270001,6.177637
+Australia,bat,Australia,Defend,Normal,1040,2014-01-29,2014,CL White,Australia,England,Hobart,147.3281233,-42.8825088
+Australia,bat,England,Chase,Normal,1041,2014-01-31,2014,JR Hazlewood,Australia,England,Melbourne,144.9631608,-37.8142176
+Australia,bat,Australia,Defend,Normal,1042,2014-02-02,2014,GJ Bailey,Australia,England,Sydney,151.2164539,-33.8548157
+West Indies,bat,West Indies,Defend,Normal,1043,2014-03-09,2014,MN Samuels,West Indies,England,Barbados,-59.5250305,13.1500331
+West Indies,bat,England,Chase,Normal,1044,2014-03-11,2014,K Santokie,West Indies,England,Barbados,-59.5250305,13.1500331
+England,bat,England,Defend,Normal,1045,2014-03-13,2014,CJ Jordan,West Indies,England,Barbados,-59.5250305,13.1500331
+Pakistan,bat,West Indies,Chase,Normal,1046,2013-07-27,2013,Shahid Afridi,West Indies,Pakistan,St Vincent,-0.1492738,43.1614391
+Pakistan,bat,Pakistan,Defend,Normal,1047,2013-07-28,2013,Umar Akmal,West Indies,Pakistan,St Vincent,-0.1492738,43.1614391
+India,field,India,Chase,Normal,1048,2013-10-10,2013,Yuvraj Singh,India,Australia,Rajkot,70.8028377,22.3053263
+Australia,field,Australia,Chase,Normal,1049,2014-03-12,2014,BJ Hodge,South Africa,Australia,Durban,31.009909,-29.861825
+Australia,field,Australia,Chase,Normal,1050,2014-03-14,2014,MA Starc,South Africa,Australia,Centurion,28.180278,-25.836389
+South Africa,bat,Pakistan,Chase,Normal,1051,2013-11-13,2013,DW Steyn,Pakistan,South Africa,Dubai,55.2924914,25.2653471
+South Africa,bat,South Africa,Defend,Normal,1052,2013-11-15,2013,F du Plessis,Pakistan,South Africa,Dubai,55.2924914,25.2653471
+Pakistan,bat,Afghanistan,Chase,Normal,1053,2013-12-08,2013,Mohammad Hafeez,Afghanistan,Pakistan,Sharjah,55.4210633,25.3461498
+Pakistan,field,Pakistan,Chase,Normal,1054,2013-12-11,2013,Shahid Afridi,Pakistan,Sri Lanka,Dubai,55.2924914,25.2653471
+Sri Lanka,field,Pakistan,Defend,Normal,1055,2013-12-13,2013,MDKJ Perera,Pakistan,Sri Lanka,Dubai,55.2924914,25.2653471
+Pakistan,field,Zimbabwe,Defend,Normal,1056,2013-08-23,2013,Ahmed Shehzad,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Pakistan,field,Zimbabwe,Defend,Normal,1057,2013-08-24,2013,Ahmed Shehzad,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Netherlands,bat,Afghanistan,Chase,Normal,1058,2013-11-15,2013,PW Borren,Afghanistan,Netherlands,Sharjah,55.4210633,25.3461498
+Ireland,field,Canada,Defend,Normal,1059,2013-11-16,2013,A Bagai,Canada,Ireland,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,bat,Afghanistan,Defend,Normal,1060,2013-11-16,2013,Dawlat Zadran,Afghanistan,Scotland,Sharjah,55.4210633,25.3461498
+Kenya,bat,Kenya,Defend,Normal,1061,2013-11-19,2013,RG Aga,Kenya,Scotland,Dubai,55.2924914,25.2653471
+Scotland,field,Netherlands,Defend,Normal,1062,2013-11-22,2013,RML Taylor,Netherlands,Scotland,Dubai,55.2924914,25.2653471
+Netherlands,bat,Netherlands,Defend,Normal,1063,2013-11-23,2013,Mudassar Bukhari,Kenya,Netherlands,Dubai,55.2924914,25.2653471
+Afghanistan,bat,Afghanistan,Defend,Normal,1064,2013-11-24,2013,Samiullah Shenwari,Afghanistan,Kenya,Sharjah,55.4210633,25.3461498
+Kenya,bat,Kenya,Defend,Normal,1065,2013-11-26,2013,SO Tikolo,Canada,Kenya,Sharjah,55.4210633,25.3461498
+Netherlands,bat,Scotland,Chase,Normal,1066,2013-11-28,2013,W Barresi,Netherlands,Scotland,Abu Dhabi,54.3774014,24.4538352
+Ireland,bat,Ireland,Defend,Normal,1067,2013-11-30,2013,DT Johnston,Afghanistan,Ireland,Abu Dhabi,54.3774014,24.4538352
+New Zealand,bat,New Zealand,Defend,Normal,1068,2014-01-11,2014,L Ronchi,New Zealand,West Indies,Auckland,174.7631803,-36.852095
+New Zealand,bat,West Indies,Chase,Normal,1069,2014-01-15,2014,L Ronchi,New Zealand,West Indies,Wellington,174.7772114,-41.2887953
+Afghanistan,bat,Afghanistan,Defend,Normal,1070,2013-09-30,2013,Hamid Hassan,Afghanistan,Kenya,Sharjah,55.4210633,25.3461498
+Kenya,bat,Kenya,Defend,Normal,1071,2013-10-11,2013,None,Afghanistan,Kenya,Sharjah,55.4210633,25.3461498
+England,bat,England,Defend,Normal,1072,2014-09-07,2014,EJG Morgan,England,India,Birmingham,-1.9026911,52.4796992
+Sri Lanka,field,England,Defend,Normal,1073,2014-05-20,2014,NLTC Perera,England,Sri Lanka,London,-0.1276474,51.5073219
+New Zealand,bat,New Zealand,Defend,Normal,1074,2013-11-06,2013,C Munro,Bangladesh,New Zealand,Mirpur,73.7482102,33.1486351
+Sri Lanka,field,Sri Lanka,Chase,Normal,1075,2013-11-21,2013,MDKJ Perera,Sri Lanka,New Zealand,Pallekele,80.6960665,7.2805314
+Bangladesh,field,Bangladesh,Chase,Normal,1076,2014-03-16,2014,Shakib Al Hasan,Bangladesh,Afghanistan,Mirpur,73.7482102,33.1486351
+Nepal,field,Hong Kong,Defend,Normal,1077,2014-03-16,2014,SP Gauchan,Hong Kong,Nepal,Chittagong,91.8260479,22.3364709
+Ireland,field,Ireland,Chase,Normal,1078,2014-03-17,2014,PR Stirling,Ireland,Zimbabwe,Sylhet,91.71773617004385,24.59107805
+Netherlands,bat,United Arab Emirates,Chase,Normal,1079,2014-03-17,2014,TLW Cooper,Netherlands,United Arab Emirates,Sylhet,91.71773617004385,24.59107805
+Afghanistan,bat,Hong Kong,Chase,Normal,1080,2014-03-18,2014,Mohammad Shahzad,Afghanistan,Hong Kong,Chittagong,91.8260479,22.3364709
+Bangladesh,field,Bangladesh,Chase,Normal,1081,2014-03-18,2014,Al-Amin Hossain,Bangladesh,Nepal,Chittagong,91.8260479,22.3364709
+Zimbabwe,bat,Netherlands,Chase,Normal,1082,2014-03-19,2014,BRM Taylor,Netherlands,Zimbabwe,Sylhet,91.71773617004385,24.59107805
+Ireland,field,Ireland,Defend,D/L,1083,2014-03-19,2014,EC Joyce,Ireland,United Arab Emirates,Sylhet,91.71773617004385,24.59107805
+Nepal,field,Afghanistan,Defend,Normal,1084,2014-03-20,2014,JK Mukhiya,Afghanistan,Nepal,Chittagong,91.8260479,22.3364709
+Hong Kong,field,Hong Kong,Chase,Normal,1085,2014-03-20,2014,Nadeem Ahmed,Bangladesh,Hong Kong,Chittagong,91.8260479,22.3364709
+Zimbabwe,field,Zimbabwe,Chase,Normal,1086,2014-03-21,2014,E Chigumbura,United Arab Emirates,Zimbabwe,Sylhet,91.71773617004385,24.59107805
+Netherlands,field,Netherlands,Chase,Normal,1087,2014-03-21,2014,SJ Myburgh,Ireland,Netherlands,Sylhet,91.71773617004385,24.59107805
+India,field,India,Chase,Normal,1088,2014-03-21,2014,A Mishra,India,Pakistan,Mirpur,73.7482102,33.1486351
+Sri Lanka,bat,Sri Lanka,Defend,Normal,1089,2014-03-22,2014,MDKJ Perera,South Africa,Sri Lanka,Chittagong,91.8260479,22.3364709
+New Zealand,field,New Zealand,Defend,D/L,1090,2014-03-22,2014,CJ Anderson,England,New Zealand,Chattogram,91.8260479,22.3364709
+Pakistan,field,Australia,Defend,Normal,1091,2014-03-23,2014,Umar Akmal,Australia,Pakistan,Mirpur,73.7482102,33.1486351
+India,field,India,Chase,Normal,1092,2014-03-23,2014,A Mishra,India,West Indies,Mirpur,73.7482102,33.1486351
+South Africa,field,New Zealand,Defend,Normal,1093,2014-03-24,2014,JP Duminy,New Zealand,South Africa,Chittagong,91.8260479,22.3364709
+Sri Lanka,field,Sri Lanka,Chase,Normal,1094,2014-03-24,2014,AD Mathews,Netherlands,Sri Lanka,Chittagong,91.8260479,22.3364709
+West Indies,field,Bangladesh,Defend,Normal,1095,2014-03-25,2014,DR Smith,Bangladesh,West Indies,Mirpur,73.7482102,33.1486351
+South Africa,field,Netherlands,Defend,Normal,1096,2014-03-27,2014,Imran Tahir,Netherlands,South Africa,Chittagong,91.8260479,22.3364709
+England,field,England,Chase,Normal,1097,2014-03-27,2014,AD Hales,England,Sri Lanka,Chittagong,91.8260479,22.3364709
+West Indies,bat,Australia,Chase,Normal,1098,2014-03-28,2014,DJG Sammy,Australia,West Indies,Mirpur,73.7482102,33.1486351
+India,field,India,Chase,Normal,1099,2014-03-28,2014,R Ashwin,Bangladesh,India,Mirpur,73.7482102,33.1486351
+New Zealand,field,New Zealand,Chase,Normal,1100,2014-03-29,2014,BB McCullum,Netherlands,New Zealand,Chittagong,91.8260479,22.3364709
+South Africa,field,England,Defend,Normal,1101,2014-03-29,2014,AB de Villiers,England,South Africa,Chittagong,91.8260479,22.3364709
+Pakistan,bat,Pakistan,Defend,Normal,1102,2014-03-30,2014,Ahmed Shehzad,Bangladesh,Pakistan,Mirpur,73.7482102,33.1486351
+India,field,Australia,Defend,Normal,1103,2014-03-30,2014,R Ashwin,Australia,India,Mirpur,73.7482102,33.1486351
+Netherlands,field,England,Defend,Normal,1104,2014-03-31,2014,Mudassar Bukhari,England,Netherlands,Chittagong,91.8260479,22.3364709
+Sri Lanka,field,New Zealand,Defend,Normal,1105,2014-03-31,2014,HMRKB Herath,New Zealand,Sri Lanka,Chittagong,91.8260479,22.3364709
+Australia,bat,Bangladesh,Chase,Normal,1106,2014-04-01,2014,AJ Finch,Bangladesh,Australia,Mirpur,73.7482102,33.1486351
+West Indies,bat,West Indies,Defend,Normal,1107,2014-04-01,2014,DJ Bravo,Pakistan,West Indies,Mirpur,73.7482102,33.1486351
+Sri Lanka,bat,Sri Lanka,Defend,D/L,1108,2014-04-03,2014,AD Mathews,Sri Lanka,West Indies,Mirpur,73.7482102,33.1486351
+India,bat,South Africa,Chase,Normal,1109,2014-04-04,2014,V Kohli,India,South Africa,Mirpur,73.7482102,33.1486351
+Sri Lanka,field,Sri Lanka,Chase,Normal,1110,2014-04-06,2014,KC Sangakkara,India,Sri Lanka,Mirpur,73.7482102,33.1486351
+South Africa,field,Pakistan,Defend,D/L,1111,2013-11-20,2013,Q de Kock,South Africa,Pakistan,Johannesburg,28.049722,-26.205
+Pakistan,bat,Pakistan,Defend,Normal,1112,2013-11-22,2013,Mohammad Hafeez,South Africa,Pakistan,Cape Town,18.417396,-33.928992
+Sri Lanka,field,Bangladesh,Defend,Normal,1113,2014-02-12,2014,MDKJ Perera,Bangladesh,Sri Lanka,Chittagong,91.8260479,22.3364709
+Sri Lanka,bat,Bangladesh,Chase,Normal,1114,2014-02-14,2014,NLTC Perera,Bangladesh,Sri Lanka,Chittagong,91.8260479,22.3364709
+Ireland,bat,West Indies,Chase,Normal,1115,2014-02-19,2014,EC Joyce,West Indies,Ireland,Jamaica,-77.3947693,18.1850507
+West Indies,field,Ireland,Defend,Normal,1116,2014-02-21,2014,DJG Sammy,West Indies,Ireland,Jamaica,-77.3947693,18.1850507
+West Indies,bat,South Africa,Chase,Normal,1117,2015-01-09,2015,CH Gayle,South Africa,West Indies,Cape Town,18.417396,-33.928992
+West Indies,field,West Indies,Chase,Normal,1118,2015-01-11,2015,CH Gayle,South Africa,West Indies,Johannesburg,28.049722,-26.205
+Australia,bat,Pakistan,Chase,Normal,1119,2014-10-05,2014,GJ Maxwell,Australia,Pakistan,Dubai,55.2924914,25.2653471
+New Zealand,field,New Zealand,Defend,D/L,1120,2014-07-05,2014,ADS Fletcher,West Indies,New Zealand,Dominica,-70.3028026,19.0974031
+West Indies,field,New Zealand,Defend,Normal,1121,2014-07-06,2014,ADS Fletcher,West Indies,New Zealand,Dominica,-70.3028026,19.0974031
+Tied,bat,Bangladesh,Chase,Normal,1122,2014-08-27,2014,None,West Indies,Bangladesh,St Kitts,-62.74468058526273,17.31569295
+South Africa,field,West Indies,Defend,Normal,1123,2015-01-14,2015,MN van Wyk,South Africa,West Indies,Durban,31.009909,-29.861825
+Pakistan,field,Pakistan,Chase,Normal,1124,2014-12-04,2014,Sarfraz Ahmed,New Zealand,Pakistan,Dubai,55.2924914,25.2653471
+England,bat,England,Defend,Normal,1125,2015-06-23,2015,JE Root,England,New Zealand,Manchester,-2.2451148,53.4794892
+England,field,Australia,Defend,Normal,1126,2015-08-31,2015,MM Ali,England,Australia,Cardiff,-3.1791934,51.4816546
+New Zealand,field,Pakistan,Defend,Normal,1127,2014-12-05,2014,AP Devcich,New Zealand,Pakistan,Dubai,55.2924914,25.2653471
+South Africa,bat,Australia,Chase,Normal,1128,2014-11-05,2014,RR Rossouw,Australia,South Africa,Adelaide,138.5999312,-34.9281805
+Australia,bat,South Africa,Chase,Normal,1129,2014-11-07,2014,CJ Boyce,Australia,South Africa,Melbourne,144.9631608,-37.8142176
+Australia,field,Australia,Chase,Normal,1130,2014-11-09,2014,CL White,Australia,South Africa,Sydney,151.2164539,-33.8548157
+South Africa,field,South Africa,Chase,Normal,1131,2016-02-19,2016,Imran Tahir,South Africa,England,Cape Town,18.417396,-33.928992
+South Africa,field,South Africa,Chase,Normal,1132,2016-02-21,2016,AB de Villiers,South Africa,England,Johannesburg,28.049722,-26.205
+Hong Kong,field,Hong Kong,Chase,Normal,1133,2014-11-24,2014,Aizaz Khan,Hong Kong,Nepal,Colombo,79.8541134,6.9387469
+South Africa,bat,South Africa,Defend,Normal,1134,2015-07-05,2015,F du Plessis,Bangladesh,South Africa,Mirpur,73.7482102,33.1486351
+South Africa,bat,South Africa,Defend,Normal,1135,2015-07-07,2015,E Leie,Bangladesh,South Africa,Mirpur,73.7482102,33.1486351
+South Africa,field,South Africa,Chase,Normal,1136,2015-08-14,2015,AM Phangiso,South Africa,New Zealand,Durban,31.009909,-29.861825
+New Zealand,bat,New Zealand,Defend,Normal,1137,2015-08-16,2015,MJ Guptill,South Africa,New Zealand,Centurion,28.180278,-25.836389
+Bangladesh,bat,Pakistan,Chase,Normal,1138,2015-04-24,2015,Sabbir Rahman,Bangladesh,Pakistan,Mirpur,73.7482102,33.1486351
+Pakistan,bat,Pakistan,Defend,Normal,1139,2015-07-30,2015,Sohail Tanvir,Sri Lanka,Pakistan,Colombo,79.8541134,6.9387469
+Pakistan,bat,Sri Lanka,Chase,Normal,1140,2015-08-01,2015,Anwar Ali,Sri Lanka,Pakistan,Colombo,79.8541134,6.9387469
+Pakistan,bat,Zimbabwe,Chase,Normal,1141,2015-05-22,2015,Mukhtar Ahmed,Pakistan,Zimbabwe,Lahore,74.3141829,31.5656822
+Pakistan,bat,Zimbabwe,Chase,Normal,1142,2015-05-24,2015,Mukhtar Ahmed,Pakistan,Zimbabwe,Lahore,74.3141829,31.5656822
+Scotland,field,Scotland,Chase,Normal,1143,2015-07-09,2015,HG Munsey,Scotland,United Arab Emirates,Edinburgh,-3.1883749,55.9533456
+Afghanistan,field,Netherlands,Defend,Normal,1144,2015-07-09,2015,Sharafuddin Ashraf,Afghanistan,Netherlands,Edinburgh,-3.1883749,55.9533456
+Afghanistan,bat,United Arab Emirates,Chase,Normal,1145,2015-07-10,2015,Mohammad Shahzad,Afghanistan,United Arab Emirates,Edinburgh,-3.1883749,55.9533456
+Netherlands,bat,Netherlands,Defend,Normal,1146,2015-07-11,2015,AC Evans,Scotland,Netherlands,Edinburgh,-3.1883749,55.9533456
+Netherlands,field,Netherlands,Chase,Normal,1147,2015-07-12,2015,RE van der Merwe,Netherlands,United Arab Emirates,Edinburgh,-3.1883749,55.9533456
+Afghanistan,bat,Afghanistan,Defend,Normal,1148,2015-07-12,2015,Mohammad Shahzad,Scotland,Afghanistan,Edinburgh,-3.1883749,55.9533456
+Ireland,field,Ireland,Chase,Normal,1149,2015-07-13,2015,KJ O'Brien,Nepal,Ireland,Belfast,-5.9301829,54.596391
+Papua New Guinea,bat,Ireland,Chase,Normal,1150,2015-07-15,2015,N Vanua,Ireland,Papua New Guinea,Belfast,-5.9301829,54.596391
+Hong Kong,field,Hong Kong,Chase,Normal,1151,2015-07-15,2015,Haseeb Amjad,Hong Kong,Nepal,Belfast,-5.9301829,54.596391
+Papua New Guinea,field,Papua New Guinea,Chase,Normal,1152,2015-07-17,2015,A Vala,Nepal,Papua New Guinea,Dublin,-6.2602732,53.3497645
+Hong Kong,field,Ireland,Defend,Normal,1153,2015-07-17,2015,Irfan Ahmed,Ireland,Hong Kong,Dublin,-6.2602732,53.3497645
+Hong Kong,bat,Afghanistan,Chase,Normal,1154,2015-07-21,2015,Nawroz Mangal,Afghanistan,Hong Kong,Dublin,-6.2602732,53.3497645
+Afghanistan,bat,Papua New Guinea,Chase,Normal,1155,2015-07-23,2015,Nawroz Mangal,Afghanistan,Papua New Guinea,Dublin,-6.2602732,53.3497645
+Scotland,field,Scotland,Chase,Normal,1156,2015-07-25,2015,RML Taylor,Hong Kong,Scotland,Dublin,-6.2602732,53.3497645
+Afghanistan,field,Afghanistan,Chase,Normal,1157,2015-07-25,2015,Najibullah Zadran,Afghanistan,Oman,Dublin,-6.2602732,53.3497645
+Netherlands,field,Netherlands,Chase,Normal,1158,2015-07-25,2015,Mudassar Bukhari,Ireland,Netherlands,Dublin,-6.2602732,53.3497645
+Netherlands,field,Nepal,Defend,Normal,1159,2015-07-01,2015,None,Netherlands,Nepal,Amstelveen,4.8467875,52.3025582
+Netherlands,bat,Netherlands,Defend,Normal,1160,2015-07-02,2015,None,Netherlands,Nepal,Rotterdam,4.47775,51.9244424
+South Africa,bat,Australia,Chase,Normal,1161,2016-03-04,2016,DA Miller,South Africa,Australia,Durban,31.009909,-29.861825
+Australia,field,Australia,Chase,Normal,1162,2016-03-06,2016,DA Warner,South Africa,Australia,Johannesburg,28.049722,-26.205
+Australia,bat,South Africa,Chase,Normal,1163,2016-03-09,2016,HM Amla,South Africa,Australia,Cape Town,18.417396,-33.928992
+India,bat,India,Defend,Normal,1164,2015-07-17,2015,AR Patel,Zimbabwe,India,Harare,31.045686,-17.831773
+Zimbabwe,bat,Zimbabwe,Defend,Normal,1165,2015-07-19,2015,CJ Chibhabha,Zimbabwe,India,Harare,31.045686,-17.831773
+Scotland,field,Scotland,Chase,Normal,1166,2015-06-20,2015,None,Ireland,Scotland,Londonderry,-7.3213056,54.9978678
+India,field,Australia,Defend,Normal,1167,2016-01-26,2016,V Kohli,Australia,India,Adelaide,138.5999312,-34.9281805
+India,field,Australia,Defend,Normal,1168,2016-01-29,2016,V Kohli,Australia,India,Melbourne,144.9631608,-37.8142176
+India,bat,Australia,Chase,Normal,1169,2016-01-31,2016,SR Watson,Australia,India,Sydney,151.2164539,-33.8548157
+England,bat,England,Defend,Normal,1170,2015-11-26,2015,SW Billings,England,Pakistan,Dubai,55.2924914,25.2653471
+England,bat,England,Defend,Normal,1171,2015-11-27,2015,LE Plunkett,England,Pakistan,Dubai,55.2924914,25.2653471
+Tied,bat,England,Chase,Normal,1172,2015-11-30,2015,Shoaib Malik,England,Pakistan,Sharjah,55.4210633,25.3461498
+South Africa,field,South Africa,Chase,Normal,1173,2015-10-02,2015,JP Duminy,India,South Africa,Dharmasala,86.13189603173399,20.7494923
+South Africa,field,South Africa,Chase,Normal,1174,2015-10-05,2015,JA Morkel,India,South Africa,Cuttack,85.8792,20.4686
+England,bat,Sri Lanka,Chase,Normal,1175,2016-07-05,2016,JC Buttler,England,Sri Lanka,Southampton,-1.404189,50.9025349
+Pakistan,bat,England,Chase,Normal,1176,2016-09-07,2016,Wahab Riaz,England,Pakistan,Manchester,-2.2451148,53.4794892
+New Zealand,field,Sri Lanka,Defend,Normal,1177,2016-01-07,2016,TA Boult,New Zealand,Sri Lanka,Mount Maunganui,176.1838841,-37.6380218
+New Zealand,field,New Zealand,Chase,Normal,1178,2016-01-10,2016,C Munro,New Zealand,Sri Lanka,Auckland,174.7631803,-36.852095
+Pakistan,field,New Zealand,Defend,Normal,1179,2016-01-15,2016,Shahid Afridi,New Zealand,Pakistan,Auckland,174.7631803,-36.852095
+New Zealand,bat,Pakistan,Chase,Normal,1180,2016-01-17,2016,MJ Guptill,New Zealand,Pakistan,Hamilton,-79.8728583,43.2560802
+New Zealand,field,Pakistan,Defend,Normal,1181,2016-01-22,2016,CJ Anderson,New Zealand,Pakistan,Wellington,174.7772114,-41.2887953
+Sri Lanka,field,West Indies,Defend,Normal,1182,2015-11-09,2015,SMSM Senanayake,Sri Lanka,West Indies,Pallekele,80.6960665,7.2805314
+West Indies,bat,West Indies,Defend,Normal,1183,2015-11-11,2015,DJ Bravo,Sri Lanka,West Indies,Colombo,79.8541134,6.9387469
+Pakistan,bat,Pakistan,Defend,Normal,1184,2015-09-27,2015,Imad Wasim,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Pakistan,bat,Pakistan,Defend,Normal,1185,2015-09-29,2015,Umar Akmal,Zimbabwe,Pakistan,Harare,31.045686,-17.831773
+Afghanistan,bat,Zimbabwe,Chase,Normal,1186,2015-10-26,2015,Dawlat Zadran,Zimbabwe,Afghanistan,Bulawayo,28.5887063,-20.1560599
+Afghanistan,bat,Zimbabwe,Chase,Normal,1187,2015-10-28,2015,Gulbadin Naib,Zimbabwe,Afghanistan,Bulawayo,28.5887063,-20.1560599
+United Arab Emirates,field,United Arab Emirates,Chase,Normal,1188,2015-11-22,2015,None,United Arab Emirates,Oman,Abu Dhabi,54.3774014,24.4538352
+Oman,field,Oman,Chase,Normal,1189,2015-11-21,2015,None,Hong Kong,Oman,Abu Dhabi,54.3774014,24.4538352
+Oman,field,Hong Kong,Defend,Normal,1190,2015-11-25,2015,None,Hong Kong,Oman,Abu Dhabi,54.3774014,24.4538352
+Hong Kong,field,Hong Kong,Chase,Normal,1191,2015-11-26,2015,None,Hong Kong,Oman,Abu Dhabi,54.3774014,24.4538352
+Afghanistan,field,Oman,Defend,Normal,1192,2015-11-30,2015,None,Afghanistan,Oman,Abu Dhabi,54.3774014,24.4538352
+Bangladesh,field,Bangladesh,Chase,Normal,1193,2015-11-13,2015,MN Waller,Bangladesh,Zimbabwe,Mirpur,73.7482102,33.1486351
+Zimbabwe,bat,Bangladesh,Chase,Normal,1194,2015-11-15,2015,N Madziva,Bangladesh,Zimbabwe,Mirpur,73.7482102,33.1486351
+South Africa,field,Sri Lanka,Defend,Normal,1195,2017-01-20,2017,L Ngidi,South Africa,Sri Lanka,Centurion,28.180278,-25.836389
+Sri Lanka,bat,South Africa,Chase,Normal,1196,2017-01-22,2017,AD Mathews,South Africa,Sri Lanka,Johannesburg,28.049722,-26.205
+Sri Lanka,bat,South Africa,Chase,Normal,1197,2017-01-25,2017,N Dickwella,South Africa,Sri Lanka,Cape Town,18.417396,-33.928992
+Zimbabwe,field,Hong Kong,Defend,Normal,1198,2016-03-08,2016,V Sibanda,Hong Kong,Zimbabwe,Nagpur,79.0820556,21.1498134
+Afghanistan,bat,Afghanistan,Defend,Normal,1199,2016-03-08,2016,Mohammad Shahzad,Afghanistan,Scotland,Nagpur,79.0820556,21.1498134
+Bangladesh,field,Netherlands,Defend,Normal,1200,2016-03-09,2016,Tamim Iqbal,Bangladesh,Netherlands,Dharamsala,76.3196717,32.2143039
+Oman,bat,Ireland,Chase,Normal,1201,2016-03-09,2016,Amir Ali,Ireland,Oman,Dharamsala,76.3196717,32.2143039
+Zimbabwe,bat,Zimbabwe,Defend,Normal,1202,2016-03-10,2016,WP Masakadza,Scotland,Zimbabwe,Nagpur,79.0820556,21.1498134
+Afghanistan,bat,Hong Kong,Chase,Normal,1203,2016-03-10,2016,Mohammad Nabi,Afghanistan,Hong Kong,Nagpur,79.0820556,21.1498134
+Tied,field,Ireland,Chase,Normal,1204,2016-03-11,2016,None,Bangladesh,Ireland,Dharamsala,76.3196717,32.2143039
+Afghanistan,bat,Afghanistan,Defend,Normal,1205,2016-03-12,2016,Mohammad Nabi,Afghanistan,Zimbabwe,Nagpur,79.0820556,21.1498134
+Scotland,bat,Hong Kong,Chase,D/L,1206,2016-03-12,2016,MW Machan,Hong Kong,Scotland,Nagpur,79.0820556,21.1498134
+Netherlands,field,Ireland,Defend,Normal,1207,2016-03-13,2016,PA van Meekeren,Ireland,Netherlands,Dharamsala,76.3196717,32.2143039
+Bangladesh,field,Oman,Defend,D/L,1208,2016-03-13,2016,Tamim Iqbal,Bangladesh,Oman,Dharamsala,76.3196717,32.2143039
+New Zealand,bat,New Zealand,Defend,Normal,1209,2016-03-15,2016,MJ Santner,India,New Zealand,Nagpur,79.0820556,21.1498134
+West Indies,field,West Indies,Chase,Normal,1210,2016-03-16,2016,CH Gayle,England,West Indies,Mumbai,72.8773928,19.0759899
+Pakistan,bat,Pakistan,Defend,Normal,1211,2016-03-16,2016,Shahid Afridi,Bangladesh,Pakistan,Kolkata,88.35769124388872,22.5414185
+Sri Lanka,bat,Afghanistan,Chase,Normal,1212,2016-03-17,2016,TM Dilshan,Afghanistan,Sri Lanka,Kolkata,88.35769124388872,22.5414185
+New Zealand,bat,New Zealand,Defend,Normal,1213,2016-03-18,2016,MJ McClenaghan,Australia,New Zealand,Dharamsala,76.3196717,32.2143039
+England,field,England,Chase,Normal,1214,2016-03-18,2016,JE Root,England,South Africa,Mumbai,72.8773928,19.0759899
+India,field,India,Chase,Normal,1215,2016-03-19,2016,V Kohli,India,Pakistan,Kolkata,88.35769124388872,22.5414185
+South Africa,bat,South Africa,Defend,Normal,1216,2016-03-20,2016,CH Morris,Afghanistan,South Africa,Mumbai,72.8773928,19.0759899
+West Indies,field,West Indies,Chase,Normal,1217,2016-03-20,2016,ADS Fletcher,Sri Lanka,West Indies,Bangalore,77.590082,12.9767936
+Australia,field,Australia,Chase,Normal,1218,2016-03-21,2016,A Zampa,Australia,Bangladesh,Bangalore,77.590082,12.9767936
+New Zealand,bat,New Zealand,Defend,Normal,1219,2016-03-22,2016,MJ Guptill,New Zealand,Pakistan,Chandigarh,76.7797143,30.7334421
+England,bat,England,Defend,Normal,1220,2016-03-23,2016,MM Ali,Afghanistan,England,Delhi,77.2219388,28.6517178
+India,field,Bangladesh,Defend,Normal,1221,2016-03-23,2016,R Ashwin,India,Bangladesh,Bangalore,77.590082,12.9767936
+Australia,bat,Australia,Defend,Normal,1222,2016-03-25,2016,JP Faulkner,Australia,Pakistan,Chandigarh,76.7797143,30.7334421
+West Indies,field,West Indies,Chase,Normal,1223,2016-03-25,2016,MN Samuels,South Africa,West Indies,Nagpur,79.0820556,21.1498134
+New Zealand,bat,New Zealand,Defend,Normal,1224,2016-03-26,2016,KS Williamson,Bangladesh,New Zealand,Kolkata,88.35769124388872,22.5414185
+England,field,Sri Lanka,Defend,Normal,1225,2016-03-26,2016,JC Buttler,England,Sri Lanka,Delhi,77.2219388,28.6517178
+India,bat,Australia,Chase,Normal,1226,2016-03-27,2016,V Kohli,India,Australia,Chandigarh,76.7797143,30.7334421
+Afghanistan,field,West Indies,Defend,Normal,1227,2016-03-27,2016,Najibullah Zadran,Afghanistan,West Indies,Nagpur,79.0820556,21.1498134
+South Africa,field,South Africa,Chase,Normal,1228,2016-03-28,2016,AM Phangiso,South Africa,Sri Lanka,Delhi,77.2219388,28.6517178
+England,field,England,Chase,Normal,1229,2016-03-30,2016,JJ Roy,England,New Zealand,Delhi,77.2219388,28.6517178
+West Indies,field,West Indies,Chase,Normal,1230,2016-03-31,2016,LMP Simmons,India,West Indies,Mumbai,72.8773928,19.0759899
+West Indies,field,West Indies,Chase,Normal,1231,2016-04-03,2016,MN Samuels,England,West Indies,Kolkata,88.35769124388872,22.5414185
+Hong Kong,field,Hong Kong,Chase,Normal,1232,2016-01-30,2016,Babar Hayat,Hong Kong,Scotland,Hong Kong,114.1628131,22.2793278
+Scotland,field,Hong Kong,Defend,Normal,1233,2016-01-31,2016,KJ Coetzer,Hong Kong,Scotland,Hong Kong,114.1628131,22.2793278
+Afghanistan,bat,Afghanistan,Defend,Normal,1234,2016-01-08,2016,Gulbadin Naib,Afghanistan,Zimbabwe,Sharjah,55.4210633,25.3461498
+Afghanistan,field,Zimbabwe,Defend,Normal,1235,2016-01-10,2016,Mohammad Shahzad,Afghanistan,Zimbabwe,Sharjah,55.4210633,25.3461498
+Ireland,field,Papua New Guinea,Defend,D/L,1236,2016-02-07,2016,None,Ireland,Papua New Guinea,Townsville,146.8239537,-19.2569391
+Papua New Guinea,bat,Papua New Guinea,Defend,Normal,1237,2016-02-09,2016,None,Ireland,Papua New Guinea,Townsville,146.8239537,-19.2569391
+Ireland,field,United Arab Emirates,Defend,Normal,1238,2016-02-14,2016,None,United Arab Emirates,Ireland,Abu Dhabi,54.3774014,24.4538352
+United Arab Emirates,bat,United Arab Emirates,Defend,Normal,1239,2016-02-16,2016,None,United Arab Emirates,Ireland,Abu Dhabi,54.3774014,24.4538352
+Bangladesh,bat,Zimbabwe,Chase,Normal,1240,2016-01-15,2016,H Masakadza,Bangladesh,Zimbabwe,Khulna,89.2852741,22.9372087
+Bangladesh,bat,Bangladesh,Defend,Normal,1241,2016-01-17,2016,Sabbir Rahman,Bangladesh,Zimbabwe,Khulna,89.2852741,22.9372087
+Zimbabwe,bat,Zimbabwe,Defend,Normal,1242,2016-01-20,2016,MN Waller,Bangladesh,Zimbabwe,Khulna,89.2852741,22.9372087
+Zimbabwe,bat,Zimbabwe,Defend,Normal,1243,2016-01-22,2016,H Masakadza,Bangladesh,Zimbabwe,Khulna,89.2852741,22.9372087
+Sri Lanka,field,Sri Lanka,Chase,Normal,1244,2016-02-09,2016,CAK Rajitha,India,Sri Lanka,Pune,73.8544541,18.521428
+India,field,Sri Lanka,Defend,Normal,1245,2016-02-12,2016,S Dhawan,India,Sri Lanka,Ranchi,85.3250387,23.3700501
+India,field,India,Chase,Normal,1246,2016-02-14,2016,R Ashwin,India,Sri Lanka,Visakhapatnam,83.3012842,17.7231276
+United Arab Emirates,bat,United Arab Emirates,Defend,Normal,1247,2016-02-04,2016,Amjad Javed,United Arab Emirates,Scotland,Dubai,55.2924914,25.2653471
+United Arab Emirates,bat,United Arab Emirates,Defend,Normal,1248,2016-02-19,2016,None,Afghanistan,United Arab Emirates,Fatullah,90.4757879,23.6503507
+Oman,bat,Oman,Defend,Normal,1249,2016-02-19,2016,None,Hong Kong,Oman,Fatullah,90.4757879,23.6503507
+Afghanistan,bat,Oman,Chase,Normal,1250,2016-02-20,2016,None,Afghanistan,Oman,Fatullah,90.4757879,23.6503507
+United Arab Emirates,bat,Hong Kong,Chase,Normal,1251,2016-02-21,2016,None,Hong Kong,United Arab Emirates,Fatullah,90.4757879,23.6503507
+Afghanistan,field,Hong Kong,Defend,Normal,1252,2016-02-22,2016,Mohammad Nabi,Afghanistan,Hong Kong,Mirpur,73.7482102,33.1486351
+United Arab Emirates,field,Oman,Defend,Normal,1253,2016-02-22,2016,Muhammad Usman,Oman,United Arab Emirates,Mirpur,73.7482102,33.1486351
+India,field,Bangladesh,Defend,Normal,1254,2016-02-24,2016,RG Sharma,India,Bangladesh,Dhaka,90.21930545737357,23.8175925
+Sri Lanka,field,United Arab Emirates,Defend,Normal,1255,2016-02-25,2016,SL Malinga,Sri Lanka,United Arab Emirates,Mirpur,73.7482102,33.1486351
+Bangladesh,field,United Arab Emirates,Defend,Normal,1256,2016-02-26,2016,Mahmudullah,Bangladesh,United Arab Emirates,Mirpur,73.7482102,33.1486351
+India,field,India,Chase,Normal,1257,2016-02-27,2016,V Kohli,India,Pakistan,Mirpur,73.7482102,33.1486351
+Bangladesh,bat,Bangladesh,Defend,Normal,1258,2016-02-28,2016,Sabbir Rahman,Bangladesh,Sri Lanka,Mirpur,73.7482102,33.1486351
+Pakistan,bat,United Arab Emirates,Chase,Normal,1259,2016-02-29,2016,Shoaib Malik,Pakistan,United Arab Emirates,Mirpur,73.7482102,33.1486351
+India,field,India,Chase,Normal,1260,2016-03-01,2016,V Kohli,India,Sri Lanka,Mirpur,73.7482102,33.1486351
+Bangladesh,bat,Pakistan,Chase,Normal,1261,2016-03-02,2016,Soumya Sarkar,Bangladesh,Pakistan,Mirpur,73.7482102,33.1486351
+India,bat,United Arab Emirates,Chase,Normal,1262,2016-03-03,2016,RG Sharma,India,United Arab Emirates,Mirpur,73.7482102,33.1486351
+Pakistan,field,Pakistan,Chase,Normal,1263,2016-03-04,2016,Umar Akmal,Pakistan,Sri Lanka,Mirpur,73.7482102,33.1486351
+India,field,India,Chase,Normal,1264,2016-03-06,2016,S Dhawan,Bangladesh,India,Mirpur,73.7482102,33.1486351
+Netherlands,field,United Arab Emirates,Defend,Normal,1265,2016-02-03,2016,Mudassar Bukhari,United Arab Emirates,Netherlands,Dubai,55.2924914,25.2653471
+Australia,field,Sri Lanka,Defend,Normal,1266,2016-09-06,2016,GJ Maxwell,Sri Lanka,Australia,Pallekele,80.6960665,7.2805314
+Australia,bat,Sri Lanka,Chase,Normal,1267,2016-09-09,2016,GJ Maxwell,Sri Lanka,Australia,Colombo,79.8541134,6.9387469
