@@ -39,7 +39,6 @@ user_menu = st.sidebar.radio(
 
 
 if user_menu=='Overview':
-    st.text("Change Theme from setting/theme to dark for better visibility from right-side icon")
     st.title("Top Statistics")
 
     total_matches = ball_df['Match No'].nunique()
