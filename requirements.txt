@@ -1,6 +1,6 @@
 streamlit
 requests
-base64
+pybase64
 plotly
 PIL
 bs4
