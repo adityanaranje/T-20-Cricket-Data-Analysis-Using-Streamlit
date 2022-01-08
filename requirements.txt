@@ -2,5 +2,5 @@ streamlit
 requests
 pybase64
 plotly
-PIL
 bs4
+Pillow
