@@ -7,19 +7,21 @@ from Mypackage import dataset, helper
 from PIL import Image
 import base64
 
-bg = "static/bg2.jpg"
-bg_ext = "jpg"
-
-st.markdown(
+def add_bg_from_local(image_file):
+    with open(image_file, "rb") as image_file:
+        encoded_string = base64.b64encode(image_file.read())
+    st.markdown(
     f"""
     <style>
-    .reportview-container {{
-        background: url(data:image/{bg_ext};base64,{base64.b64encode(open(bg, "rb").read()).decode()})
+    .stApp {{
+        background-image: url(data:image/{"jpg"};base64,{encoded_string.decode()});
+        background-size: cover
     }}
     </style>
     """,
     unsafe_allow_html=True
-)
+    )
+add_bg_from_local('static/bgg.jpg')
 
 
 
