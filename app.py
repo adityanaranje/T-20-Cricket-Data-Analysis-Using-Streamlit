@@ -32,7 +32,6 @@ ball_df, match_df, summary, city_df = dataset.get_data()
 
 st.sidebar.image(img)
 st.sidebar.title("T20 Cricket Analysis From (2005-2021)")
-st.sidebar.text("By Adity Naranje")
 
 user_menu = st.sidebar.radio(
     'Select Option',
