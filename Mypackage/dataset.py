@@ -3,7 +3,7 @@ import streamlit as st
 from bs4 import BeautifulSoup
 import requests
 
-@st.cache
+@st.cache_data
 def get_data():
     df1 = pd.read_csv('Datasets/Ball_by_ball_data.csv')
     df2 = pd.read_csv('Datasets/Match_data.csv')
@@ -11,7 +11,7 @@ def get_data():
     df4 = pd.read_csv('Datasets/city_df.csv')
     return df1, df2, df3, df4
     
-@st.cache
+@st.cache_data
 def current_df():
     url = "https://www.icc-cricket.com/rankings/mens/team-rankings/t20i"
     req=requests.get(url)
