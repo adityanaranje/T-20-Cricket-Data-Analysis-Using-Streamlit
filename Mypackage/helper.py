@@ -68,7 +68,7 @@ def team_summary(ball_df,match_df, selected_team, opponent_team):
         temp_df = ball_df[(ball_df['Batting Team']==selected_team) & (ball_df['Bowling Team']==opponent_team)]
     total_matches = temp_df['Match No'].nunique()
     if total_matches>0:
-        players = temp_df['Striker'].append(temp_df['Bowler'])
+        players = temp_df['Striker']._append(temp_df['Bowler'])
         total_players = players.nunique()
 
         if opponent_team=='All':
@@ -229,7 +229,7 @@ def yearwise_summary(new_ball_df, match_df, selected_year, selected_team):
 
     total_matches = temp_df1['Match No'].nunique()
     if total_matches>0:
-        players = temp_df1['Striker'].append(temp_df1['Bowler'])
+        players = temp_df1['Striker']._append(temp_df1['Bowler'])
         total_players = players.nunique()
         
         win_per = round((temp_df2[temp_df2['Winner']==selected_team]['Winner'].count()/temp_df2['Winner'].count())*100,2)
