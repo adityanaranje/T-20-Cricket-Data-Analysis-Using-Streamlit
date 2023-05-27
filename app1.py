@@ -46,7 +46,8 @@ if user_menu=='Overview':
     total_matches = ball_df['Match No'].nunique()
     total_teams = ball_df['Batting Team'].nunique()
     total_balls_bowled = len(ball_df)
-    players = list(ball_df['Striker']) + list(ball_df['Bowler'])
+    x = ball_df["Striker"]
+    players = x.append(ball_df['Bowler'])
     total_players = players.nunique()
 
     total_fours = len(ball_df[ball_df['Boundry']==4])
